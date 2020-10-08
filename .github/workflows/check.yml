@@ -5,6 +5,9 @@ on:
     branches:
       - master
       - "!maintenance/lists-update"
+    paths-ignore:
+      - "elixir_list.txt"
+      - "erlang_list.txt"
   pull_request:
     branches:
       - master
@@ -14,6 +17,7 @@ jobs:
   check:
     name: Check
     runs-on: ubuntu-latest
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
 
     strategy:
       matrix:

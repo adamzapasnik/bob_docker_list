@@ -60,13 +60,13 @@ jobs:
       - run: mix compile
 
       - name: Force refresh
-        if: ${{ github.event_name == "workflow_dispatch" }}
+        if: github.event_name == 'workflow_dispatch'
         run: |
           mix refresh erlang --force
           mix refresh elixir --force
 
       - name: Refresh
-        if: ${{ github.event_name != "workflow_dispatch" }}
+        if: github.event_name != 'workflow_dispatch'
         run: |
           mix refresh erlang
           mix refresh elixir

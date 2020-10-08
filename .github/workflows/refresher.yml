@@ -1,0 +1,81 @@
+name: Refresh tag lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    # every hour
+    - cron: "0 * * * *"
+
+jobs:
+  refresher:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        otp: ["23.x"]
+        elixir: ["1.11.x"]
+
+    env:
+      MIX_ENV: prod
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+        with:
+          ref: "master"
+
+      - name: Install OTP and Elixir
+        uses: actions/setup-elixir@v1
+        with:
+          otp-version: ${{matrix.otp}}
+          elixir-version: ${{matrix.elixir}}
+
+      - uses: actions/cache@v2
+        with:
+          path: deps
+          id: deps-cache
+          key: deps-${{ runner.os }}-${{matrix.otp}}-${{matrix.elixir}}-${{ hashFiles(format('{0}{1}', github.workspace, '/mix.lock')) }}
+          restore-keys: |
+            deps-${{ runner.os }}-${{matrix.otp}}-${{matrix.elixir}}-
+
+      - uses: actions/cache@v2
+        with:
+          path: _build/prod
+          id: build-cache
+          key: build-prod-${{ runner.os }}-${{matrix.otp}}-${{matrix.elixir}}-${{ hashFiles(format('{0}{1}', github.workspace, '/mix.lock')) }}
+          restore-keys: |
+            build-prod-${{ runner.os }}-${{matrix.otp}}-${{matrix.elixir}}-
+
+      - run: mix local.rebar --force
+      - run: mix local.hex --force
+
+      - name: Download deps
+        if: steps.cache.deps-cache.cache-hit != 'true'
+        run: mix deps.get
+
+      - name: Compile deps
+        if: steps.cache.build-cache.cache-hit != 'true'
+        run: mix deps.compile
+
+      - run: mix compile
+
+      - name: Force refresh
+        if: ${{ github.event_name == "workflow_dispatch" }}
+        run: |
+          mix refresh erlang --force
+          mix refresh elixir --force
+
+      - name: Refresh
+        if: ${{ github.event_name != "workflow_dispatch" }}
+        run: |
+          mix refresh erlang
+          mix refresh elixir
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: "Auto: Update lists"
+          branch: maintenance/lists-update
+          title: "Auto: New list update"
+          assignees: adamzapasnik
+          delete-branch: true

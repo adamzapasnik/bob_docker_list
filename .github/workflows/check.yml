@@ -52,11 +52,6 @@ jobs:
           restore-keys: |
             build-test-${{ runner.os }}-${{matrix.otp}}-${{matrix.elixir}}-
 
-      - name: Install package managers
-        run: |
-          mix local.rebar --force
-          mix local.hex --force
-
       - name: Download deps
         if: steps.deps-cache.outputs.cache-hit != 'true'
         run: mix deps.get

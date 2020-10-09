@@ -51,11 +51,11 @@ jobs:
       - run: mix local.hex --force
 
       - name: Download deps
-        if: steps.cache.deps-cache.cache-hit != 'true'
+        if: steps.deps-cache.outputs.cache-hit != 'true'
         run: mix deps.get
 
       - name: Compile deps
-        if: steps.cache.build-cache.cache-hit != 'true'
+        if: steps.build-cache.outputs.cache-hit != 'true'
         run: mix deps.compile
 
       - run: mix compile

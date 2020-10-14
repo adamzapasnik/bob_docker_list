@@ -23,9 +23,9 @@ Elixir Tags:
 Clone this repo and:
 
 ```sh
-  cd bob_docker_list
-  mix deps.get
-  mix compile
+cd bob_docker_list
+mix deps.get
+mix compile
 ```
 
 ## Usage

@@ -11,7 +11,7 @@ Elixir Tags:
 ## OS version tables
 
 | Debian   | version | Ubuntu | version |
-| -------- | ------: | ------ | ------: |
+| :------- | ------: | :----- | ------: |
 | Bookworm |      12 | Focal  |      20 |
 | Bullseye |      11 | Bionic |      18 |
 | Buster   |      10 | Xenial |      16 |

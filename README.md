@@ -3,10 +3,10 @@
 This app collects docker tags for Erlang and Elixir repos.
 
 Erlang tags:
-[https://github.com/adamzapasnik/bob_docker_list/erlang_list.txt](https://github.com/adamzapasnik/bob_docker_list/erlang_list.txt)
+[https://raw.githubusercontent.com/adamzapasnik/bob_docker_list/master/erlang_list.txt](https://raw.githubusercontent.com/adamzapasnik/bob_docker_list/master/erlang_list.txt)
 
 Elixir Tags:
-[https://github.com/adamzapasnik/bob_docker_list/elixir_list.txt](https://github.com/adamzapasnik/bob_docker_list/elixir_list.txt)
+[https://raw.githubusercontent.com/adamzapasnik/bob_docker_list/master/elixir_list.txt](https://raw.githubusercontent.com/adamzapasnik/bob_docker_list/master/elixir_list.txt)
 
 ## OS version tables
 

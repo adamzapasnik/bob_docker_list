@@ -10,20 +10,13 @@ Elixir Tags:
 
 ## OS version tables
 
-| Debian   | version |
-| -------- | ------: |
-| Bookworm |      12 |
-| Bullseye |      11 |
-| Buster   |      10 |
-| Stretch  |       9 |
+| Debian   | version | Ubuntu | version |
+| -------- | ------: | ------ | ------: |
+| Bookworm |      12 | Focal  |      20 |
+| Bullseye |      11 | Bionic |      18 |
+| Buster   |      10 | Xenial |      16 |
+| Stretch  |       9 | Trusty |      14 |
 | Jessie   |       8 |
-
-| Ubuntu | version |
-| ------ | ------: |
-| Focal  |      20 |
-| Bionic |      18 |
-| Xenial |      16 |
-| Trusty |      14 |
 
 ## Installation
 

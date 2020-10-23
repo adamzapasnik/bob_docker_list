@@ -69,11 +69,21 @@ jobs:
           mix refresh erlang
           mix refresh elixir
 
+      - name: Commit lists
+        if: github.event_name != 'workflow_dispatch'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add *_list.txt
+          git commit -m "Auto: Update lists"
+          git push
+
       - name: Create Pull Request
+        if: github.event_name == 'workflow_dispatch'
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: "Auto: Update lists"
+          commit-message: "Manual: Update lists"
           branch: maintenance/lists-update
-          title: "Auto: New list update"
+          title: "Manual: New list update"
           assignees: adamzapasnik
           delete-branch: true

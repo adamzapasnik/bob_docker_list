@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    ".editorconfig": true,
+    "**/mix.lock": true,
+    "**/.gitignore": true,
+    ".gitignore": true,
+    "**/.formatter.exs": true,
+    "deps": true,
+    ".elixir_ls": true,
+    "_build": true,
+    ".vscode": true,
+    ".github": true
+  },
+  "explorerExclude.backup": null
+}

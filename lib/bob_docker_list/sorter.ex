@@ -51,4 +51,6 @@ defmodule BobDockerList.Sorter do
   defp os_sorter("bionic" <> ver), do: {18.04, ver}
   defp os_sorter("focal" <> ver), do: {20.04, ver}
   defp os_sorter("groovy" <> ver), do: {20.10, ver}
+
+  defp os_sorter(os), do: raise("Unknown OS #{os}, please add code to handle it")
 end

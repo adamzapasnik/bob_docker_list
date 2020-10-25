@@ -1,4 +1,25 @@
 defmodule BobDockerList.Sorter do
+  # Elixir tags
+  # 1.2.6-erlang-19.1.2-ubuntu-xenial-20200212
+  # 1.2.6-erlang-19.0.3-debian-stretch-20200224
+  # 1.2.6-erlang-19.3.6.9-ubuntu-xenial-20200326
+  # 1.2.6-erlang-19.3.6.9-ubuntu-trusty-20191217
+  # 1.2.6-erlang-19.3.6.9-debian-stretch-20200511
+  # 1.2.6-erlang-19.3.6.9-ubuntu-bionic-20200403
+  # 1.2.6-erlang-19.3.6.9-debian-jessie-20200511
+  # 1.2.6-erlang-19.3.6.9-alpine-3.11.6
+  # 1.2.6-erlang-19.3.6.9-alpine-3.12.0
+
+  # Erlang tags
+  # 23.1.1-ubuntu-focal-20200703
+  # 23.1.1-ubuntu-bionic-20200630
+  # 23.1.1-ubuntu-xenial-20200619
+  # 23.1.1-ubuntu-trusty-20191217
+  # 23.1.1-debian-buster-20200607
+  # 23.1.1-debian-stretch-20200607
+  # 23.1.1-debian-jessie-20200607
+  # 23.1.1-alpine-3.12.0
+
   def sorter(tag) do
     case String.split(tag, "-") do
       # alpine
@@ -25,27 +46,9 @@ defmodule BobDockerList.Sorter do
   defp os_sorter("bookworm" <> ver), do: {12, ver}
 
   # ubuntu
-  defp os_sorter("trusty" <> ver), do: {14, ver}
-  defp os_sorter("xenial" <> ver), do: {16, ver}
-  defp os_sorter("bionic" <> ver), do: {18, ver}
-  defp os_sorter("focal" <> ver), do: {20, ver}
+  defp os_sorter("trusty" <> ver), do: {14.04, ver}
+  defp os_sorter("xenial" <> ver), do: {16.04, ver}
+  defp os_sorter("bionic" <> ver), do: {18.04, ver}
+  defp os_sorter("focal" <> ver), do: {20.04, ver}
+  defp os_sorter("groovy" <> ver), do: {20.10, ver}
 end
-
-# 1.2.6-erlang-19.1.2-ubuntu-xenial-20200212
-# 1.2.6-erlang-19.0.3-debian-stretch-20200224
-# 1.2.6-erlang-19.3.6.9-ubuntu-xenial-20200326
-# 1.2.6-erlang-19.3.6.9-ubuntu-trusty-20191217
-# 1.2.6-erlang-19.3.6.9-debian-stretch-20200511
-# 1.2.6-erlang-19.3.6.9-ubuntu-bionic-20200403
-# 1.2.6-erlang-19.3.6.9-debian-jessie-20200511
-# 1.2.6-erlang-19.3.6.9-alpine-3.11.6
-# 1.2.6-erlang-19.3.6.9-alpine-3.12.0
-
-# 23.1.1-ubuntu-focal-20200703
-# 23.1.1-ubuntu-bionic-20200630
-# 23.1.1-ubuntu-xenial-20200619
-# 23.1.1-ubuntu-trusty-20191217
-# 23.1.1-debian-buster-20200607
-# 23.1.1-debian-stretch-20200607
-# 23.1.1-debian-jessie-20200607
-# 23.1.1-alpine-3.12.0

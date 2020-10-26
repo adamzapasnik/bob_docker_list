@@ -1105,6 +1105,7 @@
 20.3.8.22-debian-jessie-20200511
 20.3.8.22-alpine-3.12.0
 20.3.8.22-alpine-3.11.6
+20.3.8.21-ubuntu-groovy-20201022.1
 20.3.8.21-ubuntu-focal-20200423
 20.3.8.21-ubuntu-bionic-20200403
 20.3.8.21-ubuntu-xenial-20200326
@@ -1114,6 +1115,7 @@
 20.3.8.21-debian-jessie-20200511
 20.3.8.21-alpine-3.12.0
 20.3.8.21-alpine-3.11.6
+20.3.8.20-ubuntu-groovy-20201022.1
 20.3.8.20-ubuntu-focal-20200423
 20.3.8.20-ubuntu-bionic-20200403
 20.3.8.20-ubuntu-xenial-20200326
@@ -1123,6 +1125,7 @@
 20.3.8.20-debian-jessie-20200511
 20.3.8.20-alpine-3.12.0
 20.3.8.20-alpine-3.11.6
+20.3.8.2-ubuntu-groovy-20201022.1
 20.3.8.2-ubuntu-focal-20200423
 20.3.8.2-ubuntu-bionic-20200403
 20.3.8.2-ubuntu-xenial-20200326
@@ -1132,6 +1135,7 @@
 20.3.8.2-debian-jessie-20200511
 20.3.8.2-alpine-3.12.0
 20.3.8.2-alpine-3.11.6
+20.3.8.19-ubuntu-groovy-20201022.1
 20.3.8.19-ubuntu-focal-20200423
 20.3.8.19-ubuntu-bionic-20200403
 20.3.8.19-ubuntu-xenial-20200326
@@ -1141,6 +1145,7 @@
 20.3.8.19-debian-jessie-20200511
 20.3.8.19-alpine-3.12.0
 20.3.8.19-alpine-3.11.6
+20.3.8.18-ubuntu-groovy-20201022.1
 20.3.8.18-ubuntu-focal-20200423
 20.3.8.18-ubuntu-bionic-20200403
 20.3.8.18-ubuntu-xenial-20200326
@@ -1150,6 +1155,7 @@
 20.3.8.18-debian-jessie-20200511
 20.3.8.18-alpine-3.12.0
 20.3.8.18-alpine-3.11.6
+20.3.8.17-ubuntu-groovy-20201022.1
 20.3.8.17-ubuntu-focal-20200423
 20.3.8.17-ubuntu-bionic-20200403
 20.3.8.17-ubuntu-xenial-20200326
@@ -1159,6 +1165,7 @@
 20.3.8.17-debian-jessie-20200511
 20.3.8.17-alpine-3.12.0
 20.3.8.17-alpine-3.11.6
+20.3.8.16-ubuntu-groovy-20201022.1
 20.3.8.16-ubuntu-focal-20200423
 20.3.8.16-ubuntu-bionic-20200403
 20.3.8.16-ubuntu-xenial-20200326
@@ -1168,6 +1175,7 @@
 20.3.8.16-debian-jessie-20200511
 20.3.8.16-alpine-3.12.0
 20.3.8.16-alpine-3.11.6
+20.3.8.15-ubuntu-groovy-20201022.1
 20.3.8.15-ubuntu-focal-20200423
 20.3.8.15-ubuntu-bionic-20200403
 20.3.8.15-ubuntu-xenial-20200326
@@ -1177,6 +1185,7 @@
 20.3.8.15-debian-jessie-20200511
 20.3.8.15-alpine-3.12.0
 20.3.8.15-alpine-3.11.6
+20.3.8.14-ubuntu-groovy-20201022.1
 20.3.8.14-ubuntu-focal-20200423
 20.3.8.14-ubuntu-bionic-20200403
 20.3.8.14-ubuntu-xenial-20200326

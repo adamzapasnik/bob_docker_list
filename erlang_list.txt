@@ -1051,6 +1051,7 @@
 20.3.8.4-debian-jessie-20200511
 20.3.8.4-alpine-3.12.0
 20.3.8.4-alpine-3.11.6
+20.3.8.3-ubuntu-groovy-20201022.1
 20.3.8.3-ubuntu-focal-20200423
 20.3.8.3-ubuntu-bionic-20200403
 20.3.8.3-ubuntu-xenial-20200326
@@ -1060,6 +1061,7 @@
 20.3.8.3-debian-jessie-20200511
 20.3.8.3-alpine-3.12.0
 20.3.8.3-alpine-3.11.6
+20.3.8.26-ubuntu-groovy-20201022.1
 20.3.8.26-ubuntu-focal-20200423
 20.3.8.26-ubuntu-bionic-20200403
 20.3.8.26-ubuntu-xenial-20200326
@@ -1069,6 +1071,7 @@
 20.3.8.26-debian-jessie-20200511
 20.3.8.26-alpine-3.12.0
 20.3.8.26-alpine-3.11.6
+20.3.8.25-ubuntu-groovy-20201022.1
 20.3.8.25-ubuntu-focal-20200423
 20.3.8.25-ubuntu-bionic-20200403
 20.3.8.25-ubuntu-xenial-20200326
@@ -1078,6 +1081,7 @@
 20.3.8.25-debian-jessie-20200511
 20.3.8.25-alpine-3.12.0
 20.3.8.25-alpine-3.11.6
+20.3.8.24-ubuntu-groovy-20201022.1
 20.3.8.24-ubuntu-focal-20200423
 20.3.8.24-ubuntu-bionic-20200403
 20.3.8.24-ubuntu-xenial-20200326
@@ -1096,6 +1100,7 @@
 20.3.8.23-debian-jessie-20200511
 20.3.8.23-alpine-3.12.0
 20.3.8.23-alpine-3.11.6
+20.3.8.22-ubuntu-groovy-20201022.1
 20.3.8.22-ubuntu-focal-20200423
 20.3.8.22-ubuntu-bionic-20200403
 20.3.8.22-ubuntu-xenial-20200326

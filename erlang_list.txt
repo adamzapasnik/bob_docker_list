@@ -64,6 +64,7 @@
 23.0-debian-jessie-20200224
 23.0-alpine-3.12.0
 23.0-alpine-3.11.3
+22.3.4.9-ubuntu-groovy-20201022.1
 22.3.4.9-ubuntu-focal-20200703
 22.3.4.9-ubuntu-bionic-20200630
 22.3.4.9-ubuntu-xenial-20200619
@@ -72,6 +73,7 @@
 22.3.4.9-debian-stretch-20200607
 22.3.4.9-debian-jessie-20200607
 22.3.4.9-alpine-3.12.0
+22.3.4.8-ubuntu-groovy-20201022.1
 22.3.4.8-ubuntu-focal-20200703
 22.3.4.8-ubuntu-bionic-20200630
 22.3.4.8-ubuntu-xenial-20200619
@@ -80,6 +82,7 @@
 22.3.4.8-debian-stretch-20200607
 22.3.4.8-debian-jessie-20200607
 22.3.4.8-alpine-3.12.0
+22.3.4.7-ubuntu-groovy-20201022.1
 22.3.4.7-ubuntu-focal-20200703
 22.3.4.7-ubuntu-bionic-20200630
 22.3.4.7-ubuntu-xenial-20200619
@@ -88,6 +91,7 @@
 22.3.4.7-debian-stretch-20200607
 22.3.4.7-debian-jessie-20200607
 22.3.4.7-alpine-3.12.0
+22.3.4.6-ubuntu-groovy-20201022.1
 22.3.4.6-ubuntu-focal-20200703
 22.3.4.6-ubuntu-bionic-20200630
 22.3.4.6-ubuntu-xenial-20200619
@@ -96,6 +100,7 @@
 22.3.4.6-debian-stretch-20200607
 22.3.4.6-debian-jessie-20200607
 22.3.4.6-alpine-3.12.0
+22.3.4.5-ubuntu-groovy-20201022.1
 22.3.4.5-ubuntu-focal-20200703
 22.3.4.5-ubuntu-bionic-20200630
 22.3.4.5-ubuntu-xenial-20200619
@@ -104,6 +109,7 @@
 22.3.4.5-debian-stretch-20200607
 22.3.4.5-debian-jessie-20200607
 22.3.4.5-alpine-3.12.0
+22.3.4.4-ubuntu-groovy-20201022.1
 22.3.4.4-ubuntu-focal-20200703
 22.3.4.4-ubuntu-bionic-20200630
 22.3.4.4-ubuntu-xenial-20200619
@@ -112,6 +118,7 @@
 22.3.4.4-debian-stretch-20200607
 22.3.4.4-debian-jessie-20200607
 22.3.4.4-alpine-3.12.0
+22.3.4.3-ubuntu-groovy-20201022.1
 22.3.4.3-ubuntu-focal-20200423
 22.3.4.3-ubuntu-bionic-20200403
 22.3.4.3-ubuntu-xenial-20200326
@@ -121,6 +128,7 @@
 22.3.4.3-debian-jessie-20200511
 22.3.4.3-alpine-3.12.0
 22.3.4.3-alpine-3.11.6
+22.3.4.2-ubuntu-groovy-20201022.1
 22.3.4.2-ubuntu-focal-20200423
 22.3.4.2-ubuntu-bionic-20200403
 22.3.4.2-ubuntu-xenial-20200326
@@ -130,6 +138,7 @@
 22.3.4.2-debian-jessie-20200511
 22.3.4.2-alpine-3.12.0
 22.3.4.2-alpine-3.11.6
+22.3.4.12-ubuntu-groovy-20201022.1
 22.3.4.12-ubuntu-focal-20200703
 22.3.4.12-ubuntu-bionic-20200630
 22.3.4.12-ubuntu-xenial-20200619
@@ -216,6 +225,7 @@
 22.3-debian-jessie-20200224
 22.3-alpine-3.12.0
 22.3-alpine-3.11.3
+22.2.8-ubuntu-groovy-20201022.1
 22.2.8-ubuntu-focal-20200423
 22.2.8-ubuntu-bionic-20200219
 22.2.8-ubuntu-xenial-20200212
@@ -226,6 +236,7 @@
 22.2.8-alpine-3.12.0
 22.2.8-alpine-3.11.3
 22.2.8-alpine-3.11.2
+22.2.7-ubuntu-groovy-20201022.1
 22.2.7-ubuntu-focal-20200423
 22.2.7-ubuntu-bionic-20200219
 22.2.7-ubuntu-xenial-20200212
@@ -236,6 +247,7 @@
 22.2.7-alpine-3.12.0
 22.2.7-alpine-3.11.3
 22.2.7-alpine-3.11.2
+22.2.6-ubuntu-groovy-20201022.1
 22.2.6-ubuntu-focal-20200423
 22.2.6-ubuntu-bionic-20200219
 22.2.6-ubuntu-xenial-20200212
@@ -246,6 +258,7 @@
 22.2.6-alpine-3.12.0
 22.2.6-alpine-3.11.3
 22.2.6-alpine-3.11.2
+22.2.5-ubuntu-groovy-20201022.1
 22.2.5-ubuntu-focal-20200423
 22.2.5-ubuntu-bionic-20200219
 22.2.5-ubuntu-xenial-20200212
@@ -256,6 +269,7 @@
 22.2.5-alpine-3.12.0
 22.2.5-alpine-3.11.3
 22.2.5-alpine-3.11.2
+22.2.4-ubuntu-groovy-20201022.1
 22.2.4-ubuntu-focal-20200423
 22.2.4-ubuntu-bionic-20200219
 22.2.4-ubuntu-xenial-20200212
@@ -266,6 +280,7 @@
 22.2.4-alpine-3.12.0
 22.2.4-alpine-3.11.3
 22.2.4-alpine-3.11.2
+22.2.3-ubuntu-groovy-20201022.1
 22.2.3-ubuntu-focal-20200423
 22.2.3-ubuntu-bionic-20200219
 22.2.3-ubuntu-xenial-20200212
@@ -276,6 +291,7 @@
 22.2.3-alpine-3.12.0
 22.2.3-alpine-3.11.3
 22.2.3-alpine-3.11.2
+22.2.2-ubuntu-groovy-20201022.1
 22.2.2-ubuntu-focal-20200423
 22.2.2-ubuntu-bionic-20200219
 22.2.2-ubuntu-xenial-20200212
@@ -286,6 +302,7 @@
 22.2.2-alpine-3.12.0
 22.2.2-alpine-3.11.3
 22.2.2-alpine-3.11.2
+22.2.1-ubuntu-groovy-20201022.1
 22.2.1-ubuntu-focal-20200423
 22.2.1-ubuntu-bionic-20200219
 22.2.1-ubuntu-xenial-20200212
@@ -296,6 +313,7 @@
 22.2.1-alpine-3.12.0
 22.2.1-alpine-3.11.3
 22.2.1-alpine-3.11.2
+22.2-ubuntu-groovy-20201022.1
 22.2-ubuntu-focal-20200423
 22.2-ubuntu-bionic-20200219
 22.2-ubuntu-xenial-20200212
@@ -306,6 +324,7 @@
 22.2-alpine-3.12.0
 22.2-alpine-3.11.3
 22.2-alpine-3.11.2
+22.1.8.1-ubuntu-groovy-20201022.1
 22.1.8.1-ubuntu-focal-20200423
 22.1.8.1-ubuntu-bionic-20200403
 22.1.8.1-ubuntu-xenial-20200326
@@ -315,6 +334,7 @@
 22.1.8.1-debian-jessie-20200511
 22.1.8.1-alpine-3.12.0
 22.1.8.1-alpine-3.11.6
+22.1.8-ubuntu-groovy-20201022.1
 22.1.8-ubuntu-focal-20200423
 22.1.8-ubuntu-bionic-20200219
 22.1.8-ubuntu-xenial-20200212
@@ -325,6 +345,7 @@
 22.1.8-alpine-3.12.0
 22.1.8-alpine-3.11.3
 22.1.8-alpine-3.11.2
+22.1.7-ubuntu-groovy-20201022.1
 22.1.7-ubuntu-focal-20200423
 22.1.7-ubuntu-bionic-20200219
 22.1.7-ubuntu-xenial-20200212
@@ -1140,6 +1161,7 @@
 20.3.8.24-debian-jessie-20200511
 20.3.8.24-alpine-3.12.0
 20.3.8.24-alpine-3.11.6
+20.3.8.23-ubuntu-groovy-20201022.1
 20.3.8.23-ubuntu-focal-20200423
 20.3.8.23-ubuntu-bionic-20200403
 20.3.8.23-ubuntu-xenial-20200326

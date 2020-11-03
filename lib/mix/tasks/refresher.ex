@@ -2,7 +2,7 @@ defmodule Mix.Tasks.Refresh do
   use Mix.Task
   require Logger
 
-  @shortdoc "ds"
+  @shortdoc "Refresh list"
 
   def run(args) do
     Application.ensure_all_started(:hackney)
@@ -24,27 +24,32 @@ defmodule Mix.Tasks.Refresh do
         []
       end
 
-    # body = initial_request(lang)
     {downloaded_tags, total_count} =
       lang
       |> docker_url()
       |> fetch_tags(tags, with_count: true)
 
-    if Enum.count(tags) == total_count do
+    downloaded_count = Enum.count(downloaded_tags)
+
+    if downloaded_count != total_count do
+      Logger.error(
+        "Total count is #{total_count} and we downloaded #{downloaded_count}. Please run force refresh to fix this issue."
+      )
+
+      System.stop(1)
+      Process.sleep(:infinity)
+    end
+
+    if downloaded_count == Enum.count(tags) do
       Logger.info("No new tags available for #{lang}")
       System.stop()
       Process.sleep(:infinity)
     end
 
-    # first_page_tags = parse_tags(body)
-
-    # fetch_tags(body["next"], tags, with_count: true)
     list =
       downloaded_tags
-      # |> Enum.concat(first_page_tags)
       |> Enum.concat(tags)
       |> Enum.uniq()
-      |> verify_count(total_count)
       |> Enum.sort_by(&BobDockerList.Sorter.sorter/1, :desc)
       |> Enum.join("\n")
 
@@ -58,28 +63,27 @@ defmodule Mix.Tasks.Refresh do
   end
 
   defp fetch_tags(url, tags, with_count: with_count) do
-    body = dockerhub_request(url)
+    %{"next" => url, "count" => count, "results" => results} = dockerhub_request(url)
 
-    downloaded_tags = parse_tags(body)
-    last = List.last(downloaded_tags)
-    url = body["next"]
+    downloaded_tags = Enum.map(results, & &1["name"])
 
-    tags =
-      if url && !Enum.member?(tags, last) do
-        downloaded_tags ++ fetch_tags(url, tags, with_count: false)
+    new_tags =
+      tags
+      |> Enum.concat(downloaded_tags)
+      |> Enum.uniq()
+
+    all_tags =
+      if url && Enum.count(new_tags) != count do
+        fetch_tags(url, new_tags, with_count: false)
       else
-        downloaded_tags
+        new_tags
       end
 
     if with_count do
-      {tags, body["count"]}
+      {all_tags, count}
     else
-      tags
+      all_tags
     end
-  end
-
-  defp parse_tags(body) do
-    Enum.map(body["results"], & &1["name"])
   end
 
   defp dockerhub_request(url) do
@@ -93,20 +97,5 @@ defmodule Mix.Tasks.Refresh do
 
   defp docker_url(lang) do
     "https://hub.docker.com/v2/repositories/hexpm/#{lang}-amd64/tags?page_size=100"
-  end
-
-  defp verify_count(tags, count) do
-    tags_count = Enum.count(tags)
-
-    if tags_count == count do
-      tags
-    else
-      Logger.error(
-        "Total count is #{count} and we downloaded #{tags_count}. Please run force refresh to fix this issue."
-      )
-
-      System.stop(1)
-      Process.sleep(:infinity)
-    end
   end
 end

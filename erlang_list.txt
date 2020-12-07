@@ -223,6 +223,11 @@
 22.3.4.2-debian-jessie-20200511
 22.3.4.2-alpine-3.12.0
 22.3.4.2-alpine-3.11.6
+22.3.4.13-ubuntu-bionic-20200921
+22.3.4.13-debian-buster-20201012
+22.3.4.13-debian-stretch-20201012
+22.3.4.13-debian-jessie-20201012
+22.3.4.13-alpine-3.12.1
 22.3.4.12-ubuntu-groovy-20201022.1
 22.3.4.12-ubuntu-focal-20200703
 22.3.4.12-ubuntu-bionic-20200630

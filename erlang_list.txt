@@ -1,3 +1,12 @@
+23.2-ubuntu-groovy-20201022.1
+23.2-ubuntu-focal-20201008
+23.2-ubuntu-bionic-20200921
+23.2-ubuntu-xenial-20201014
+23.2-ubuntu-trusty-20191217
+23.2-debian-buster-20201012
+23.2-debian-stretch-20201012
+23.2-debian-jessie-20201012
+23.2-alpine-3.12.1
 23.1.5-ubuntu-groovy-20201022.1
 23.1.5-ubuntu-focal-20201008
 23.1.5-ubuntu-bionic-20200921

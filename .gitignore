@@ -26,3 +26,5 @@ bob_docker_list-*.tar
 /tmp
 
 .elixir_ls/
+
+.vscode/

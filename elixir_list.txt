@@ -710,6 +710,7 @@
 1.11.3-erlang-21.3.8.3-debian-jessie-20200511
 1.11.3-erlang-21.3.8.3-alpine-3.12.0
 1.11.3-erlang-21.3.8.3-alpine-3.11.6
+1.11.3-erlang-21.3.8.21-alpine-3.13.1
 1.11.3-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.11.3-erlang-21.3.8.20-ubuntu-focal-20201008
 1.11.3-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -1951,6 +1952,7 @@
 1.11.2-erlang-21.3.8.3-debian-jessie-20200511
 1.11.2-erlang-21.3.8.3-alpine-3.12.0
 1.11.2-erlang-21.3.8.3-alpine-3.11.6
+1.11.2-erlang-21.3.8.21-alpine-3.13.1
 1.11.2-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.11.2-erlang-21.3.8.20-ubuntu-focal-20201008
 1.11.2-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -3192,6 +3194,7 @@
 1.11.1-erlang-21.3.8.3-debian-jessie-20200511
 1.11.1-erlang-21.3.8.3-alpine-3.12.0
 1.11.1-erlang-21.3.8.3-alpine-3.11.6
+1.11.1-erlang-21.3.8.21-alpine-3.13.1
 1.11.1-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.11.1-erlang-21.3.8.20-ubuntu-focal-20201008
 1.11.1-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -4433,6 +4436,7 @@
 1.11.0-erlang-21.3.8.3-debian-jessie-20200511
 1.11.0-erlang-21.3.8.3-alpine-3.12.0
 1.11.0-erlang-21.3.8.3-alpine-3.11.6
+1.11.0-erlang-21.3.8.21-alpine-3.13.1
 1.11.0-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.11.0-erlang-21.3.8.20-ubuntu-focal-20201008
 1.11.0-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -5674,6 +5678,7 @@
 1.10.4-erlang-21.3.8.3-debian-jessie-20200511
 1.10.4-erlang-21.3.8.3-alpine-3.12.0
 1.10.4-erlang-21.3.8.3-alpine-3.11.6
+1.10.4-erlang-21.3.8.21-alpine-3.13.1
 1.10.4-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.10.4-erlang-21.3.8.20-ubuntu-focal-20201008
 1.10.4-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -6941,6 +6946,7 @@
 1.10.3-erlang-21.3.8.3-debian-jessie-20200511
 1.10.3-erlang-21.3.8.3-alpine-3.12.0
 1.10.3-erlang-21.3.8.3-alpine-3.11.6
+1.10.3-erlang-21.3.8.21-alpine-3.13.1
 1.10.3-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.10.3-erlang-21.3.8.20-ubuntu-focal-20201008
 1.10.3-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -8028,6 +8034,7 @@
 1.10.2-erlang-21.3.8.3-debian-jessie-20200511
 1.10.2-erlang-21.3.8.3-alpine-3.12.0
 1.10.2-erlang-21.3.8.3-alpine-3.11.6
+1.10.2-erlang-21.3.8.21-alpine-3.13.1
 1.10.2-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.10.2-erlang-21.3.8.20-ubuntu-focal-20201008
 1.10.2-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -9115,6 +9122,7 @@
 1.10.1-erlang-21.3.8.3-debian-jessie-20200511
 1.10.1-erlang-21.3.8.3-alpine-3.12.0
 1.10.1-erlang-21.3.8.3-alpine-3.11.6
+1.10.1-erlang-21.3.8.21-alpine-3.13.1
 1.10.1-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.10.1-erlang-21.3.8.20-ubuntu-focal-20201008
 1.10.1-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -10202,6 +10210,7 @@
 1.10.0-erlang-21.3.8.3-debian-jessie-20200511
 1.10.0-erlang-21.3.8.3-alpine-3.12.0
 1.10.0-erlang-21.3.8.3-alpine-3.11.6
+1.10.0-erlang-21.3.8.21-alpine-3.13.1
 1.10.0-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.10.0-erlang-21.3.8.20-ubuntu-focal-20201008
 1.10.0-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -11289,6 +11298,7 @@
 1.9.4-erlang-21.3.8.3-debian-jessie-20200511
 1.9.4-erlang-21.3.8.3-alpine-3.12.0
 1.9.4-erlang-21.3.8.3-alpine-3.11.6
+1.9.4-erlang-21.3.8.21-alpine-3.13.1
 1.9.4-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.9.4-erlang-21.3.8.20-ubuntu-focal-20201008
 1.9.4-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -12974,6 +12984,7 @@
 1.9.3-erlang-21.3.8.3-debian-jessie-20200511
 1.9.3-erlang-21.3.8.3-alpine-3.12.0
 1.9.3-erlang-21.3.8.3-alpine-3.11.6
+1.9.3-erlang-21.3.8.21-alpine-3.13.1
 1.9.3-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.9.3-erlang-21.3.8.20-ubuntu-focal-20201008
 1.9.3-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -14659,6 +14670,7 @@
 1.9.2-erlang-21.3.8.3-debian-jessie-20200511
 1.9.2-erlang-21.3.8.3-alpine-3.12.0
 1.9.2-erlang-21.3.8.3-alpine-3.11.6
+1.9.2-erlang-21.3.8.21-alpine-3.13.1
 1.9.2-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.9.2-erlang-21.3.8.20-ubuntu-focal-20201008
 1.9.2-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -16344,6 +16356,7 @@
 1.9.1-erlang-21.3.8.3-debian-jessie-20200511
 1.9.1-erlang-21.3.8.3-alpine-3.12.0
 1.9.1-erlang-21.3.8.3-alpine-3.11.6
+1.9.1-erlang-21.3.8.21-alpine-3.13.1
 1.9.1-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.9.1-erlang-21.3.8.20-ubuntu-focal-20201008
 1.9.1-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -18029,6 +18042,7 @@
 1.9.0-erlang-21.3.8.3-debian-jessie-20200511
 1.9.0-erlang-21.3.8.3-alpine-3.12.0
 1.9.0-erlang-21.3.8.3-alpine-3.11.6
+1.9.0-erlang-21.3.8.21-alpine-3.13.1
 1.9.0-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.9.0-erlang-21.3.8.20-ubuntu-focal-20201008
 1.9.0-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -19714,6 +19728,7 @@
 1.8.2-erlang-21.3.8.3-debian-jessie-20200511
 1.8.2-erlang-21.3.8.3-alpine-3.12.0
 1.8.2-erlang-21.3.8.3-alpine-3.11.6
+1.8.2-erlang-21.3.8.21-alpine-3.13.1
 1.8.2-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.8.2-erlang-21.3.8.20-ubuntu-focal-20201008
 1.8.2-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -21399,6 +21414,7 @@
 1.8.1-erlang-21.3.8.3-debian-jessie-20200511
 1.8.1-erlang-21.3.8.3-alpine-3.12.0
 1.8.1-erlang-21.3.8.3-alpine-3.11.6
+1.8.1-erlang-21.3.8.21-alpine-3.13.1
 1.8.1-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.8.1-erlang-21.3.8.20-ubuntu-focal-20201008
 1.8.1-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -23084,6 +23100,7 @@
 1.8.0-erlang-21.3.8.3-debian-jessie-20200511
 1.8.0-erlang-21.3.8.3-alpine-3.12.0
 1.8.0-erlang-21.3.8.3-alpine-3.11.6
+1.8.0-erlang-21.3.8.21-alpine-3.13.1
 1.8.0-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.8.0-erlang-21.3.8.20-ubuntu-focal-20201008
 1.8.0-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -24769,6 +24786,7 @@
 1.7.4-erlang-21.3.8.3-debian-jessie-20200511
 1.7.4-erlang-21.3.8.3-alpine-3.12.0
 1.7.4-erlang-21.3.8.3-alpine-3.11.6
+1.7.4-erlang-21.3.8.21-alpine-3.13.1
 1.7.4-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.7.4-erlang-21.3.8.20-ubuntu-focal-20201008
 1.7.4-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -26808,6 +26826,7 @@
 1.7.3-erlang-21.3.8.3-debian-jessie-20200511
 1.7.3-erlang-21.3.8.3-alpine-3.12.0
 1.7.3-erlang-21.3.8.3-alpine-3.11.6
+1.7.3-erlang-21.3.8.21-alpine-3.13.1
 1.7.3-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.7.3-erlang-21.3.8.20-ubuntu-focal-20201008
 1.7.3-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -28847,6 +28866,7 @@
 1.7.2-erlang-21.3.8.3-debian-jessie-20200511
 1.7.2-erlang-21.3.8.3-alpine-3.12.0
 1.7.2-erlang-21.3.8.3-alpine-3.11.6
+1.7.2-erlang-21.3.8.21-alpine-3.13.1
 1.7.2-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.7.2-erlang-21.3.8.20-ubuntu-focal-20201008
 1.7.2-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -30886,6 +30906,7 @@
 1.7.1-erlang-21.3.8.3-debian-jessie-20200511
 1.7.1-erlang-21.3.8.3-alpine-3.12.0
 1.7.1-erlang-21.3.8.3-alpine-3.11.6
+1.7.1-erlang-21.3.8.21-alpine-3.13.1
 1.7.1-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.7.1-erlang-21.3.8.20-ubuntu-focal-20201008
 1.7.1-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -32925,6 +32946,7 @@
 1.7.0-erlang-21.3.8.3-debian-jessie-20200511
 1.7.0-erlang-21.3.8.3-alpine-3.12.0
 1.7.0-erlang-21.3.8.3-alpine-3.11.6
+1.7.0-erlang-21.3.8.21-alpine-3.13.1
 1.7.0-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.7.0-erlang-21.3.8.20-ubuntu-focal-20201008
 1.7.0-erlang-21.3.8.20-ubuntu-bionic-20200921
@@ -34459,6 +34481,7 @@
 1.6.6-erlang-21.3.8.3-debian-jessie-20200511
 1.6.6-erlang-21.3.8.3-alpine-3.12.0
 1.6.6-erlang-21.3.8.3-alpine-3.11.6
+1.6.6-erlang-21.3.8.21-alpine-3.13.1
 1.6.6-erlang-21.3.8.20-ubuntu-groovy-20201022.1
 1.6.6-erlang-21.3.8.20-ubuntu-focal-20201008
 1.6.6-erlang-21.3.8.20-ubuntu-bionic-20200921

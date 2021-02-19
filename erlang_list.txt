@@ -785,6 +785,7 @@
 21.3.8.3-debian-jessie-20200511
 21.3.8.3-alpine-3.12.0
 21.3.8.3-alpine-3.11.6
+21.3.8.21-alpine-3.13.1
 21.3.8.20-ubuntu-groovy-20201022.1
 21.3.8.20-ubuntu-focal-20201008
 21.3.8.20-ubuntu-bionic-20200921

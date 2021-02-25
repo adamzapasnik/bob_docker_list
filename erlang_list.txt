@@ -1,3 +1,9 @@
+23.2.6-ubuntu-focal-20210119
+23.2.6-ubuntu-bionic-20210118
+23.2.6-debian-buster-20210208
+23.2.6-debian-stretch-20210208
+23.2.6-debian-jessie-20210208
+23.2.6-alpine-3.13.2
 23.2.5-ubuntu-groovy-20210115
 23.2.5-ubuntu-focal-20210119
 23.2.5-ubuntu-bionic-20210118

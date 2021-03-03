@@ -1,5 +1,7 @@
+23.2.7-ubuntu-groovy-20210115
 23.2.7-ubuntu-focal-20210119
 23.2.7-ubuntu-bionic-20210118
+23.2.7-ubuntu-xenial-20201014
 23.2.7-debian-buster-20210208
 23.2.7-debian-stretch-20210208
 23.2.7-debian-jessie-20210208

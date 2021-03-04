@@ -2,6 +2,7 @@
 23.2.7-ubuntu-focal-20210119
 23.2.7-ubuntu-bionic-20210118
 23.2.7-ubuntu-xenial-20201014
+23.2.7-ubuntu-trusty-20191217
 23.2.7-debian-buster-20210208
 23.2.7-debian-stretch-20210208
 23.2.7-debian-jessie-20210208
@@ -10,6 +11,7 @@
 23.2.6-ubuntu-focal-20210119
 23.2.6-ubuntu-bionic-20210118
 23.2.6-ubuntu-xenial-20201014
+23.2.6-ubuntu-trusty-20191217
 23.2.6-debian-buster-20210208
 23.2.6-debian-stretch-20210208
 23.2.6-debian-jessie-20210208
@@ -18,6 +20,7 @@
 23.2.5-ubuntu-focal-20210119
 23.2.5-ubuntu-bionic-20210118
 23.2.5-ubuntu-xenial-20201014
+23.2.5-ubuntu-trusty-20191217
 23.2.5-debian-buster-20210208
 23.2.5-debian-stretch-20210208
 23.2.5-debian-jessie-20210208
@@ -319,6 +322,7 @@
 22.3.4.16-ubuntu-focal-20210119
 22.3.4.16-ubuntu-bionic-20210118
 22.3.4.16-ubuntu-xenial-20201014
+22.3.4.16-ubuntu-trusty-20191217
 22.3.4.16-debian-buster-20210208
 22.3.4.16-debian-stretch-20210208
 22.3.4.16-debian-jessie-20210208
@@ -819,6 +823,7 @@
 21.3.8.21-ubuntu-focal-20210119
 21.3.8.21-ubuntu-bionic-20210118
 21.3.8.21-ubuntu-xenial-20201014
+21.3.8.21-ubuntu-trusty-20191217
 21.3.8.21-debian-buster-20210208
 21.3.8.21-debian-stretch-20210208
 21.3.8.21-debian-jessie-20210208

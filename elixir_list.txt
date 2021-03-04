@@ -2,6 +2,7 @@
 1.11.3-erlang-23.2.7-ubuntu-focal-20210119
 1.11.3-erlang-23.2.7-ubuntu-bionic-20210118
 1.11.3-erlang-23.2.7-ubuntu-xenial-20201014
+1.11.3-erlang-23.2.7-ubuntu-trusty-20191217
 1.11.3-erlang-23.2.7-debian-buster-20210208
 1.11.3-erlang-23.2.7-debian-stretch-20210208
 1.11.3-erlang-23.2.7-debian-jessie-20210208
@@ -10,6 +11,7 @@
 1.11.3-erlang-23.2.6-ubuntu-focal-20210119
 1.11.3-erlang-23.2.6-ubuntu-bionic-20210118
 1.11.3-erlang-23.2.6-ubuntu-xenial-20201014
+1.11.3-erlang-23.2.6-ubuntu-trusty-20191217
 1.11.3-erlang-23.2.6-debian-buster-20210208
 1.11.3-erlang-23.2.6-debian-stretch-20210208
 1.11.3-erlang-23.2.6-debian-jessie-20210208
@@ -18,6 +20,7 @@
 1.11.3-erlang-23.2.5-ubuntu-focal-20210119
 1.11.3-erlang-23.2.5-ubuntu-bionic-20210118
 1.11.3-erlang-23.2.5-ubuntu-xenial-20201014
+1.11.3-erlang-23.2.5-ubuntu-trusty-20191217
 1.11.3-erlang-23.2.5-debian-buster-20210208
 1.11.3-erlang-23.2.5-debian-stretch-20210208
 1.11.3-erlang-23.2.5-debian-jessie-20210208
@@ -270,6 +273,7 @@
 1.11.3-erlang-22.3.4.16-ubuntu-focal-20210119
 1.11.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.3-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.11.3-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.11.3-erlang-22.3.4.16-debian-buster-20210208
 1.11.3-erlang-22.3.4.16-debian-stretch-20210208
 1.11.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -744,6 +748,7 @@
 1.11.3-erlang-21.3.8.21-ubuntu-focal-20210119
 1.11.3-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.11.3-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.11.3-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.11.3-erlang-21.3.8.21-debian-buster-20210208
 1.11.3-erlang-21.3.8.21-debian-stretch-20210208
 1.11.3-erlang-21.3.8.21-debian-jessie-20210208
@@ -1232,6 +1237,7 @@
 1.11.2-erlang-23.2.7-ubuntu-focal-20210119
 1.11.2-erlang-23.2.7-ubuntu-bionic-20210118
 1.11.2-erlang-23.2.7-ubuntu-xenial-20201014
+1.11.2-erlang-23.2.7-ubuntu-trusty-20191217
 1.11.2-erlang-23.2.7-debian-buster-20210208
 1.11.2-erlang-23.2.7-debian-stretch-20210208
 1.11.2-erlang-23.2.7-debian-jessie-20210208
@@ -1240,6 +1246,7 @@
 1.11.2-erlang-23.2.6-ubuntu-focal-20210119
 1.11.2-erlang-23.2.6-ubuntu-bionic-20210118
 1.11.2-erlang-23.2.6-ubuntu-xenial-20201014
+1.11.2-erlang-23.2.6-ubuntu-trusty-20191217
 1.11.2-erlang-23.2.6-debian-buster-20210208
 1.11.2-erlang-23.2.6-debian-stretch-20210208
 1.11.2-erlang-23.2.6-debian-jessie-20210208
@@ -1248,6 +1255,7 @@
 1.11.2-erlang-23.2.5-ubuntu-focal-20210119
 1.11.2-erlang-23.2.5-ubuntu-bionic-20210118
 1.11.2-erlang-23.2.5-ubuntu-xenial-20201014
+1.11.2-erlang-23.2.5-ubuntu-trusty-20191217
 1.11.2-erlang-23.2.5-debian-buster-20210208
 1.11.2-erlang-23.2.5-debian-stretch-20210208
 1.11.2-erlang-23.2.5-debian-jessie-20210208
@@ -1549,6 +1557,7 @@
 1.11.2-erlang-22.3.4.16-ubuntu-focal-20210119
 1.11.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.2-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.11.2-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.11.2-erlang-22.3.4.16-debian-buster-20210208
 1.11.2-erlang-22.3.4.16-debian-stretch-20210208
 1.11.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -2023,6 +2032,7 @@
 1.11.2-erlang-21.3.8.21-ubuntu-focal-20210119
 1.11.2-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.11.2-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.11.2-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.11.2-erlang-21.3.8.21-debian-buster-20210208
 1.11.2-erlang-21.3.8.21-debian-stretch-20210208
 1.11.2-erlang-21.3.8.21-debian-jessie-20210208
@@ -2511,6 +2521,7 @@
 1.11.1-erlang-23.2.7-ubuntu-focal-20210119
 1.11.1-erlang-23.2.7-ubuntu-bionic-20210118
 1.11.1-erlang-23.2.7-ubuntu-xenial-20201014
+1.11.1-erlang-23.2.7-ubuntu-trusty-20191217
 1.11.1-erlang-23.2.7-debian-buster-20210208
 1.11.1-erlang-23.2.7-debian-stretch-20210208
 1.11.1-erlang-23.2.7-debian-jessie-20210208
@@ -2519,6 +2530,7 @@
 1.11.1-erlang-23.2.6-ubuntu-focal-20210119
 1.11.1-erlang-23.2.6-ubuntu-bionic-20210118
 1.11.1-erlang-23.2.6-ubuntu-xenial-20201014
+1.11.1-erlang-23.2.6-ubuntu-trusty-20191217
 1.11.1-erlang-23.2.6-debian-buster-20210208
 1.11.1-erlang-23.2.6-debian-stretch-20210208
 1.11.1-erlang-23.2.6-debian-jessie-20210208
@@ -2527,6 +2539,7 @@
 1.11.1-erlang-23.2.5-ubuntu-focal-20210119
 1.11.1-erlang-23.2.5-ubuntu-bionic-20210118
 1.11.1-erlang-23.2.5-ubuntu-xenial-20201014
+1.11.1-erlang-23.2.5-ubuntu-trusty-20191217
 1.11.1-erlang-23.2.5-debian-buster-20210208
 1.11.1-erlang-23.2.5-debian-stretch-20210208
 1.11.1-erlang-23.2.5-debian-jessie-20210208
@@ -2828,6 +2841,7 @@
 1.11.1-erlang-22.3.4.16-ubuntu-focal-20210119
 1.11.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.1-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.11.1-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.11.1-erlang-22.3.4.16-debian-buster-20210208
 1.11.1-erlang-22.3.4.16-debian-stretch-20210208
 1.11.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -3302,6 +3316,7 @@
 1.11.1-erlang-21.3.8.21-ubuntu-focal-20210119
 1.11.1-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.11.1-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.11.1-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.11.1-erlang-21.3.8.21-debian-buster-20210208
 1.11.1-erlang-21.3.8.21-debian-stretch-20210208
 1.11.1-erlang-21.3.8.21-debian-jessie-20210208
@@ -3790,6 +3805,7 @@
 1.11.0-erlang-23.2.7-ubuntu-focal-20210119
 1.11.0-erlang-23.2.7-ubuntu-bionic-20210118
 1.11.0-erlang-23.2.7-ubuntu-xenial-20201014
+1.11.0-erlang-23.2.7-ubuntu-trusty-20191217
 1.11.0-erlang-23.2.7-debian-buster-20210208
 1.11.0-erlang-23.2.7-debian-stretch-20210208
 1.11.0-erlang-23.2.7-debian-jessie-20210208
@@ -3798,6 +3814,7 @@
 1.11.0-erlang-23.2.6-ubuntu-focal-20210119
 1.11.0-erlang-23.2.6-ubuntu-bionic-20210118
 1.11.0-erlang-23.2.6-ubuntu-xenial-20201014
+1.11.0-erlang-23.2.6-ubuntu-trusty-20191217
 1.11.0-erlang-23.2.6-debian-buster-20210208
 1.11.0-erlang-23.2.6-debian-stretch-20210208
 1.11.0-erlang-23.2.6-debian-jessie-20210208
@@ -3806,6 +3823,7 @@
 1.11.0-erlang-23.2.5-ubuntu-focal-20210119
 1.11.0-erlang-23.2.5-ubuntu-bionic-20210118
 1.11.0-erlang-23.2.5-ubuntu-xenial-20201014
+1.11.0-erlang-23.2.5-ubuntu-trusty-20191217
 1.11.0-erlang-23.2.5-debian-buster-20210208
 1.11.0-erlang-23.2.5-debian-stretch-20210208
 1.11.0-erlang-23.2.5-debian-jessie-20210208
@@ -4107,6 +4125,7 @@
 1.11.0-erlang-22.3.4.16-ubuntu-focal-20210119
 1.11.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.0-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.11.0-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.11.0-erlang-22.3.4.16-debian-buster-20210208
 1.11.0-erlang-22.3.4.16-debian-stretch-20210208
 1.11.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -4581,6 +4600,7 @@
 1.11.0-erlang-21.3.8.21-ubuntu-focal-20210119
 1.11.0-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.11.0-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.11.0-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.11.0-erlang-21.3.8.21-debian-buster-20210208
 1.11.0-erlang-21.3.8.21-debian-stretch-20210208
 1.11.0-erlang-21.3.8.21-debian-jessie-20210208
@@ -5069,6 +5089,7 @@
 1.10.4-erlang-23.2.7-ubuntu-focal-20210119
 1.10.4-erlang-23.2.7-ubuntu-bionic-20210118
 1.10.4-erlang-23.2.7-ubuntu-xenial-20201014
+1.10.4-erlang-23.2.7-ubuntu-trusty-20191217
 1.10.4-erlang-23.2.7-debian-buster-20210208
 1.10.4-erlang-23.2.7-debian-stretch-20210208
 1.10.4-erlang-23.2.7-debian-jessie-20210208
@@ -5077,6 +5098,7 @@
 1.10.4-erlang-23.2.6-ubuntu-focal-20210119
 1.10.4-erlang-23.2.6-ubuntu-bionic-20210118
 1.10.4-erlang-23.2.6-ubuntu-xenial-20201014
+1.10.4-erlang-23.2.6-ubuntu-trusty-20191217
 1.10.4-erlang-23.2.6-debian-buster-20210208
 1.10.4-erlang-23.2.6-debian-stretch-20210208
 1.10.4-erlang-23.2.6-debian-jessie-20210208
@@ -5085,6 +5107,7 @@
 1.10.4-erlang-23.2.5-ubuntu-focal-20210119
 1.10.4-erlang-23.2.5-ubuntu-bionic-20210118
 1.10.4-erlang-23.2.5-ubuntu-xenial-20201014
+1.10.4-erlang-23.2.5-ubuntu-trusty-20191217
 1.10.4-erlang-23.2.5-debian-buster-20210208
 1.10.4-erlang-23.2.5-debian-stretch-20210208
 1.10.4-erlang-23.2.5-debian-jessie-20210208
@@ -5386,6 +5409,7 @@
 1.10.4-erlang-22.3.4.16-ubuntu-focal-20210119
 1.10.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.4-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.10.4-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.10.4-erlang-22.3.4.16-debian-buster-20210208
 1.10.4-erlang-22.3.4.16-debian-stretch-20210208
 1.10.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -5860,6 +5884,7 @@
 1.10.4-erlang-21.3.8.21-ubuntu-focal-20210119
 1.10.4-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.10.4-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.10.4-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.10.4-erlang-21.3.8.21-debian-buster-20210208
 1.10.4-erlang-21.3.8.21-debian-stretch-20210208
 1.10.4-erlang-21.3.8.21-debian-jessie-20210208
@@ -6348,6 +6373,7 @@
 1.10.3-erlang-23.2.7-ubuntu-focal-20210119
 1.10.3-erlang-23.2.7-ubuntu-bionic-20210118
 1.10.3-erlang-23.2.7-ubuntu-xenial-20201014
+1.10.3-erlang-23.2.7-ubuntu-trusty-20191217
 1.10.3-erlang-23.2.7-debian-buster-20210208
 1.10.3-erlang-23.2.7-debian-stretch-20210208
 1.10.3-erlang-23.2.7-debian-jessie-20210208
@@ -6356,6 +6382,7 @@
 1.10.3-erlang-23.2.6-ubuntu-focal-20210119
 1.10.3-erlang-23.2.6-ubuntu-bionic-20210118
 1.10.3-erlang-23.2.6-ubuntu-xenial-20201014
+1.10.3-erlang-23.2.6-ubuntu-trusty-20191217
 1.10.3-erlang-23.2.6-debian-buster-20210208
 1.10.3-erlang-23.2.6-debian-stretch-20210208
 1.10.3-erlang-23.2.6-debian-jessie-20210208
@@ -6364,6 +6391,7 @@
 1.10.3-erlang-23.2.5-ubuntu-focal-20210119
 1.10.3-erlang-23.2.5-ubuntu-bionic-20210118
 1.10.3-erlang-23.2.5-ubuntu-xenial-20201014
+1.10.3-erlang-23.2.5-ubuntu-trusty-20191217
 1.10.3-erlang-23.2.5-debian-buster-20210208
 1.10.3-erlang-23.2.5-debian-stretch-20210208
 1.10.3-erlang-23.2.5-debian-jessie-20210208
@@ -6665,6 +6693,7 @@
 1.10.3-erlang-22.3.4.16-ubuntu-focal-20210119
 1.10.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.3-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.10.3-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.10.3-erlang-22.3.4.16-debian-buster-20210208
 1.10.3-erlang-22.3.4.16-debian-stretch-20210208
 1.10.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -7165,6 +7194,7 @@
 1.10.3-erlang-21.3.8.21-ubuntu-focal-20210119
 1.10.3-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.10.3-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.10.3-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.10.3-erlang-21.3.8.21-debian-buster-20210208
 1.10.3-erlang-21.3.8.21-debian-stretch-20210208
 1.10.3-erlang-21.3.8.21-debian-jessie-20210208
@@ -7767,6 +7797,7 @@
 1.10.2-erlang-22.3.4.16-ubuntu-focal-20210119
 1.10.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.2-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.10.2-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.10.2-erlang-22.3.4.16-debian-buster-20210208
 1.10.2-erlang-22.3.4.16-debian-stretch-20210208
 1.10.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -8267,6 +8298,7 @@
 1.10.2-erlang-21.3.8.21-ubuntu-focal-20210119
 1.10.2-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.10.2-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.10.2-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.10.2-erlang-21.3.8.21-debian-buster-20210208
 1.10.2-erlang-21.3.8.21-debian-stretch-20210208
 1.10.2-erlang-21.3.8.21-debian-jessie-20210208
@@ -8869,6 +8901,7 @@
 1.10.1-erlang-22.3.4.16-ubuntu-focal-20210119
 1.10.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.1-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.10.1-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.10.1-erlang-22.3.4.16-debian-buster-20210208
 1.10.1-erlang-22.3.4.16-debian-stretch-20210208
 1.10.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -9369,6 +9402,7 @@
 1.10.1-erlang-21.3.8.21-ubuntu-focal-20210119
 1.10.1-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.10.1-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.10.1-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.10.1-erlang-21.3.8.21-debian-buster-20210208
 1.10.1-erlang-21.3.8.21-debian-stretch-20210208
 1.10.1-erlang-21.3.8.21-debian-jessie-20210208
@@ -9971,6 +10005,7 @@
 1.10.0-erlang-22.3.4.16-ubuntu-focal-20210119
 1.10.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.0-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.10.0-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.10.0-erlang-22.3.4.16-debian-buster-20210208
 1.10.0-erlang-22.3.4.16-debian-stretch-20210208
 1.10.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -10471,6 +10506,7 @@
 1.10.0-erlang-21.3.8.21-ubuntu-focal-20210119
 1.10.0-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.10.0-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.10.0-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.10.0-erlang-21.3.8.21-debian-buster-20210208
 1.10.0-erlang-21.3.8.21-debian-stretch-20210208
 1.10.0-erlang-21.3.8.21-debian-jessie-20210208
@@ -11073,6 +11109,7 @@
 1.9.4-erlang-22.3.4.16-ubuntu-focal-20210119
 1.9.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.4-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.9.4-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.9.4-erlang-22.3.4.16-debian-buster-20210208
 1.9.4-erlang-22.3.4.16-debian-stretch-20210208
 1.9.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -11573,6 +11610,7 @@
 1.9.4-erlang-21.3.8.21-ubuntu-focal-20210119
 1.9.4-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.9.4-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.9.4-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.9.4-erlang-21.3.8.21-debian-buster-20210208
 1.9.4-erlang-21.3.8.21-debian-stretch-20210208
 1.9.4-erlang-21.3.8.21-debian-jessie-20210208
@@ -12773,6 +12811,7 @@
 1.9.3-erlang-22.3.4.16-ubuntu-focal-20210119
 1.9.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.3-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.9.3-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.9.3-erlang-22.3.4.16-debian-buster-20210208
 1.9.3-erlang-22.3.4.16-debian-stretch-20210208
 1.9.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -13273,6 +13312,7 @@
 1.9.3-erlang-21.3.8.21-ubuntu-focal-20210119
 1.9.3-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.9.3-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.9.3-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.9.3-erlang-21.3.8.21-debian-buster-20210208
 1.9.3-erlang-21.3.8.21-debian-stretch-20210208
 1.9.3-erlang-21.3.8.21-debian-jessie-20210208
@@ -14473,6 +14513,7 @@
 1.9.2-erlang-22.3.4.16-ubuntu-focal-20210119
 1.9.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.2-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.9.2-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.9.2-erlang-22.3.4.16-debian-buster-20210208
 1.9.2-erlang-22.3.4.16-debian-stretch-20210208
 1.9.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -14973,6 +15014,7 @@
 1.9.2-erlang-21.3.8.21-ubuntu-focal-20210119
 1.9.2-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.9.2-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.9.2-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.9.2-erlang-21.3.8.21-debian-buster-20210208
 1.9.2-erlang-21.3.8.21-debian-stretch-20210208
 1.9.2-erlang-21.3.8.21-debian-jessie-20210208
@@ -16173,6 +16215,7 @@
 1.9.1-erlang-22.3.4.16-ubuntu-focal-20210119
 1.9.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.1-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.9.1-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.9.1-erlang-22.3.4.16-debian-buster-20210208
 1.9.1-erlang-22.3.4.16-debian-stretch-20210208
 1.9.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -16673,6 +16716,7 @@
 1.9.1-erlang-21.3.8.21-ubuntu-focal-20210119
 1.9.1-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.9.1-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.9.1-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.9.1-erlang-21.3.8.21-debian-buster-20210208
 1.9.1-erlang-21.3.8.21-debian-stretch-20210208
 1.9.1-erlang-21.3.8.21-debian-jessie-20210208
@@ -17873,6 +17917,7 @@
 1.9.0-erlang-22.3.4.16-ubuntu-focal-20210119
 1.9.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.0-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.9.0-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.9.0-erlang-22.3.4.16-debian-buster-20210208
 1.9.0-erlang-22.3.4.16-debian-stretch-20210208
 1.9.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -18373,6 +18418,7 @@
 1.9.0-erlang-21.3.8.21-ubuntu-focal-20210119
 1.9.0-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.9.0-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.9.0-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.9.0-erlang-21.3.8.21-debian-buster-20210208
 1.9.0-erlang-21.3.8.21-debian-stretch-20210208
 1.9.0-erlang-21.3.8.21-debian-jessie-20210208
@@ -19573,6 +19619,7 @@
 1.8.2-erlang-22.3.4.16-ubuntu-focal-20210119
 1.8.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.8.2-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.8.2-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.8.2-erlang-22.3.4.16-debian-buster-20210208
 1.8.2-erlang-22.3.4.16-debian-stretch-20210208
 1.8.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -20073,6 +20120,7 @@
 1.8.2-erlang-21.3.8.21-ubuntu-focal-20210119
 1.8.2-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.8.2-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.8.2-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.8.2-erlang-21.3.8.21-debian-buster-20210208
 1.8.2-erlang-21.3.8.21-debian-stretch-20210208
 1.8.2-erlang-21.3.8.21-debian-jessie-20210208
@@ -21273,6 +21321,7 @@
 1.8.1-erlang-22.3.4.16-ubuntu-focal-20210119
 1.8.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.8.1-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.8.1-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.8.1-erlang-22.3.4.16-debian-buster-20210208
 1.8.1-erlang-22.3.4.16-debian-stretch-20210208
 1.8.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -21773,6 +21822,7 @@
 1.8.1-erlang-21.3.8.21-ubuntu-focal-20210119
 1.8.1-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.8.1-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.8.1-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.8.1-erlang-21.3.8.21-debian-buster-20210208
 1.8.1-erlang-21.3.8.21-debian-stretch-20210208
 1.8.1-erlang-21.3.8.21-debian-jessie-20210208
@@ -22973,6 +23023,7 @@
 1.8.0-erlang-22.3.4.16-ubuntu-focal-20210119
 1.8.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.8.0-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.8.0-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.8.0-erlang-22.3.4.16-debian-buster-20210208
 1.8.0-erlang-22.3.4.16-debian-stretch-20210208
 1.8.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -23473,6 +23524,7 @@
 1.8.0-erlang-21.3.8.21-ubuntu-focal-20210119
 1.8.0-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.8.0-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.8.0-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.8.0-erlang-21.3.8.21-debian-buster-20210208
 1.8.0-erlang-21.3.8.21-debian-stretch-20210208
 1.8.0-erlang-21.3.8.21-debian-jessie-20210208
@@ -24673,6 +24725,7 @@
 1.7.4-erlang-22.3.4.16-ubuntu-focal-20210119
 1.7.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.4-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.7.4-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.7.4-erlang-22.3.4.16-debian-buster-20210208
 1.7.4-erlang-22.3.4.16-debian-stretch-20210208
 1.7.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -25173,6 +25226,7 @@
 1.7.4-erlang-21.3.8.21-ubuntu-focal-20210119
 1.7.4-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.7.4-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.7.4-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.7.4-erlang-21.3.8.21-debian-buster-20210208
 1.7.4-erlang-21.3.8.21-debian-stretch-20210208
 1.7.4-erlang-21.3.8.21-debian-jessie-20210208
@@ -26727,6 +26781,7 @@
 1.7.3-erlang-22.3.4.16-ubuntu-focal-20210119
 1.7.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.3-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.7.3-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.7.3-erlang-22.3.4.16-debian-buster-20210208
 1.7.3-erlang-22.3.4.16-debian-stretch-20210208
 1.7.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -27227,6 +27282,7 @@
 1.7.3-erlang-21.3.8.21-ubuntu-focal-20210119
 1.7.3-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.7.3-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.7.3-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.7.3-erlang-21.3.8.21-debian-buster-20210208
 1.7.3-erlang-21.3.8.21-debian-stretch-20210208
 1.7.3-erlang-21.3.8.21-debian-jessie-20210208
@@ -28781,6 +28837,7 @@
 1.7.2-erlang-22.3.4.16-ubuntu-focal-20210119
 1.7.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.2-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.7.2-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.7.2-erlang-22.3.4.16-debian-buster-20210208
 1.7.2-erlang-22.3.4.16-debian-stretch-20210208
 1.7.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -29281,6 +29338,7 @@
 1.7.2-erlang-21.3.8.21-ubuntu-focal-20210119
 1.7.2-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.7.2-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.7.2-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.7.2-erlang-21.3.8.21-debian-buster-20210208
 1.7.2-erlang-21.3.8.21-debian-stretch-20210208
 1.7.2-erlang-21.3.8.21-debian-jessie-20210208
@@ -30835,6 +30893,7 @@
 1.7.1-erlang-22.3.4.16-ubuntu-focal-20210119
 1.7.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.1-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.7.1-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.7.1-erlang-22.3.4.16-debian-buster-20210208
 1.7.1-erlang-22.3.4.16-debian-stretch-20210208
 1.7.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -31335,6 +31394,7 @@
 1.7.1-erlang-21.3.8.21-ubuntu-focal-20210119
 1.7.1-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.7.1-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.7.1-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.7.1-erlang-21.3.8.21-debian-buster-20210208
 1.7.1-erlang-21.3.8.21-debian-stretch-20210208
 1.7.1-erlang-21.3.8.21-debian-jessie-20210208
@@ -32889,6 +32949,7 @@
 1.7.0-erlang-22.3.4.16-ubuntu-focal-20210119
 1.7.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.0-erlang-22.3.4.16-ubuntu-xenial-20201014
+1.7.0-erlang-22.3.4.16-ubuntu-trusty-20191217
 1.7.0-erlang-22.3.4.16-debian-buster-20210208
 1.7.0-erlang-22.3.4.16-debian-stretch-20210208
 1.7.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -33389,6 +33450,7 @@
 1.7.0-erlang-21.3.8.21-ubuntu-focal-20210119
 1.7.0-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.7.0-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.7.0-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.7.0-erlang-21.3.8.21-debian-buster-20210208
 1.7.0-erlang-21.3.8.21-debian-stretch-20210208
 1.7.0-erlang-21.3.8.21-debian-jessie-20210208
@@ -34931,6 +34993,7 @@
 1.6.6-erlang-21.3.8.21-ubuntu-focal-20210119
 1.6.6-erlang-21.3.8.21-ubuntu-bionic-20210118
 1.6.6-erlang-21.3.8.21-ubuntu-xenial-20201014
+1.6.6-erlang-21.3.8.21-ubuntu-trusty-20191217
 1.6.6-erlang-21.3.8.21-debian-buster-20210208
 1.6.6-erlang-21.3.8.21-debian-stretch-20210208
 1.6.6-erlang-21.3.8.21-debian-jessie-20210208

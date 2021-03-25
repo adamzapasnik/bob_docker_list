@@ -1,4 +1,5 @@
 1.11.4-erlang-23.3-ubuntu-focal-20210217
+1.11.4-erlang-23.3-ubuntu-bionic-20210222
 1.11.4-erlang-23.3-ubuntu-xenial-20210114
 1.11.4-erlang-23.3-ubuntu-trusty-20191217
 1.11.4-erlang-23.3-debian-buster-20210208
@@ -1241,6 +1242,7 @@
 1.11.4-erlang-21.0-alpine-3.12.0
 1.11.4-erlang-21.0-alpine-3.11.3
 1.11.3-erlang-23.3-ubuntu-focal-20210217
+1.11.3-erlang-23.3-ubuntu-bionic-20210222
 1.11.3-erlang-23.3-ubuntu-xenial-20210114
 1.11.3-erlang-23.3-ubuntu-trusty-20191217
 1.11.3-erlang-23.3-debian-buster-20210208
@@ -2483,6 +2485,7 @@
 1.11.3-erlang-21.0-alpine-3.12.0
 1.11.3-erlang-21.0-alpine-3.11.3
 1.11.2-erlang-23.3-ubuntu-focal-20210217
+1.11.2-erlang-23.3-ubuntu-bionic-20210222
 1.11.2-erlang-23.3-ubuntu-xenial-20210114
 1.11.2-erlang-23.3-ubuntu-trusty-20191217
 1.11.2-erlang-23.3-debian-buster-20210208
@@ -3774,6 +3777,7 @@
 1.11.2-erlang-21.0-alpine-3.12.0
 1.11.2-erlang-21.0-alpine-3.11.3
 1.11.1-erlang-23.3-ubuntu-focal-20210217
+1.11.1-erlang-23.3-ubuntu-bionic-20210222
 1.11.1-erlang-23.3-ubuntu-xenial-20210114
 1.11.1-erlang-23.3-ubuntu-trusty-20191217
 1.11.1-erlang-23.3-debian-buster-20210208
@@ -5065,6 +5069,7 @@
 1.11.1-erlang-21.0-alpine-3.12.0
 1.11.1-erlang-21.0-alpine-3.11.3
 1.11.0-erlang-23.3-ubuntu-focal-20210217
+1.11.0-erlang-23.3-ubuntu-bionic-20210222
 1.11.0-erlang-23.3-ubuntu-xenial-20210114
 1.11.0-erlang-23.3-ubuntu-trusty-20191217
 1.11.0-erlang-23.3-debian-buster-20210208
@@ -6356,6 +6361,7 @@
 1.11.0-erlang-21.0-alpine-3.12.0
 1.11.0-erlang-21.0-alpine-3.11.3
 1.10.4-erlang-23.3-ubuntu-focal-20210217
+1.10.4-erlang-23.3-ubuntu-bionic-20210222
 1.10.4-erlang-23.3-ubuntu-xenial-20210114
 1.10.4-erlang-23.3-ubuntu-trusty-20191217
 1.10.4-erlang-23.3-debian-buster-20210208
@@ -7647,6 +7653,7 @@
 1.10.4-erlang-21.0-alpine-3.12.0
 1.10.4-erlang-21.0-alpine-3.11.3
 1.10.3-erlang-23.3-ubuntu-focal-20210217
+1.10.3-erlang-23.3-ubuntu-bionic-20210222
 1.10.3-erlang-23.3-ubuntu-xenial-20210114
 1.10.3-erlang-23.3-ubuntu-trusty-20191217
 1.10.3-erlang-23.3-debian-buster-20210208

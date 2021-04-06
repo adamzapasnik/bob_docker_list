@@ -345,6 +345,15 @@
 22.3.4.2-alpine-3.13.1
 22.3.4.2-alpine-3.12.0
 22.3.4.2-alpine-3.11.6
+22.3.4.17-ubuntu-groovy-20210325
+22.3.4.17-ubuntu-focal-20210325
+22.3.4.17-ubuntu-bionic-20210325
+22.3.4.17-ubuntu-xenial-20210114
+22.3.4.17-ubuntu-trusty-20191217
+22.3.4.17-debian-buster-20210326
+22.3.4.17-debian-stretch-20210326
+22.3.4.17-debian-jessie-20210326
+22.3.4.17-alpine-3.13.3
 22.3.4.16-ubuntu-groovy-20210115
 22.3.4.16-ubuntu-focal-20210119
 22.3.4.16-ubuntu-bionic-20210118

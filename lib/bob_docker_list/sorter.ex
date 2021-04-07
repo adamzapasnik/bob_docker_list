@@ -20,37 +20,42 @@ defmodule BobDockerList.Sorter do
   # 23.1.1-debian-jessie-20200607
   # 23.1.1-alpine-3.12.0
 
+  @erlang_tag_regex ~r"^(.+)-(alpine|ubuntu|debian)-([^-]+)-?(.*)$"
+  @elixir_tag_regex ~r"^(.+)-erlang-(.+)-(alpine|ubuntu|debian)-([^-]+)-?(.*)$"
+
   def sorter(tag) do
-    case String.split(tag, "-") do
-      # alpine
-      [erlang_version, os, os_version] ->
-        {erlang_version, os, os_version, 0}
+    IO.inspect(tag)
+    IO.inspect(tag =~ "erlang")
 
-      [erlang_version, os, os_version, os_date] ->
-        {erlang_version, os, os_sorter(os_version), os_date}
+    if tag =~ "erlang" do
+      [elixir_version, erlang_version, os, os_version, os_date] =
+        Regex.run(@elixir_tag_regex, tag, capture: :all_but_first)
 
-      # alpine
-      [elixir_version, "erlang", erlang_version, os, os_version] ->
-        {Version.parse!(elixir_version), erlang_version, os, os_version, 0}
-
-      [elixir_version, "erlang", erlang_version, os, os_version, os_date] ->
-        {Version.parse!(elixir_version), erlang_version, os, os_sorter(os_version), os_date}
+      {Version.parse!(elixir_version), erlang_version, os, os_sorter(os, os_version), os_date}
+    else
+      [erlang_version, os, os_version, os_date] = Regex.run(@erlang_tag_regex, tag, capture: :all_but_first)
+      {erlang_version, os, os_sorter(os, os_version), os_date}
     end
   end
 
+  defp os_sorter("ubuntu", version), do: ubuntu_sorter(version)
+  defp os_sorter("debian", version), do: debian_sorter(version)
+  defp os_sorter("alpine", version), do: version
+  defp os_sorter(os, _), do: raise("Unknown OS #{os}, please add code to handle it")
+
   # debian
-  defp os_sorter("jessie" <> ver), do: {8, ver}
-  defp os_sorter("stretch" <> ver), do: {9, ver}
-  defp os_sorter("buster" <> ver), do: {10, ver}
-  defp os_sorter("bullseye" <> ver), do: {11, ver}
-  defp os_sorter("bookworm" <> ver), do: {12, ver}
+  defp debian_sorter("jessie"), do: 8
+  defp debian_sorter("stretch"), do: 9
+  defp debian_sorter("buster"), do: 10
+  defp debian_sorter("bullseye"), do: 11
+  defp debian_sorter("bookworm"), do: 12
+  defp debian_sorter(version), do: raise("Unknown Debian version #{version}, please add code to handle it")
 
   # ubuntu
-  defp os_sorter("trusty" <> ver), do: {14.04, ver}
-  defp os_sorter("xenial" <> ver), do: {16.04, ver}
-  defp os_sorter("bionic" <> ver), do: {18.04, ver}
-  defp os_sorter("focal" <> ver), do: {20.04, ver}
-  defp os_sorter("groovy" <> ver), do: {20.10, ver}
-
-  defp os_sorter(os), do: raise("Unknown OS #{os}, please add code to handle it")
+  defp ubuntu_sorter("trusty"), do: 14.04
+  defp ubuntu_sorter("xenial"), do: 16.04
+  defp ubuntu_sorter("bionic"), do: 18.04
+  defp ubuntu_sorter("focal"), do: 20.04
+  defp ubuntu_sorter("groovy"), do: 20.10
+  defp ubuntu_sorter(version), do: raise("Unknown Ubuntu version #{version}, please add code to handle it")
 end

@@ -34,8 +34,11 @@
 23.3-debian-stretch-20210208
 23.3-debian-jessie-20210208
 23.3-alpine-3.13.2
+23.2.7.2-ubuntu-groovy-20210325
 23.2.7.2-ubuntu-focal-20210325
 23.2.7.2-ubuntu-bionic-20210325
+23.2.7.2-ubuntu-xenial-20210114
+23.2.7.2-ubuntu-trusty-20191217
 23.2.7.2-debian-buster-20210326
 23.2.7.2-debian-stretch-20210326
 23.2.7.2-debian-jessie-20210326

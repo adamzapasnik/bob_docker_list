@@ -1,3 +1,12 @@
+1.11.4-erlang-24.0-rc3-ubuntu-groovy-20210325
+1.11.4-erlang-24.0-rc3-ubuntu-focal-20210325
+1.11.4-erlang-24.0-rc3-ubuntu-bionic-20210325
+1.11.4-erlang-24.0-rc3-ubuntu-xenial-20210114
+1.11.4-erlang-24.0-rc3-ubuntu-trusty-20191217
+1.11.4-erlang-24.0-rc3-debian-buster-20210326
+1.11.4-erlang-24.0-rc3-debian-stretch-20210326
+1.11.4-erlang-24.0-rc3-debian-jessie-20210326
+1.11.4-erlang-24.0-rc3-alpine-3.13.3
 1.11.4-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.11.4-erlang-24.0-rc2-ubuntu-focal-20210325
 1.11.4-erlang-24.0-rc2-ubuntu-bionic-20210325

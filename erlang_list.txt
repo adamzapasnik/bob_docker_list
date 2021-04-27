@@ -25,6 +25,15 @@
 24.0-rc1-debian-stretch-20210326
 24.0-rc1-debian-jessie-20210326
 24.0-rc1-alpine-3.13.3
+23.3.2-ubuntu-groovy-20210325
+23.3.2-ubuntu-focal-20210325
+23.3.2-ubuntu-bionic-20210325
+23.3.2-ubuntu-xenial-20210114
+23.3.2-ubuntu-trusty-20191217
+23.3.2-debian-buster-20210326
+23.3.2-debian-stretch-20210326
+23.3.2-debian-jessie-20210326
+23.3.2-alpine-3.13.3
 23.3.1-ubuntu-groovy-20210325
 23.3.1-ubuntu-focal-20210325
 23.3.1-ubuntu-bionic-20210325

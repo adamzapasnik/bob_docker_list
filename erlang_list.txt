@@ -52,6 +52,8 @@
 24.0-debian-stretch-20210326
 24.0-debian-jessie-20210326
 24.0-alpine-3.13.3
+23.3.4.3-ubuntu-focal-20210325
+23.3.4.3-alpine-3.13.3
 23.3.4.2-ubuntu-groovy-20210325
 23.3.4.2-ubuntu-focal-20210325
 23.3.4.2-ubuntu-bionic-20210325

@@ -52,6 +52,7 @@
 1.12.1-erlang-24.0-debian-stretch-20210326
 1.12.1-erlang-24.0-debian-jessie-20210326
 1.12.1-erlang-24.0-alpine-3.13.3
+1.12.1-erlang-23.3.4.4-alpine-3.13.3
 1.12.1-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.12.1-erlang-23.3.4.3-ubuntu-focal-20210325
 1.12.1-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -995,6 +996,7 @@
 1.12.0-rc.1-erlang-24.0-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0-debian-jessie-20210326
 1.12.0-rc.1-erlang-24.0-alpine-3.13.3
+1.12.0-rc.1-erlang-23.3.4.4-alpine-3.13.3
 1.12.0-rc.1-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-23.3.4.3-ubuntu-focal-20210325
 1.12.0-rc.1-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -1938,6 +1940,7 @@
 1.12.0-rc.0-erlang-24.0-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0-debian-jessie-20210326
 1.12.0-rc.0-erlang-24.0-alpine-3.13.3
+1.12.0-rc.0-erlang-23.3.4.4-alpine-3.13.3
 1.12.0-rc.0-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-23.3.4.3-ubuntu-focal-20210325
 1.12.0-rc.0-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -2881,6 +2884,7 @@
 1.12.0-erlang-24.0-debian-stretch-20210326
 1.12.0-erlang-24.0-debian-jessie-20210326
 1.12.0-erlang-24.0-alpine-3.13.3
+1.12.0-erlang-23.3.4.4-alpine-3.13.3
 1.12.0-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.12.0-erlang-23.3.4.3-ubuntu-focal-20210325
 1.12.0-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -3824,6 +3828,7 @@
 1.11.4-erlang-24.0-debian-stretch-20210326
 1.11.4-erlang-24.0-debian-jessie-20210326
 1.11.4-erlang-24.0-alpine-3.13.3
+1.11.4-erlang-23.3.4.4-alpine-3.13.3
 1.11.4-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.11.4-erlang-23.3.4.3-ubuntu-focal-20210325
 1.11.4-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -5317,6 +5322,7 @@
 1.11.4-erlang-21.0-alpine-3.13.1
 1.11.4-erlang-21.0-alpine-3.12.0
 1.11.4-erlang-21.0-alpine-3.11.3
+1.11.3-erlang-23.3.4.4-alpine-3.13.3
 1.11.3-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.11.3-erlang-23.3.4.3-ubuntu-focal-20210325
 1.11.3-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -6810,6 +6816,7 @@
 1.11.3-erlang-21.0-alpine-3.13.1
 1.11.3-erlang-21.0-alpine-3.12.0
 1.11.3-erlang-21.0-alpine-3.11.3
+1.11.2-erlang-23.3.4.4-alpine-3.13.3
 1.11.2-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.11.2-erlang-23.3.4.3-ubuntu-focal-20210325
 1.11.2-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -8352,6 +8359,7 @@
 1.11.2-erlang-21.0-alpine-3.13.1
 1.11.2-erlang-21.0-alpine-3.12.0
 1.11.2-erlang-21.0-alpine-3.11.3
+1.11.1-erlang-23.3.4.4-alpine-3.13.3
 1.11.1-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.11.1-erlang-23.3.4.3-ubuntu-focal-20210325
 1.11.1-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -9894,6 +9902,7 @@
 1.11.1-erlang-21.0-alpine-3.13.1
 1.11.1-erlang-21.0-alpine-3.12.0
 1.11.1-erlang-21.0-alpine-3.11.3
+1.11.0-erlang-23.3.4.4-alpine-3.13.3
 1.11.0-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.11.0-erlang-23.3.4.3-ubuntu-focal-20210325
 1.11.0-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -11436,6 +11445,7 @@
 1.11.0-erlang-21.0-alpine-3.13.1
 1.11.0-erlang-21.0-alpine-3.12.0
 1.11.0-erlang-21.0-alpine-3.11.3
+1.10.4-erlang-23.3.4.4-alpine-3.13.3
 1.10.4-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.10.4-erlang-23.3.4.3-ubuntu-focal-20210325
 1.10.4-erlang-23.3.4.3-ubuntu-bionic-20210325
@@ -12978,6 +12988,7 @@
 1.10.4-erlang-21.0-alpine-3.13.1
 1.10.4-erlang-21.0-alpine-3.12.0
 1.10.4-erlang-21.0-alpine-3.11.3
+1.10.3-erlang-23.3.4.4-alpine-3.13.3
 1.10.3-erlang-23.3.4.3-ubuntu-groovy-20210325
 1.10.3-erlang-23.3.4.3-ubuntu-focal-20210325
 1.10.3-erlang-23.3.4.3-ubuntu-bionic-20210325

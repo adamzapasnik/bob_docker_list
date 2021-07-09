@@ -6,6 +6,7 @@
 1.12.2-erlang-24.0.3-debian-buster-20210326
 1.12.2-erlang-24.0.3-debian-stretch-20210326
 1.12.2-erlang-24.0.3-debian-jessie-20210326
+1.12.2-erlang-24.0.3-alpine-3.14.0
 1.12.2-erlang-24.0.3-alpine-3.13.3
 1.12.2-erlang-24.0.2-ubuntu-groovy-20210325
 1.12.2-erlang-24.0.2-ubuntu-focal-20210325
@@ -15,6 +16,7 @@
 1.12.2-erlang-24.0.2-debian-buster-20210326
 1.12.2-erlang-24.0.2-debian-stretch-20210326
 1.12.2-erlang-24.0.2-debian-jessie-20210326
+1.12.2-erlang-24.0.2-alpine-3.14.0
 1.12.2-erlang-24.0.2-alpine-3.13.3
 1.12.2-erlang-24.0.1-ubuntu-groovy-20210325
 1.12.2-erlang-24.0.1-ubuntu-focal-20210325
@@ -24,6 +26,7 @@
 1.12.2-erlang-24.0.1-debian-buster-20210326
 1.12.2-erlang-24.0.1-debian-stretch-20210326
 1.12.2-erlang-24.0.1-debian-jessie-20210326
+1.12.2-erlang-24.0.1-alpine-3.14.0
 1.12.2-erlang-24.0.1-alpine-3.13.3
 1.12.2-erlang-24.0-rc3-ubuntu-groovy-20210325
 1.12.2-erlang-24.0-rc3-ubuntu-focal-20210325
@@ -33,6 +36,7 @@
 1.12.2-erlang-24.0-rc3-debian-buster-20210326
 1.12.2-erlang-24.0-rc3-debian-stretch-20210326
 1.12.2-erlang-24.0-rc3-debian-jessie-20210326
+1.12.2-erlang-24.0-rc3-alpine-3.14.0
 1.12.2-erlang-24.0-rc3-alpine-3.13.3
 1.12.2-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.12.2-erlang-24.0-rc2-ubuntu-focal-20210325
@@ -42,6 +46,7 @@
 1.12.2-erlang-24.0-rc2-debian-buster-20210326
 1.12.2-erlang-24.0-rc2-debian-stretch-20210326
 1.12.2-erlang-24.0-rc2-debian-jessie-20210326
+1.12.2-erlang-24.0-rc2-alpine-3.14.0
 1.12.2-erlang-24.0-rc2-alpine-3.13.3
 1.12.2-erlang-24.0-rc1-ubuntu-groovy-20210325
 1.12.2-erlang-24.0-rc1-ubuntu-focal-20210325
@@ -51,6 +56,7 @@
 1.12.2-erlang-24.0-rc1-debian-buster-20210326
 1.12.2-erlang-24.0-rc1-debian-stretch-20210326
 1.12.2-erlang-24.0-rc1-debian-jessie-20210326
+1.12.2-erlang-24.0-rc1-alpine-3.14.0
 1.12.2-erlang-24.0-rc1-alpine-3.13.3
 1.12.2-erlang-24.0-ubuntu-groovy-20210325
 1.12.2-erlang-24.0-ubuntu-focal-20210325
@@ -989,6 +995,7 @@
 1.12.1-erlang-24.0.3-debian-buster-20210326
 1.12.1-erlang-24.0.3-debian-stretch-20210326
 1.12.1-erlang-24.0.3-debian-jessie-20210326
+1.12.1-erlang-24.0.3-alpine-3.14.0
 1.12.1-erlang-24.0.3-alpine-3.13.3
 1.12.1-erlang-24.0.2-ubuntu-groovy-20210325
 1.12.1-erlang-24.0.2-ubuntu-focal-20210325
@@ -998,6 +1005,7 @@
 1.12.1-erlang-24.0.2-debian-buster-20210326
 1.12.1-erlang-24.0.2-debian-stretch-20210326
 1.12.1-erlang-24.0.2-debian-jessie-20210326
+1.12.1-erlang-24.0.2-alpine-3.14.0
 1.12.1-erlang-24.0.2-alpine-3.13.3
 1.12.1-erlang-24.0.1-ubuntu-groovy-20210325
 1.12.1-erlang-24.0.1-ubuntu-focal-20210325
@@ -1007,6 +1015,7 @@
 1.12.1-erlang-24.0.1-debian-buster-20210326
 1.12.1-erlang-24.0.1-debian-stretch-20210326
 1.12.1-erlang-24.0.1-debian-jessie-20210326
+1.12.1-erlang-24.0.1-alpine-3.14.0
 1.12.1-erlang-24.0.1-alpine-3.13.3
 1.12.1-erlang-24.0-rc3-ubuntu-groovy-20210325
 1.12.1-erlang-24.0-rc3-ubuntu-focal-20210325
@@ -1016,6 +1025,7 @@
 1.12.1-erlang-24.0-rc3-debian-buster-20210326
 1.12.1-erlang-24.0-rc3-debian-stretch-20210326
 1.12.1-erlang-24.0-rc3-debian-jessie-20210326
+1.12.1-erlang-24.0-rc3-alpine-3.14.0
 1.12.1-erlang-24.0-rc3-alpine-3.13.3
 1.12.1-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.12.1-erlang-24.0-rc2-ubuntu-focal-20210325
@@ -1025,6 +1035,7 @@
 1.12.1-erlang-24.0-rc2-debian-buster-20210326
 1.12.1-erlang-24.0-rc2-debian-stretch-20210326
 1.12.1-erlang-24.0-rc2-debian-jessie-20210326
+1.12.1-erlang-24.0-rc2-alpine-3.14.0
 1.12.1-erlang-24.0-rc2-alpine-3.13.3
 1.12.1-erlang-24.0-rc1-ubuntu-groovy-20210325
 1.12.1-erlang-24.0-rc1-ubuntu-focal-20210325
@@ -1034,6 +1045,7 @@
 1.12.1-erlang-24.0-rc1-debian-buster-20210326
 1.12.1-erlang-24.0-rc1-debian-stretch-20210326
 1.12.1-erlang-24.0-rc1-debian-jessie-20210326
+1.12.1-erlang-24.0-rc1-alpine-3.14.0
 1.12.1-erlang-24.0-rc1-alpine-3.13.3
 1.12.1-erlang-24.0-ubuntu-groovy-20210325
 1.12.1-erlang-24.0-ubuntu-focal-20210325
@@ -1972,6 +1984,7 @@
 1.12.0-rc.1-erlang-24.0.3-debian-buster-20210326
 1.12.0-rc.1-erlang-24.0.3-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0.3-debian-jessie-20210326
+1.12.0-rc.1-erlang-24.0.3-alpine-3.14.0
 1.12.0-rc.1-erlang-24.0.3-alpine-3.13.3
 1.12.0-rc.1-erlang-24.0.2-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-24.0.2-ubuntu-focal-20210325
@@ -1981,6 +1994,7 @@
 1.12.0-rc.1-erlang-24.0.2-debian-buster-20210326
 1.12.0-rc.1-erlang-24.0.2-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0.2-debian-jessie-20210326
+1.12.0-rc.1-erlang-24.0.2-alpine-3.14.0
 1.12.0-rc.1-erlang-24.0.2-alpine-3.13.3
 1.12.0-rc.1-erlang-24.0.1-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-24.0.1-ubuntu-focal-20210325
@@ -1990,6 +2004,7 @@
 1.12.0-rc.1-erlang-24.0.1-debian-buster-20210326
 1.12.0-rc.1-erlang-24.0.1-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0.1-debian-jessie-20210326
+1.12.0-rc.1-erlang-24.0.1-alpine-3.14.0
 1.12.0-rc.1-erlang-24.0.1-alpine-3.13.3
 1.12.0-rc.1-erlang-24.0-rc3-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-24.0-rc3-ubuntu-focal-20210325
@@ -1999,6 +2014,7 @@
 1.12.0-rc.1-erlang-24.0-rc3-debian-buster-20210326
 1.12.0-rc.1-erlang-24.0-rc3-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0-rc3-debian-jessie-20210326
+1.12.0-rc.1-erlang-24.0-rc3-alpine-3.14.0
 1.12.0-rc.1-erlang-24.0-rc3-alpine-3.13.3
 1.12.0-rc.1-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-24.0-rc2-ubuntu-focal-20210325
@@ -2008,6 +2024,7 @@
 1.12.0-rc.1-erlang-24.0-rc2-debian-buster-20210326
 1.12.0-rc.1-erlang-24.0-rc2-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0-rc2-debian-jessie-20210326
+1.12.0-rc.1-erlang-24.0-rc2-alpine-3.14.0
 1.12.0-rc.1-erlang-24.0-rc2-alpine-3.13.3
 1.12.0-rc.1-erlang-24.0-rc1-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-24.0-rc1-ubuntu-focal-20210325
@@ -2017,6 +2034,7 @@
 1.12.0-rc.1-erlang-24.0-rc1-debian-buster-20210326
 1.12.0-rc.1-erlang-24.0-rc1-debian-stretch-20210326
 1.12.0-rc.1-erlang-24.0-rc1-debian-jessie-20210326
+1.12.0-rc.1-erlang-24.0-rc1-alpine-3.14.0
 1.12.0-rc.1-erlang-24.0-rc1-alpine-3.13.3
 1.12.0-rc.1-erlang-24.0-ubuntu-groovy-20210325
 1.12.0-rc.1-erlang-24.0-ubuntu-focal-20210325
@@ -2955,6 +2973,7 @@
 1.12.0-rc.0-erlang-24.0.3-debian-buster-20210326
 1.12.0-rc.0-erlang-24.0.3-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0.3-debian-jessie-20210326
+1.12.0-rc.0-erlang-24.0.3-alpine-3.14.0
 1.12.0-rc.0-erlang-24.0.3-alpine-3.13.3
 1.12.0-rc.0-erlang-24.0.2-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-24.0.2-ubuntu-focal-20210325
@@ -2964,6 +2983,7 @@
 1.12.0-rc.0-erlang-24.0.2-debian-buster-20210326
 1.12.0-rc.0-erlang-24.0.2-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0.2-debian-jessie-20210326
+1.12.0-rc.0-erlang-24.0.2-alpine-3.14.0
 1.12.0-rc.0-erlang-24.0.2-alpine-3.13.3
 1.12.0-rc.0-erlang-24.0.1-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-24.0.1-ubuntu-focal-20210325
@@ -2973,6 +2993,7 @@
 1.12.0-rc.0-erlang-24.0.1-debian-buster-20210326
 1.12.0-rc.0-erlang-24.0.1-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0.1-debian-jessie-20210326
+1.12.0-rc.0-erlang-24.0.1-alpine-3.14.0
 1.12.0-rc.0-erlang-24.0.1-alpine-3.13.3
 1.12.0-rc.0-erlang-24.0-rc3-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-24.0-rc3-ubuntu-focal-20210325
@@ -2982,6 +3003,7 @@
 1.12.0-rc.0-erlang-24.0-rc3-debian-buster-20210326
 1.12.0-rc.0-erlang-24.0-rc3-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0-rc3-debian-jessie-20210326
+1.12.0-rc.0-erlang-24.0-rc3-alpine-3.14.0
 1.12.0-rc.0-erlang-24.0-rc3-alpine-3.13.3
 1.12.0-rc.0-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-24.0-rc2-ubuntu-focal-20210325
@@ -2991,6 +3013,7 @@
 1.12.0-rc.0-erlang-24.0-rc2-debian-buster-20210326
 1.12.0-rc.0-erlang-24.0-rc2-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0-rc2-debian-jessie-20210326
+1.12.0-rc.0-erlang-24.0-rc2-alpine-3.14.0
 1.12.0-rc.0-erlang-24.0-rc2-alpine-3.13.3
 1.12.0-rc.0-erlang-24.0-rc1-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-24.0-rc1-ubuntu-focal-20210325
@@ -3000,6 +3023,7 @@
 1.12.0-rc.0-erlang-24.0-rc1-debian-buster-20210326
 1.12.0-rc.0-erlang-24.0-rc1-debian-stretch-20210326
 1.12.0-rc.0-erlang-24.0-rc1-debian-jessie-20210326
+1.12.0-rc.0-erlang-24.0-rc1-alpine-3.14.0
 1.12.0-rc.0-erlang-24.0-rc1-alpine-3.13.3
 1.12.0-rc.0-erlang-24.0-ubuntu-groovy-20210325
 1.12.0-rc.0-erlang-24.0-ubuntu-focal-20210325
@@ -3938,6 +3962,7 @@
 1.12.0-erlang-24.0.3-debian-buster-20210326
 1.12.0-erlang-24.0.3-debian-stretch-20210326
 1.12.0-erlang-24.0.3-debian-jessie-20210326
+1.12.0-erlang-24.0.3-alpine-3.14.0
 1.12.0-erlang-24.0.3-alpine-3.13.3
 1.12.0-erlang-24.0.2-ubuntu-groovy-20210325
 1.12.0-erlang-24.0.2-ubuntu-focal-20210325
@@ -3947,6 +3972,7 @@
 1.12.0-erlang-24.0.2-debian-buster-20210326
 1.12.0-erlang-24.0.2-debian-stretch-20210326
 1.12.0-erlang-24.0.2-debian-jessie-20210326
+1.12.0-erlang-24.0.2-alpine-3.14.0
 1.12.0-erlang-24.0.2-alpine-3.13.3
 1.12.0-erlang-24.0.1-ubuntu-groovy-20210325
 1.12.0-erlang-24.0.1-ubuntu-focal-20210325
@@ -3956,6 +3982,7 @@
 1.12.0-erlang-24.0.1-debian-buster-20210326
 1.12.0-erlang-24.0.1-debian-stretch-20210326
 1.12.0-erlang-24.0.1-debian-jessie-20210326
+1.12.0-erlang-24.0.1-alpine-3.14.0
 1.12.0-erlang-24.0.1-alpine-3.13.3
 1.12.0-erlang-24.0-rc3-ubuntu-groovy-20210325
 1.12.0-erlang-24.0-rc3-ubuntu-focal-20210325
@@ -3965,6 +3992,7 @@
 1.12.0-erlang-24.0-rc3-debian-buster-20210326
 1.12.0-erlang-24.0-rc3-debian-stretch-20210326
 1.12.0-erlang-24.0-rc3-debian-jessie-20210326
+1.12.0-erlang-24.0-rc3-alpine-3.14.0
 1.12.0-erlang-24.0-rc3-alpine-3.13.3
 1.12.0-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.12.0-erlang-24.0-rc2-ubuntu-focal-20210325
@@ -3974,6 +4002,7 @@
 1.12.0-erlang-24.0-rc2-debian-buster-20210326
 1.12.0-erlang-24.0-rc2-debian-stretch-20210326
 1.12.0-erlang-24.0-rc2-debian-jessie-20210326
+1.12.0-erlang-24.0-rc2-alpine-3.14.0
 1.12.0-erlang-24.0-rc2-alpine-3.13.3
 1.12.0-erlang-24.0-rc1-ubuntu-groovy-20210325
 1.12.0-erlang-24.0-rc1-ubuntu-focal-20210325
@@ -3983,6 +4012,7 @@
 1.12.0-erlang-24.0-rc1-debian-buster-20210326
 1.12.0-erlang-24.0-rc1-debian-stretch-20210326
 1.12.0-erlang-24.0-rc1-debian-jessie-20210326
+1.12.0-erlang-24.0-rc1-alpine-3.14.0
 1.12.0-erlang-24.0-rc1-alpine-3.13.3
 1.12.0-erlang-24.0-ubuntu-groovy-20210325
 1.12.0-erlang-24.0-ubuntu-focal-20210325
@@ -4921,6 +4951,7 @@
 1.11.4-erlang-24.0.3-debian-buster-20210326
 1.11.4-erlang-24.0.3-debian-stretch-20210326
 1.11.4-erlang-24.0.3-debian-jessie-20210326
+1.11.4-erlang-24.0.3-alpine-3.14.0
 1.11.4-erlang-24.0.3-alpine-3.13.3
 1.11.4-erlang-24.0.2-ubuntu-groovy-20210325
 1.11.4-erlang-24.0.2-ubuntu-focal-20210325
@@ -4930,6 +4961,7 @@
 1.11.4-erlang-24.0.2-debian-buster-20210326
 1.11.4-erlang-24.0.2-debian-stretch-20210326
 1.11.4-erlang-24.0.2-debian-jessie-20210326
+1.11.4-erlang-24.0.2-alpine-3.14.0
 1.11.4-erlang-24.0.2-alpine-3.13.3
 1.11.4-erlang-24.0.1-ubuntu-groovy-20210325
 1.11.4-erlang-24.0.1-ubuntu-focal-20210325
@@ -4939,6 +4971,7 @@
 1.11.4-erlang-24.0.1-debian-buster-20210326
 1.11.4-erlang-24.0.1-debian-stretch-20210326
 1.11.4-erlang-24.0.1-debian-jessie-20210326
+1.11.4-erlang-24.0.1-alpine-3.14.0
 1.11.4-erlang-24.0.1-alpine-3.13.3
 1.11.4-erlang-24.0-rc3-ubuntu-groovy-20210325
 1.11.4-erlang-24.0-rc3-ubuntu-focal-20210325
@@ -4948,6 +4981,7 @@
 1.11.4-erlang-24.0-rc3-debian-buster-20210326
 1.11.4-erlang-24.0-rc3-debian-stretch-20210326
 1.11.4-erlang-24.0-rc3-debian-jessie-20210326
+1.11.4-erlang-24.0-rc3-alpine-3.14.0
 1.11.4-erlang-24.0-rc3-alpine-3.13.3
 1.11.4-erlang-24.0-rc2-ubuntu-groovy-20210325
 1.11.4-erlang-24.0-rc2-ubuntu-focal-20210325
@@ -4957,6 +4991,7 @@
 1.11.4-erlang-24.0-rc2-debian-buster-20210326
 1.11.4-erlang-24.0-rc2-debian-stretch-20210326
 1.11.4-erlang-24.0-rc2-debian-jessie-20210326
+1.11.4-erlang-24.0-rc2-alpine-3.14.0
 1.11.4-erlang-24.0-rc2-alpine-3.13.3
 1.11.4-erlang-24.0-rc1-ubuntu-groovy-20210325
 1.11.4-erlang-24.0-rc1-ubuntu-focal-20210325
@@ -4966,6 +5001,7 @@
 1.11.4-erlang-24.0-rc1-debian-buster-20210326
 1.11.4-erlang-24.0-rc1-debian-stretch-20210326
 1.11.4-erlang-24.0-rc1-debian-jessie-20210326
+1.11.4-erlang-24.0-rc1-alpine-3.14.0
 1.11.4-erlang-24.0-rc1-alpine-3.13.3
 1.11.4-erlang-24.0-ubuntu-groovy-20210325
 1.11.4-erlang-24.0-ubuntu-focal-20210325

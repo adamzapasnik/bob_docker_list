@@ -6,6 +6,7 @@
 24.0.3-debian-buster-20210326
 24.0.3-debian-stretch-20210326
 24.0.3-debian-jessie-20210326
+24.0.3-alpine-3.14.0
 24.0.3-alpine-3.13.3
 24.0.2-ubuntu-groovy-20210325
 24.0.2-ubuntu-focal-20210325
@@ -15,6 +16,7 @@
 24.0.2-debian-buster-20210326
 24.0.2-debian-stretch-20210326
 24.0.2-debian-jessie-20210326
+24.0.2-alpine-3.14.0
 24.0.2-alpine-3.13.3
 24.0.1-ubuntu-groovy-20210325
 24.0.1-ubuntu-focal-20210325
@@ -24,6 +26,7 @@
 24.0.1-debian-buster-20210326
 24.0.1-debian-stretch-20210326
 24.0.1-debian-jessie-20210326
+24.0.1-alpine-3.14.0
 24.0.1-alpine-3.13.3
 24.0-rc3-ubuntu-groovy-20210325
 24.0-rc3-ubuntu-focal-20210325
@@ -33,6 +36,7 @@
 24.0-rc3-debian-buster-20210326
 24.0-rc3-debian-stretch-20210326
 24.0-rc3-debian-jessie-20210326
+24.0-rc3-alpine-3.14.0
 24.0-rc3-alpine-3.13.3
 24.0-rc2-ubuntu-groovy-20210325
 24.0-rc2-ubuntu-focal-20210325
@@ -42,6 +46,7 @@
 24.0-rc2-debian-buster-20210326
 24.0-rc2-debian-stretch-20210326
 24.0-rc2-debian-jessie-20210326
+24.0-rc2-alpine-3.14.0
 24.0-rc2-alpine-3.13.3
 24.0-rc1-ubuntu-groovy-20210325
 24.0-rc1-ubuntu-focal-20210325
@@ -51,6 +56,7 @@
 24.0-rc1-debian-buster-20210326
 24.0-rc1-debian-stretch-20210326
 24.0-rc1-debian-jessie-20210326
+24.0-rc1-alpine-3.14.0
 24.0-rc1-alpine-3.13.3
 24.0-ubuntu-groovy-20210325
 24.0-ubuntu-focal-20210325

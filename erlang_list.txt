@@ -573,6 +573,7 @@
 22.3.4.6-ubuntu-bionic-20200630
 22.3.4.6-ubuntu-xenial-20200619
 22.3.4.6-ubuntu-trusty-20191217
+22.3.4.6-debian-bullseye-20210902
 22.3.4.6-debian-buster-20200607
 22.3.4.6-debian-stretch-20200607
 22.3.4.6-debian-jessie-20200607
@@ -583,6 +584,7 @@
 22.3.4.5-ubuntu-bionic-20200630
 22.3.4.5-ubuntu-xenial-20200619
 22.3.4.5-ubuntu-trusty-20191217
+22.3.4.5-debian-bullseye-20210902
 22.3.4.5-debian-buster-20200607
 22.3.4.5-debian-stretch-20200607
 22.3.4.5-debian-jessie-20200607
@@ -593,6 +595,7 @@
 22.3.4.4-ubuntu-bionic-20200630
 22.3.4.4-ubuntu-xenial-20200619
 22.3.4.4-ubuntu-trusty-20191217
+22.3.4.4-debian-bullseye-20210902
 22.3.4.4-debian-buster-20200607
 22.3.4.4-debian-stretch-20200607
 22.3.4.4-debian-jessie-20200607
@@ -603,6 +606,7 @@
 22.3.4.3-ubuntu-bionic-20200403
 22.3.4.3-ubuntu-xenial-20200326
 22.3.4.3-ubuntu-trusty-20191217
+22.3.4.3-debian-bullseye-20210902
 22.3.4.3-debian-buster-20200511
 22.3.4.3-debian-stretch-20200511
 22.3.4.3-debian-jessie-20200511
@@ -614,6 +618,7 @@
 22.3.4.21-ubuntu-bionic-20210325
 22.3.4.21-ubuntu-xenial-20210114
 22.3.4.21-ubuntu-trusty-20191217
+22.3.4.21-debian-bullseye-20210902
 22.3.4.21-debian-buster-20210326
 22.3.4.21-debian-stretch-20210326
 22.3.4.21-debian-jessie-20210326
@@ -623,6 +628,7 @@
 22.3.4.20-ubuntu-bionic-20210325
 22.3.4.20-ubuntu-xenial-20210114
 22.3.4.20-ubuntu-trusty-20191217
+22.3.4.20-debian-bullseye-20210902
 22.3.4.20-debian-buster-20210326
 22.3.4.20-debian-stretch-20210326
 22.3.4.20-debian-jessie-20210326
@@ -633,6 +639,7 @@
 22.3.4.2-ubuntu-bionic-20200403
 22.3.4.2-ubuntu-xenial-20200326
 22.3.4.2-ubuntu-trusty-20191217
+22.3.4.2-debian-bullseye-20210902
 22.3.4.2-debian-buster-20200511
 22.3.4.2-debian-stretch-20200511
 22.3.4.2-debian-jessie-20200511
@@ -644,6 +651,7 @@
 22.3.4.19-ubuntu-bionic-20210325
 22.3.4.19-ubuntu-xenial-20210114
 22.3.4.19-ubuntu-trusty-20191217
+22.3.4.19-debian-bullseye-20210902
 22.3.4.19-debian-buster-20210326
 22.3.4.19-debian-stretch-20210326
 22.3.4.19-debian-jessie-20210326
@@ -654,6 +662,7 @@
 22.3.4.18-ubuntu-bionic-20210325
 22.3.4.18-ubuntu-xenial-20210114
 22.3.4.18-ubuntu-trusty-20191217
+22.3.4.18-debian-bullseye-20210902
 22.3.4.18-debian-buster-20210326
 22.3.4.18-debian-stretch-20210326
 22.3.4.18-debian-jessie-20210326
@@ -663,6 +672,7 @@
 22.3.4.17-ubuntu-bionic-20210325
 22.3.4.17-ubuntu-xenial-20210114
 22.3.4.17-ubuntu-trusty-20191217
+22.3.4.17-debian-bullseye-20210902
 22.3.4.17-debian-buster-20210326
 22.3.4.17-debian-stretch-20210326
 22.3.4.17-debian-jessie-20210326
@@ -672,6 +682,7 @@
 22.3.4.16-ubuntu-bionic-20210118
 22.3.4.16-ubuntu-xenial-20201014
 22.3.4.16-ubuntu-trusty-20191217
+22.3.4.16-debian-bullseye-20210902
 22.3.4.16-debian-buster-20210208
 22.3.4.16-debian-stretch-20210208
 22.3.4.16-debian-jessie-20210208
@@ -681,6 +692,7 @@
 22.3.4.15-ubuntu-bionic-20200921
 22.3.4.15-ubuntu-xenial-20201014
 22.3.4.15-ubuntu-trusty-20191217
+22.3.4.15-debian-bullseye-20210902
 22.3.4.15-debian-buster-20201012
 22.3.4.15-debian-stretch-20201012
 22.3.4.15-debian-jessie-20201012
@@ -691,6 +703,7 @@
 22.3.4.14-ubuntu-bionic-20200921
 22.3.4.14-ubuntu-xenial-20201014
 22.3.4.14-ubuntu-trusty-20191217
+22.3.4.14-debian-bullseye-20210902
 22.3.4.14-debian-buster-20201012
 22.3.4.14-debian-stretch-20201012
 22.3.4.14-debian-jessie-20201012
@@ -701,6 +714,7 @@
 22.3.4.13-ubuntu-bionic-20200921
 22.3.4.13-ubuntu-xenial-20201014
 22.3.4.13-ubuntu-trusty-20191217
+22.3.4.13-debian-bullseye-20210902
 22.3.4.13-debian-buster-20201012
 22.3.4.13-debian-stretch-20201012
 22.3.4.13-debian-jessie-20201012
@@ -711,6 +725,7 @@
 22.3.4.12.1-ubuntu-bionic-20210325
 22.3.4.12.1-ubuntu-xenial-20210114
 22.3.4.12.1-ubuntu-trusty-20191217
+22.3.4.12.1-debian-bullseye-20210902
 22.3.4.12.1-debian-buster-20210326
 22.3.4.12.1-debian-stretch-20210326
 22.3.4.12.1-debian-jessie-20210326
@@ -720,6 +735,7 @@
 22.3.4.12-ubuntu-bionic-20200630
 22.3.4.12-ubuntu-xenial-20200619
 22.3.4.12-ubuntu-trusty-20191217
+22.3.4.12-debian-bullseye-20210902
 22.3.4.12-debian-buster-20200607
 22.3.4.12-debian-stretch-20200607
 22.3.4.12-debian-jessie-20200607

@@ -605,6 +605,7 @@
 1.12.3-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.12.3-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.12.3-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.18-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.18-debian-buster-20210326
 1.12.3-erlang-22.3.4.18-debian-stretch-20210326
 1.12.3-erlang-22.3.4.18-debian-jessie-20210326
@@ -614,6 +615,7 @@
 1.12.3-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.12.3-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.12.3-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.17-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.17-debian-buster-20210326
 1.12.3-erlang-22.3.4.17-debian-stretch-20210326
 1.12.3-erlang-22.3.4.17-debian-jessie-20210326
@@ -623,6 +625,7 @@
 1.12.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.12.3-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.12.3-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.16-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.16-debian-buster-20210208
 1.12.3-erlang-22.3.4.16-debian-stretch-20210208
 1.12.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -632,6 +635,7 @@
 1.12.3-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.12.3-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.12.3-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.15-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.15-debian-buster-20201012
 1.12.3-erlang-22.3.4.15-debian-stretch-20201012
 1.12.3-erlang-22.3.4.15-debian-jessie-20201012
@@ -642,6 +646,7 @@
 1.12.3-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.12.3-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.12.3-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.14-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.14-debian-buster-20201012
 1.12.3-erlang-22.3.4.14-debian-stretch-20201012
 1.12.3-erlang-22.3.4.14-debian-jessie-20201012
@@ -652,6 +657,7 @@
 1.12.3-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.12.3-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.12.3-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.13-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.13-debian-buster-20201012
 1.12.3-erlang-22.3.4.13-debian-stretch-20201012
 1.12.3-erlang-22.3.4.13-debian-jessie-20201012
@@ -662,6 +668,7 @@
 1.12.3-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.12.3-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.12.3-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.12.1-debian-buster-20210326
 1.12.3-erlang-22.3.4.12.1-debian-stretch-20210326
 1.12.3-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -671,6 +678,7 @@
 1.12.3-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.12.3-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.12.3-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.12-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.12-debian-buster-20200607
 1.12.3-erlang-22.3.4.12-debian-stretch-20200607
 1.12.3-erlang-22.3.4.12-debian-jessie-20200607
@@ -681,6 +689,7 @@
 1.12.3-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.12.3-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.12.3-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.11-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.11-debian-buster-20200607
 1.12.3-erlang-22.3.4.11-debian-stretch-20200607
 1.12.3-erlang-22.3.4.11-debian-jessie-20200607
@@ -691,6 +700,7 @@
 1.12.3-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.12.3-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.12.3-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.10-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.10-debian-buster-20200607
 1.12.3-erlang-22.3.4.10-debian-stretch-20200607
 1.12.3-erlang-22.3.4.10-debian-jessie-20200607
@@ -701,6 +711,7 @@
 1.12.3-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.12.3-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.12.3-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4.1-debian-bullseye-20210902
 1.12.3-erlang-22.3.4.1-debian-buster-20200511
 1.12.3-erlang-22.3.4.1-debian-stretch-20200511
 1.12.3-erlang-22.3.4.1-debian-jessie-20200511
@@ -712,6 +723,7 @@
 1.12.3-erlang-22.3.4-ubuntu-bionic-20200219
 1.12.3-erlang-22.3.4-ubuntu-xenial-20200212
 1.12.3-erlang-22.3.4-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.4-debian-bullseye-20210902
 1.12.3-erlang-22.3.4-debian-buster-20200224
 1.12.3-erlang-22.3.4-debian-stretch-20200224
 1.12.3-erlang-22.3.4-debian-jessie-20200224
@@ -723,6 +735,7 @@
 1.12.3-erlang-22.3.3-ubuntu-bionic-20200219
 1.12.3-erlang-22.3.3-ubuntu-xenial-20200212
 1.12.3-erlang-22.3.3-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.3-debian-bullseye-20210902
 1.12.3-erlang-22.3.3-debian-buster-20200224
 1.12.3-erlang-22.3.3-debian-stretch-20200224
 1.12.3-erlang-22.3.3-debian-jessie-20200224
@@ -734,6 +747,7 @@
 1.12.3-erlang-22.3.2-ubuntu-bionic-20200219
 1.12.3-erlang-22.3.2-ubuntu-xenial-20200212
 1.12.3-erlang-22.3.2-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.2-debian-bullseye-20210902
 1.12.3-erlang-22.3.2-debian-buster-20200224
 1.12.3-erlang-22.3.2-debian-stretch-20200224
 1.12.3-erlang-22.3.2-debian-jessie-20200224
@@ -745,6 +759,7 @@
 1.12.3-erlang-22.3.1-ubuntu-bionic-20200219
 1.12.3-erlang-22.3.1-ubuntu-xenial-20200212
 1.12.3-erlang-22.3.1-ubuntu-trusty-20191217
+1.12.3-erlang-22.3.1-debian-bullseye-20210902
 1.12.3-erlang-22.3.1-debian-buster-20200224
 1.12.3-erlang-22.3.1-debian-stretch-20200224
 1.12.3-erlang-22.3.1-debian-jessie-20200224
@@ -756,6 +771,7 @@
 1.12.3-erlang-22.3-ubuntu-bionic-20200219
 1.12.3-erlang-22.3-ubuntu-xenial-20200212
 1.12.3-erlang-22.3-ubuntu-trusty-20191217
+1.12.3-erlang-22.3-debian-bullseye-20210902
 1.12.3-erlang-22.3-debian-buster-20200224
 1.12.3-erlang-22.3-debian-stretch-20200224
 1.12.3-erlang-22.3-debian-jessie-20200224
@@ -1663,6 +1679,7 @@
 1.12.2-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.12.2-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.12.2-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.18-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.18-debian-buster-20210326
 1.12.2-erlang-22.3.4.18-debian-stretch-20210326
 1.12.2-erlang-22.3.4.18-debian-jessie-20210326
@@ -1672,6 +1689,7 @@
 1.12.2-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.12.2-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.12.2-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.17-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.17-debian-buster-20210326
 1.12.2-erlang-22.3.4.17-debian-stretch-20210326
 1.12.2-erlang-22.3.4.17-debian-jessie-20210326
@@ -1681,6 +1699,7 @@
 1.12.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.12.2-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.12.2-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.16-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.16-debian-buster-20210208
 1.12.2-erlang-22.3.4.16-debian-stretch-20210208
 1.12.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -1690,6 +1709,7 @@
 1.12.2-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.12.2-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.12.2-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.15-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.15-debian-buster-20201012
 1.12.2-erlang-22.3.4.15-debian-stretch-20201012
 1.12.2-erlang-22.3.4.15-debian-jessie-20201012
@@ -1700,6 +1720,7 @@
 1.12.2-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.12.2-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.12.2-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.14-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.14-debian-buster-20201012
 1.12.2-erlang-22.3.4.14-debian-stretch-20201012
 1.12.2-erlang-22.3.4.14-debian-jessie-20201012
@@ -1710,6 +1731,7 @@
 1.12.2-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.12.2-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.12.2-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.13-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.13-debian-buster-20201012
 1.12.2-erlang-22.3.4.13-debian-stretch-20201012
 1.12.2-erlang-22.3.4.13-debian-jessie-20201012
@@ -1720,6 +1742,7 @@
 1.12.2-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.12.2-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.12.2-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.12.1-debian-buster-20210326
 1.12.2-erlang-22.3.4.12.1-debian-stretch-20210326
 1.12.2-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -1729,6 +1752,7 @@
 1.12.2-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.12.2-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.12.2-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.12-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.12-debian-buster-20200607
 1.12.2-erlang-22.3.4.12-debian-stretch-20200607
 1.12.2-erlang-22.3.4.12-debian-jessie-20200607
@@ -1739,6 +1763,7 @@
 1.12.2-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.12.2-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.12.2-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.11-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.11-debian-buster-20200607
 1.12.2-erlang-22.3.4.11-debian-stretch-20200607
 1.12.2-erlang-22.3.4.11-debian-jessie-20200607
@@ -1749,6 +1774,7 @@
 1.12.2-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.12.2-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.12.2-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.10-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.10-debian-buster-20200607
 1.12.2-erlang-22.3.4.10-debian-stretch-20200607
 1.12.2-erlang-22.3.4.10-debian-jessie-20200607
@@ -1759,6 +1785,7 @@
 1.12.2-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.12.2-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.12.2-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4.1-debian-bullseye-20210902
 1.12.2-erlang-22.3.4.1-debian-buster-20200511
 1.12.2-erlang-22.3.4.1-debian-stretch-20200511
 1.12.2-erlang-22.3.4.1-debian-jessie-20200511
@@ -1770,6 +1797,7 @@
 1.12.2-erlang-22.3.4-ubuntu-bionic-20200219
 1.12.2-erlang-22.3.4-ubuntu-xenial-20200212
 1.12.2-erlang-22.3.4-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.4-debian-bullseye-20210902
 1.12.2-erlang-22.3.4-debian-buster-20200224
 1.12.2-erlang-22.3.4-debian-stretch-20200224
 1.12.2-erlang-22.3.4-debian-jessie-20200224
@@ -1781,6 +1809,7 @@
 1.12.2-erlang-22.3.3-ubuntu-bionic-20200219
 1.12.2-erlang-22.3.3-ubuntu-xenial-20200212
 1.12.2-erlang-22.3.3-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.3-debian-bullseye-20210902
 1.12.2-erlang-22.3.3-debian-buster-20200224
 1.12.2-erlang-22.3.3-debian-stretch-20200224
 1.12.2-erlang-22.3.3-debian-jessie-20200224
@@ -1792,6 +1821,7 @@
 1.12.2-erlang-22.3.2-ubuntu-bionic-20200219
 1.12.2-erlang-22.3.2-ubuntu-xenial-20200212
 1.12.2-erlang-22.3.2-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.2-debian-bullseye-20210902
 1.12.2-erlang-22.3.2-debian-buster-20200224
 1.12.2-erlang-22.3.2-debian-stretch-20200224
 1.12.2-erlang-22.3.2-debian-jessie-20200224
@@ -1803,6 +1833,7 @@
 1.12.2-erlang-22.3.1-ubuntu-bionic-20200219
 1.12.2-erlang-22.3.1-ubuntu-xenial-20200212
 1.12.2-erlang-22.3.1-ubuntu-trusty-20191217
+1.12.2-erlang-22.3.1-debian-bullseye-20210902
 1.12.2-erlang-22.3.1-debian-buster-20200224
 1.12.2-erlang-22.3.1-debian-stretch-20200224
 1.12.2-erlang-22.3.1-debian-jessie-20200224
@@ -1814,6 +1845,7 @@
 1.12.2-erlang-22.3-ubuntu-bionic-20200219
 1.12.2-erlang-22.3-ubuntu-xenial-20200212
 1.12.2-erlang-22.3-ubuntu-trusty-20191217
+1.12.2-erlang-22.3-debian-bullseye-20210902
 1.12.2-erlang-22.3-debian-buster-20200224
 1.12.2-erlang-22.3-debian-stretch-20200224
 1.12.2-erlang-22.3-debian-jessie-20200224
@@ -2721,6 +2753,7 @@
 1.12.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.12.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.12.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.18-debian-buster-20210326
 1.12.1-erlang-22.3.4.18-debian-stretch-20210326
 1.12.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -2730,6 +2763,7 @@
 1.12.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.12.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.12.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.17-debian-buster-20210326
 1.12.1-erlang-22.3.4.17-debian-stretch-20210326
 1.12.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -2739,6 +2773,7 @@
 1.12.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.12.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.12.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.16-debian-buster-20210208
 1.12.1-erlang-22.3.4.16-debian-stretch-20210208
 1.12.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -2748,6 +2783,7 @@
 1.12.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.12.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.12.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.15-debian-buster-20201012
 1.12.1-erlang-22.3.4.15-debian-stretch-20201012
 1.12.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -2758,6 +2794,7 @@
 1.12.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.12.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.12.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.14-debian-buster-20201012
 1.12.1-erlang-22.3.4.14-debian-stretch-20201012
 1.12.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -2768,6 +2805,7 @@
 1.12.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.12.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.12.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.13-debian-buster-20201012
 1.12.1-erlang-22.3.4.13-debian-stretch-20201012
 1.12.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -2778,6 +2816,7 @@
 1.12.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.12.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.12.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.12.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.12.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -2787,6 +2826,7 @@
 1.12.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.12.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.12.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.12-debian-buster-20200607
 1.12.1-erlang-22.3.4.12-debian-stretch-20200607
 1.12.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -2797,6 +2837,7 @@
 1.12.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.12.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.12.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.11-debian-buster-20200607
 1.12.1-erlang-22.3.4.11-debian-stretch-20200607
 1.12.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -2807,6 +2848,7 @@
 1.12.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.12.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.12.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.10-debian-buster-20200607
 1.12.1-erlang-22.3.4.10-debian-stretch-20200607
 1.12.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -2817,6 +2859,7 @@
 1.12.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.12.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.12.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.12.1-erlang-22.3.4.1-debian-buster-20200511
 1.12.1-erlang-22.3.4.1-debian-stretch-20200511
 1.12.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -2828,6 +2871,7 @@
 1.12.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.12.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.12.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.4-debian-bullseye-20210902
 1.12.1-erlang-22.3.4-debian-buster-20200224
 1.12.1-erlang-22.3.4-debian-stretch-20200224
 1.12.1-erlang-22.3.4-debian-jessie-20200224
@@ -2839,6 +2883,7 @@
 1.12.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.12.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.12.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.3-debian-bullseye-20210902
 1.12.1-erlang-22.3.3-debian-buster-20200224
 1.12.1-erlang-22.3.3-debian-stretch-20200224
 1.12.1-erlang-22.3.3-debian-jessie-20200224
@@ -2850,6 +2895,7 @@
 1.12.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.12.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.12.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.2-debian-bullseye-20210902
 1.12.1-erlang-22.3.2-debian-buster-20200224
 1.12.1-erlang-22.3.2-debian-stretch-20200224
 1.12.1-erlang-22.3.2-debian-jessie-20200224
@@ -2861,6 +2907,7 @@
 1.12.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.12.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.12.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.12.1-erlang-22.3.1-debian-bullseye-20210902
 1.12.1-erlang-22.3.1-debian-buster-20200224
 1.12.1-erlang-22.3.1-debian-stretch-20200224
 1.12.1-erlang-22.3.1-debian-jessie-20200224
@@ -2872,6 +2919,7 @@
 1.12.1-erlang-22.3-ubuntu-bionic-20200219
 1.12.1-erlang-22.3-ubuntu-xenial-20200212
 1.12.1-erlang-22.3-ubuntu-trusty-20191217
+1.12.1-erlang-22.3-debian-bullseye-20210902
 1.12.1-erlang-22.3-debian-buster-20200224
 1.12.1-erlang-22.3-debian-stretch-20200224
 1.12.1-erlang-22.3-debian-jessie-20200224
@@ -3779,6 +3827,7 @@
 1.12.0-rc.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.12.0-rc.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.12.0-rc.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.18-debian-buster-20210326
 1.12.0-rc.1-erlang-22.3.4.18-debian-stretch-20210326
 1.12.0-rc.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -3788,6 +3837,7 @@
 1.12.0-rc.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.12.0-rc.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.12.0-rc.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.17-debian-buster-20210326
 1.12.0-rc.1-erlang-22.3.4.17-debian-stretch-20210326
 1.12.0-rc.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -3797,6 +3847,7 @@
 1.12.0-rc.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.12.0-rc.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.12.0-rc.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.16-debian-buster-20210208
 1.12.0-rc.1-erlang-22.3.4.16-debian-stretch-20210208
 1.12.0-rc.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -3806,6 +3857,7 @@
 1.12.0-rc.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.12.0-rc.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.12.0-rc.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.15-debian-buster-20201012
 1.12.0-rc.1-erlang-22.3.4.15-debian-stretch-20201012
 1.12.0-rc.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -3816,6 +3868,7 @@
 1.12.0-rc.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.12.0-rc.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.12.0-rc.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.14-debian-buster-20201012
 1.12.0-rc.1-erlang-22.3.4.14-debian-stretch-20201012
 1.12.0-rc.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -3826,6 +3879,7 @@
 1.12.0-rc.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.12.0-rc.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.12.0-rc.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.13-debian-buster-20201012
 1.12.0-rc.1-erlang-22.3.4.13-debian-stretch-20201012
 1.12.0-rc.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -3836,6 +3890,7 @@
 1.12.0-rc.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.12.0-rc.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.12.0-rc.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.12.0-rc.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.12.0-rc.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -3845,6 +3900,7 @@
 1.12.0-rc.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.12.0-rc.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.12.0-rc.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.12-debian-buster-20200607
 1.12.0-rc.1-erlang-22.3.4.12-debian-stretch-20200607
 1.12.0-rc.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -3855,6 +3911,7 @@
 1.12.0-rc.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.12.0-rc.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.12.0-rc.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.11-debian-buster-20200607
 1.12.0-rc.1-erlang-22.3.4.11-debian-stretch-20200607
 1.12.0-rc.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -3865,6 +3922,7 @@
 1.12.0-rc.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.12.0-rc.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.12.0-rc.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.10-debian-buster-20200607
 1.12.0-rc.1-erlang-22.3.4.10-debian-stretch-20200607
 1.12.0-rc.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -3875,6 +3933,7 @@
 1.12.0-rc.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.12.0-rc.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.12.0-rc.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4.1-debian-buster-20200511
 1.12.0-rc.1-erlang-22.3.4.1-debian-stretch-20200511
 1.12.0-rc.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -3886,6 +3945,7 @@
 1.12.0-rc.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.12.0-rc.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.12.0-rc.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.4-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.4-debian-buster-20200224
 1.12.0-rc.1-erlang-22.3.4-debian-stretch-20200224
 1.12.0-rc.1-erlang-22.3.4-debian-jessie-20200224
@@ -3897,6 +3957,7 @@
 1.12.0-rc.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.12.0-rc.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.12.0-rc.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.3-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.3-debian-buster-20200224
 1.12.0-rc.1-erlang-22.3.3-debian-stretch-20200224
 1.12.0-rc.1-erlang-22.3.3-debian-jessie-20200224
@@ -3908,6 +3969,7 @@
 1.12.0-rc.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.12.0-rc.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.12.0-rc.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.2-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.2-debian-buster-20200224
 1.12.0-rc.1-erlang-22.3.2-debian-stretch-20200224
 1.12.0-rc.1-erlang-22.3.2-debian-jessie-20200224
@@ -3919,6 +3981,7 @@
 1.12.0-rc.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.12.0-rc.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.12.0-rc.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3.1-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3.1-debian-buster-20200224
 1.12.0-rc.1-erlang-22.3.1-debian-stretch-20200224
 1.12.0-rc.1-erlang-22.3.1-debian-jessie-20200224
@@ -3930,6 +3993,7 @@
 1.12.0-rc.1-erlang-22.3-ubuntu-bionic-20200219
 1.12.0-rc.1-erlang-22.3-ubuntu-xenial-20200212
 1.12.0-rc.1-erlang-22.3-ubuntu-trusty-20191217
+1.12.0-rc.1-erlang-22.3-debian-bullseye-20210902
 1.12.0-rc.1-erlang-22.3-debian-buster-20200224
 1.12.0-rc.1-erlang-22.3-debian-stretch-20200224
 1.12.0-rc.1-erlang-22.3-debian-jessie-20200224
@@ -4837,6 +4901,7 @@
 1.12.0-rc.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.12.0-rc.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.12.0-rc.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.18-debian-buster-20210326
 1.12.0-rc.0-erlang-22.3.4.18-debian-stretch-20210326
 1.12.0-rc.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -4846,6 +4911,7 @@
 1.12.0-rc.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.12.0-rc.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.12.0-rc.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.17-debian-buster-20210326
 1.12.0-rc.0-erlang-22.3.4.17-debian-stretch-20210326
 1.12.0-rc.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -4855,6 +4921,7 @@
 1.12.0-rc.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.12.0-rc.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.12.0-rc.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.16-debian-buster-20210208
 1.12.0-rc.0-erlang-22.3.4.16-debian-stretch-20210208
 1.12.0-rc.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -4864,6 +4931,7 @@
 1.12.0-rc.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.12.0-rc.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.12.0-rc.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.15-debian-buster-20201012
 1.12.0-rc.0-erlang-22.3.4.15-debian-stretch-20201012
 1.12.0-rc.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -4874,6 +4942,7 @@
 1.12.0-rc.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.12.0-rc.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.12.0-rc.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.14-debian-buster-20201012
 1.12.0-rc.0-erlang-22.3.4.14-debian-stretch-20201012
 1.12.0-rc.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -4884,6 +4953,7 @@
 1.12.0-rc.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.12.0-rc.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.12.0-rc.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.13-debian-buster-20201012
 1.12.0-rc.0-erlang-22.3.4.13-debian-stretch-20201012
 1.12.0-rc.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -4894,6 +4964,7 @@
 1.12.0-rc.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.12.0-rc.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.12.0-rc.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.12.0-rc.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.12.0-rc.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -4903,6 +4974,7 @@
 1.12.0-rc.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.12.0-rc.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.12.0-rc.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.12-debian-buster-20200607
 1.12.0-rc.0-erlang-22.3.4.12-debian-stretch-20200607
 1.12.0-rc.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -4913,6 +4985,7 @@
 1.12.0-rc.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.12.0-rc.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.12.0-rc.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.11-debian-buster-20200607
 1.12.0-rc.0-erlang-22.3.4.11-debian-stretch-20200607
 1.12.0-rc.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -4923,6 +4996,7 @@
 1.12.0-rc.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.12.0-rc.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.12.0-rc.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.10-debian-buster-20200607
 1.12.0-rc.0-erlang-22.3.4.10-debian-stretch-20200607
 1.12.0-rc.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -4933,6 +5007,7 @@
 1.12.0-rc.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.12.0-rc.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.12.0-rc.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4.1-debian-buster-20200511
 1.12.0-rc.0-erlang-22.3.4.1-debian-stretch-20200511
 1.12.0-rc.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -4944,6 +5019,7 @@
 1.12.0-rc.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.12.0-rc.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.12.0-rc.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.4-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.4-debian-buster-20200224
 1.12.0-rc.0-erlang-22.3.4-debian-stretch-20200224
 1.12.0-rc.0-erlang-22.3.4-debian-jessie-20200224
@@ -4955,6 +5031,7 @@
 1.12.0-rc.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.12.0-rc.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.12.0-rc.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.3-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.3-debian-buster-20200224
 1.12.0-rc.0-erlang-22.3.3-debian-stretch-20200224
 1.12.0-rc.0-erlang-22.3.3-debian-jessie-20200224
@@ -4966,6 +5043,7 @@
 1.12.0-rc.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.12.0-rc.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.12.0-rc.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.2-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.2-debian-buster-20200224
 1.12.0-rc.0-erlang-22.3.2-debian-stretch-20200224
 1.12.0-rc.0-erlang-22.3.2-debian-jessie-20200224
@@ -4977,6 +5055,7 @@
 1.12.0-rc.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.12.0-rc.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.12.0-rc.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3.1-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3.1-debian-buster-20200224
 1.12.0-rc.0-erlang-22.3.1-debian-stretch-20200224
 1.12.0-rc.0-erlang-22.3.1-debian-jessie-20200224
@@ -4988,6 +5067,7 @@
 1.12.0-rc.0-erlang-22.3-ubuntu-bionic-20200219
 1.12.0-rc.0-erlang-22.3-ubuntu-xenial-20200212
 1.12.0-rc.0-erlang-22.3-ubuntu-trusty-20191217
+1.12.0-rc.0-erlang-22.3-debian-bullseye-20210902
 1.12.0-rc.0-erlang-22.3-debian-buster-20200224
 1.12.0-rc.0-erlang-22.3-debian-stretch-20200224
 1.12.0-rc.0-erlang-22.3-debian-jessie-20200224
@@ -5895,6 +5975,7 @@
 1.12.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.12.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.12.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.18-debian-buster-20210326
 1.12.0-erlang-22.3.4.18-debian-stretch-20210326
 1.12.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -5904,6 +5985,7 @@
 1.12.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.12.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.12.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.17-debian-buster-20210326
 1.12.0-erlang-22.3.4.17-debian-stretch-20210326
 1.12.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -5913,6 +5995,7 @@
 1.12.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.12.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.12.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.16-debian-buster-20210208
 1.12.0-erlang-22.3.4.16-debian-stretch-20210208
 1.12.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -5922,6 +6005,7 @@
 1.12.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.12.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.12.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.15-debian-buster-20201012
 1.12.0-erlang-22.3.4.15-debian-stretch-20201012
 1.12.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -5932,6 +6016,7 @@
 1.12.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.12.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.12.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.14-debian-buster-20201012
 1.12.0-erlang-22.3.4.14-debian-stretch-20201012
 1.12.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -5942,6 +6027,7 @@
 1.12.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.12.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.12.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.13-debian-buster-20201012
 1.12.0-erlang-22.3.4.13-debian-stretch-20201012
 1.12.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -5952,6 +6038,7 @@
 1.12.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.12.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.12.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.12.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.12.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -5961,6 +6048,7 @@
 1.12.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.12.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.12.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.12-debian-buster-20200607
 1.12.0-erlang-22.3.4.12-debian-stretch-20200607
 1.12.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -5971,6 +6059,7 @@
 1.12.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.12.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.12.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.11-debian-buster-20200607
 1.12.0-erlang-22.3.4.11-debian-stretch-20200607
 1.12.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -5981,6 +6070,7 @@
 1.12.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.12.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.12.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.10-debian-buster-20200607
 1.12.0-erlang-22.3.4.10-debian-stretch-20200607
 1.12.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -5991,6 +6081,7 @@
 1.12.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.12.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.12.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.12.0-erlang-22.3.4.1-debian-buster-20200511
 1.12.0-erlang-22.3.4.1-debian-stretch-20200511
 1.12.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -6002,6 +6093,7 @@
 1.12.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.12.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.12.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.4-debian-bullseye-20210902
 1.12.0-erlang-22.3.4-debian-buster-20200224
 1.12.0-erlang-22.3.4-debian-stretch-20200224
 1.12.0-erlang-22.3.4-debian-jessie-20200224
@@ -6013,6 +6105,7 @@
 1.12.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.12.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.12.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.3-debian-bullseye-20210902
 1.12.0-erlang-22.3.3-debian-buster-20200224
 1.12.0-erlang-22.3.3-debian-stretch-20200224
 1.12.0-erlang-22.3.3-debian-jessie-20200224
@@ -6024,6 +6117,7 @@
 1.12.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.12.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.12.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.2-debian-bullseye-20210902
 1.12.0-erlang-22.3.2-debian-buster-20200224
 1.12.0-erlang-22.3.2-debian-stretch-20200224
 1.12.0-erlang-22.3.2-debian-jessie-20200224
@@ -6035,6 +6129,7 @@
 1.12.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.12.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.12.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.12.0-erlang-22.3.1-debian-bullseye-20210902
 1.12.0-erlang-22.3.1-debian-buster-20200224
 1.12.0-erlang-22.3.1-debian-stretch-20200224
 1.12.0-erlang-22.3.1-debian-jessie-20200224
@@ -6046,6 +6141,7 @@
 1.12.0-erlang-22.3-ubuntu-bionic-20200219
 1.12.0-erlang-22.3-ubuntu-xenial-20200212
 1.12.0-erlang-22.3-ubuntu-trusty-20191217
+1.12.0-erlang-22.3-debian-bullseye-20210902
 1.12.0-erlang-22.3-debian-buster-20200224
 1.12.0-erlang-22.3-debian-stretch-20200224
 1.12.0-erlang-22.3-debian-jessie-20200224
@@ -6953,6 +7049,7 @@
 1.11.4-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.11.4-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.11.4-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.18-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.18-debian-buster-20210326
 1.11.4-erlang-22.3.4.18-debian-stretch-20210326
 1.11.4-erlang-22.3.4.18-debian-jessie-20210326
@@ -6962,6 +7059,7 @@
 1.11.4-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.11.4-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.11.4-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.17-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.17-debian-buster-20210326
 1.11.4-erlang-22.3.4.17-debian-stretch-20210326
 1.11.4-erlang-22.3.4.17-debian-jessie-20210326
@@ -6971,6 +7069,7 @@
 1.11.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.4-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.11.4-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.16-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.16-debian-buster-20210208
 1.11.4-erlang-22.3.4.16-debian-stretch-20210208
 1.11.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -6980,6 +7079,7 @@
 1.11.4-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.11.4-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.11.4-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.15-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.15-debian-buster-20201012
 1.11.4-erlang-22.3.4.15-debian-stretch-20201012
 1.11.4-erlang-22.3.4.15-debian-jessie-20201012
@@ -6990,6 +7090,7 @@
 1.11.4-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.11.4-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.11.4-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.14-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.14-debian-buster-20201012
 1.11.4-erlang-22.3.4.14-debian-stretch-20201012
 1.11.4-erlang-22.3.4.14-debian-jessie-20201012
@@ -7000,6 +7101,7 @@
 1.11.4-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.11.4-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.11.4-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.13-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.13-debian-buster-20201012
 1.11.4-erlang-22.3.4.13-debian-stretch-20201012
 1.11.4-erlang-22.3.4.13-debian-jessie-20201012
@@ -7010,6 +7112,7 @@
 1.11.4-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.11.4-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.11.4-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.12.1-debian-buster-20210326
 1.11.4-erlang-22.3.4.12.1-debian-stretch-20210326
 1.11.4-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -7019,6 +7122,7 @@
 1.11.4-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.11.4-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.11.4-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.12-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.12-debian-buster-20200607
 1.11.4-erlang-22.3.4.12-debian-stretch-20200607
 1.11.4-erlang-22.3.4.12-debian-jessie-20200607
@@ -7029,6 +7133,7 @@
 1.11.4-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.11.4-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.11.4-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.11-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.11-debian-buster-20200607
 1.11.4-erlang-22.3.4.11-debian-stretch-20200607
 1.11.4-erlang-22.3.4.11-debian-jessie-20200607
@@ -7039,6 +7144,7 @@
 1.11.4-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.11.4-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.11.4-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.10-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.10-debian-buster-20200607
 1.11.4-erlang-22.3.4.10-debian-stretch-20200607
 1.11.4-erlang-22.3.4.10-debian-jessie-20200607
@@ -7049,6 +7155,7 @@
 1.11.4-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.11.4-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.11.4-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4.1-debian-bullseye-20210902
 1.11.4-erlang-22.3.4.1-debian-buster-20200511
 1.11.4-erlang-22.3.4.1-debian-stretch-20200511
 1.11.4-erlang-22.3.4.1-debian-jessie-20200511
@@ -7060,6 +7167,7 @@
 1.11.4-erlang-22.3.4-ubuntu-bionic-20200219
 1.11.4-erlang-22.3.4-ubuntu-xenial-20200212
 1.11.4-erlang-22.3.4-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.4-debian-bullseye-20210902
 1.11.4-erlang-22.3.4-debian-buster-20200224
 1.11.4-erlang-22.3.4-debian-stretch-20200224
 1.11.4-erlang-22.3.4-debian-jessie-20200224
@@ -7071,6 +7179,7 @@
 1.11.4-erlang-22.3.3-ubuntu-bionic-20200219
 1.11.4-erlang-22.3.3-ubuntu-xenial-20200212
 1.11.4-erlang-22.3.3-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.3-debian-bullseye-20210902
 1.11.4-erlang-22.3.3-debian-buster-20200224
 1.11.4-erlang-22.3.3-debian-stretch-20200224
 1.11.4-erlang-22.3.3-debian-jessie-20200224
@@ -7082,6 +7191,7 @@
 1.11.4-erlang-22.3.2-ubuntu-bionic-20200219
 1.11.4-erlang-22.3.2-ubuntu-xenial-20200212
 1.11.4-erlang-22.3.2-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.2-debian-bullseye-20210902
 1.11.4-erlang-22.3.2-debian-buster-20200224
 1.11.4-erlang-22.3.2-debian-stretch-20200224
 1.11.4-erlang-22.3.2-debian-jessie-20200224
@@ -7093,6 +7203,7 @@
 1.11.4-erlang-22.3.1-ubuntu-bionic-20200219
 1.11.4-erlang-22.3.1-ubuntu-xenial-20200212
 1.11.4-erlang-22.3.1-ubuntu-trusty-20191217
+1.11.4-erlang-22.3.1-debian-bullseye-20210902
 1.11.4-erlang-22.3.1-debian-buster-20200224
 1.11.4-erlang-22.3.1-debian-stretch-20200224
 1.11.4-erlang-22.3.1-debian-jessie-20200224
@@ -7104,6 +7215,7 @@
 1.11.4-erlang-22.3-ubuntu-bionic-20200219
 1.11.4-erlang-22.3-ubuntu-xenial-20200212
 1.11.4-erlang-22.3-ubuntu-trusty-20191217
+1.11.4-erlang-22.3-debian-bullseye-20210902
 1.11.4-erlang-22.3-debian-buster-20200224
 1.11.4-erlang-22.3-debian-stretch-20200224
 1.11.4-erlang-22.3-debian-jessie-20200224
@@ -8544,6 +8656,7 @@
 1.11.3-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.11.3-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.11.3-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.18-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.18-debian-buster-20210326
 1.11.3-erlang-22.3.4.18-debian-stretch-20210326
 1.11.3-erlang-22.3.4.18-debian-jessie-20210326
@@ -8553,6 +8666,7 @@
 1.11.3-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.11.3-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.11.3-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.17-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.17-debian-buster-20210326
 1.11.3-erlang-22.3.4.17-debian-stretch-20210326
 1.11.3-erlang-22.3.4.17-debian-jessie-20210326
@@ -8562,6 +8676,7 @@
 1.11.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.3-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.11.3-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.16-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.16-debian-buster-20210208
 1.11.3-erlang-22.3.4.16-debian-stretch-20210208
 1.11.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -8571,6 +8686,7 @@
 1.11.3-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.11.3-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.11.3-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.15-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.15-debian-buster-20201012
 1.11.3-erlang-22.3.4.15-debian-stretch-20201012
 1.11.3-erlang-22.3.4.15-debian-jessie-20201012
@@ -8581,6 +8697,7 @@
 1.11.3-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.11.3-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.11.3-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.14-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.14-debian-buster-20201012
 1.11.3-erlang-22.3.4.14-debian-stretch-20201012
 1.11.3-erlang-22.3.4.14-debian-jessie-20201012
@@ -8591,6 +8708,7 @@
 1.11.3-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.11.3-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.11.3-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.13-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.13-debian-buster-20201012
 1.11.3-erlang-22.3.4.13-debian-stretch-20201012
 1.11.3-erlang-22.3.4.13-debian-jessie-20201012
@@ -8601,6 +8719,7 @@
 1.11.3-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.11.3-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.11.3-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.12.1-debian-buster-20210326
 1.11.3-erlang-22.3.4.12.1-debian-stretch-20210326
 1.11.3-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -8610,6 +8729,7 @@
 1.11.3-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.11.3-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.11.3-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.12-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.12-debian-buster-20200607
 1.11.3-erlang-22.3.4.12-debian-stretch-20200607
 1.11.3-erlang-22.3.4.12-debian-jessie-20200607
@@ -8620,6 +8740,7 @@
 1.11.3-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.11.3-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.11.3-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.11-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.11-debian-buster-20200607
 1.11.3-erlang-22.3.4.11-debian-stretch-20200607
 1.11.3-erlang-22.3.4.11-debian-jessie-20200607
@@ -8630,6 +8751,7 @@
 1.11.3-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.11.3-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.11.3-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.10-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.10-debian-buster-20200607
 1.11.3-erlang-22.3.4.10-debian-stretch-20200607
 1.11.3-erlang-22.3.4.10-debian-jessie-20200607
@@ -8640,6 +8762,7 @@
 1.11.3-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.11.3-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.11.3-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4.1-debian-bullseye-20210902
 1.11.3-erlang-22.3.4.1-debian-buster-20200511
 1.11.3-erlang-22.3.4.1-debian-stretch-20200511
 1.11.3-erlang-22.3.4.1-debian-jessie-20200511
@@ -8651,6 +8774,7 @@
 1.11.3-erlang-22.3.4-ubuntu-bionic-20200219
 1.11.3-erlang-22.3.4-ubuntu-xenial-20200212
 1.11.3-erlang-22.3.4-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.4-debian-bullseye-20210902
 1.11.3-erlang-22.3.4-debian-buster-20200224
 1.11.3-erlang-22.3.4-debian-stretch-20200224
 1.11.3-erlang-22.3.4-debian-jessie-20200224
@@ -8662,6 +8786,7 @@
 1.11.3-erlang-22.3.3-ubuntu-bionic-20200219
 1.11.3-erlang-22.3.3-ubuntu-xenial-20200212
 1.11.3-erlang-22.3.3-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.3-debian-bullseye-20210902
 1.11.3-erlang-22.3.3-debian-buster-20200224
 1.11.3-erlang-22.3.3-debian-stretch-20200224
 1.11.3-erlang-22.3.3-debian-jessie-20200224
@@ -8673,6 +8798,7 @@
 1.11.3-erlang-22.3.2-ubuntu-bionic-20200219
 1.11.3-erlang-22.3.2-ubuntu-xenial-20200212
 1.11.3-erlang-22.3.2-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.2-debian-bullseye-20210902
 1.11.3-erlang-22.3.2-debian-buster-20200224
 1.11.3-erlang-22.3.2-debian-stretch-20200224
 1.11.3-erlang-22.3.2-debian-jessie-20200224
@@ -8684,6 +8810,7 @@
 1.11.3-erlang-22.3.1-ubuntu-bionic-20200219
 1.11.3-erlang-22.3.1-ubuntu-xenial-20200212
 1.11.3-erlang-22.3.1-ubuntu-trusty-20191217
+1.11.3-erlang-22.3.1-debian-bullseye-20210902
 1.11.3-erlang-22.3.1-debian-buster-20200224
 1.11.3-erlang-22.3.1-debian-stretch-20200224
 1.11.3-erlang-22.3.1-debian-jessie-20200224
@@ -8695,6 +8822,7 @@
 1.11.3-erlang-22.3-ubuntu-bionic-20200219
 1.11.3-erlang-22.3-ubuntu-xenial-20200212
 1.11.3-erlang-22.3-ubuntu-trusty-20191217
+1.11.3-erlang-22.3-debian-bullseye-20210902
 1.11.3-erlang-22.3-debian-buster-20200224
 1.11.3-erlang-22.3-debian-stretch-20200224
 1.11.3-erlang-22.3-debian-jessie-20200224
@@ -10184,6 +10312,7 @@
 1.11.2-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.11.2-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.11.2-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.18-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.18-debian-buster-20210326
 1.11.2-erlang-22.3.4.18-debian-stretch-20210326
 1.11.2-erlang-22.3.4.18-debian-jessie-20210326
@@ -10193,6 +10322,7 @@
 1.11.2-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.11.2-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.11.2-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.17-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.17-debian-buster-20210326
 1.11.2-erlang-22.3.4.17-debian-stretch-20210326
 1.11.2-erlang-22.3.4.17-debian-jessie-20210326
@@ -10202,6 +10332,7 @@
 1.11.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.2-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.11.2-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.16-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.16-debian-buster-20210208
 1.11.2-erlang-22.3.4.16-debian-stretch-20210208
 1.11.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -10211,6 +10342,7 @@
 1.11.2-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.11.2-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.11.2-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.15-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.15-debian-buster-20201012
 1.11.2-erlang-22.3.4.15-debian-stretch-20201012
 1.11.2-erlang-22.3.4.15-debian-jessie-20201012
@@ -10221,6 +10353,7 @@
 1.11.2-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.11.2-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.11.2-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.14-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.14-debian-buster-20201012
 1.11.2-erlang-22.3.4.14-debian-stretch-20201012
 1.11.2-erlang-22.3.4.14-debian-jessie-20201012
@@ -10231,6 +10364,7 @@
 1.11.2-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.11.2-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.11.2-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.13-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.13-debian-buster-20201012
 1.11.2-erlang-22.3.4.13-debian-stretch-20201012
 1.11.2-erlang-22.3.4.13-debian-jessie-20201012
@@ -10241,6 +10375,7 @@
 1.11.2-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.11.2-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.11.2-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.12.1-debian-buster-20210326
 1.11.2-erlang-22.3.4.12.1-debian-stretch-20210326
 1.11.2-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -10250,6 +10385,7 @@
 1.11.2-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.11.2-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.11.2-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.12-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.12-debian-buster-20200607
 1.11.2-erlang-22.3.4.12-debian-stretch-20200607
 1.11.2-erlang-22.3.4.12-debian-jessie-20200607
@@ -10260,6 +10396,7 @@
 1.11.2-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.11.2-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.11.2-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.11-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.11-debian-buster-20200607
 1.11.2-erlang-22.3.4.11-debian-stretch-20200607
 1.11.2-erlang-22.3.4.11-debian-jessie-20200607
@@ -10270,6 +10407,7 @@
 1.11.2-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.11.2-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.11.2-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.10-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.10-debian-buster-20200607
 1.11.2-erlang-22.3.4.10-debian-stretch-20200607
 1.11.2-erlang-22.3.4.10-debian-jessie-20200607
@@ -10280,6 +10418,7 @@
 1.11.2-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.11.2-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.11.2-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4.1-debian-bullseye-20210902
 1.11.2-erlang-22.3.4.1-debian-buster-20200511
 1.11.2-erlang-22.3.4.1-debian-stretch-20200511
 1.11.2-erlang-22.3.4.1-debian-jessie-20200511
@@ -10291,6 +10430,7 @@
 1.11.2-erlang-22.3.4-ubuntu-bionic-20200219
 1.11.2-erlang-22.3.4-ubuntu-xenial-20200212
 1.11.2-erlang-22.3.4-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.4-debian-bullseye-20210902
 1.11.2-erlang-22.3.4-debian-buster-20200224
 1.11.2-erlang-22.3.4-debian-stretch-20200224
 1.11.2-erlang-22.3.4-debian-jessie-20200224
@@ -10302,6 +10442,7 @@
 1.11.2-erlang-22.3.3-ubuntu-bionic-20200219
 1.11.2-erlang-22.3.3-ubuntu-xenial-20200212
 1.11.2-erlang-22.3.3-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.3-debian-bullseye-20210902
 1.11.2-erlang-22.3.3-debian-buster-20200224
 1.11.2-erlang-22.3.3-debian-stretch-20200224
 1.11.2-erlang-22.3.3-debian-jessie-20200224
@@ -10313,6 +10454,7 @@
 1.11.2-erlang-22.3.2-ubuntu-bionic-20200219
 1.11.2-erlang-22.3.2-ubuntu-xenial-20200212
 1.11.2-erlang-22.3.2-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.2-debian-bullseye-20210902
 1.11.2-erlang-22.3.2-debian-buster-20200224
 1.11.2-erlang-22.3.2-debian-stretch-20200224
 1.11.2-erlang-22.3.2-debian-jessie-20200224
@@ -10324,6 +10466,7 @@
 1.11.2-erlang-22.3.1-ubuntu-bionic-20200219
 1.11.2-erlang-22.3.1-ubuntu-xenial-20200212
 1.11.2-erlang-22.3.1-ubuntu-trusty-20191217
+1.11.2-erlang-22.3.1-debian-bullseye-20210902
 1.11.2-erlang-22.3.1-debian-buster-20200224
 1.11.2-erlang-22.3.1-debian-stretch-20200224
 1.11.2-erlang-22.3.1-debian-jessie-20200224
@@ -10335,6 +10478,7 @@
 1.11.2-erlang-22.3-ubuntu-bionic-20200219
 1.11.2-erlang-22.3-ubuntu-xenial-20200212
 1.11.2-erlang-22.3-ubuntu-trusty-20191217
+1.11.2-erlang-22.3-debian-bullseye-20210902
 1.11.2-erlang-22.3-debian-buster-20200224
 1.11.2-erlang-22.3-debian-stretch-20200224
 1.11.2-erlang-22.3-debian-jessie-20200224
@@ -11824,6 +11968,7 @@
 1.11.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.11.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.11.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.18-debian-buster-20210326
 1.11.1-erlang-22.3.4.18-debian-stretch-20210326
 1.11.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -11833,6 +11978,7 @@
 1.11.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.11.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.11.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.17-debian-buster-20210326
 1.11.1-erlang-22.3.4.17-debian-stretch-20210326
 1.11.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -11842,6 +11988,7 @@
 1.11.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.11.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.16-debian-buster-20210208
 1.11.1-erlang-22.3.4.16-debian-stretch-20210208
 1.11.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -11851,6 +11998,7 @@
 1.11.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.11.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.11.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.15-debian-buster-20201012
 1.11.1-erlang-22.3.4.15-debian-stretch-20201012
 1.11.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -11861,6 +12009,7 @@
 1.11.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.11.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.11.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.14-debian-buster-20201012
 1.11.1-erlang-22.3.4.14-debian-stretch-20201012
 1.11.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -11871,6 +12020,7 @@
 1.11.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.11.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.11.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.13-debian-buster-20201012
 1.11.1-erlang-22.3.4.13-debian-stretch-20201012
 1.11.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -11881,6 +12031,7 @@
 1.11.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.11.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.11.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.11.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.11.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -11890,6 +12041,7 @@
 1.11.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.11.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.11.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.12-debian-buster-20200607
 1.11.1-erlang-22.3.4.12-debian-stretch-20200607
 1.11.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -11900,6 +12052,7 @@
 1.11.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.11.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.11.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.11-debian-buster-20200607
 1.11.1-erlang-22.3.4.11-debian-stretch-20200607
 1.11.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -11910,6 +12063,7 @@
 1.11.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.11.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.11.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.10-debian-buster-20200607
 1.11.1-erlang-22.3.4.10-debian-stretch-20200607
 1.11.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -11920,6 +12074,7 @@
 1.11.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.11.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.11.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.11.1-erlang-22.3.4.1-debian-buster-20200511
 1.11.1-erlang-22.3.4.1-debian-stretch-20200511
 1.11.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -11931,6 +12086,7 @@
 1.11.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.11.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.11.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.4-debian-bullseye-20210902
 1.11.1-erlang-22.3.4-debian-buster-20200224
 1.11.1-erlang-22.3.4-debian-stretch-20200224
 1.11.1-erlang-22.3.4-debian-jessie-20200224
@@ -11942,6 +12098,7 @@
 1.11.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.11.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.11.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.3-debian-bullseye-20210902
 1.11.1-erlang-22.3.3-debian-buster-20200224
 1.11.1-erlang-22.3.3-debian-stretch-20200224
 1.11.1-erlang-22.3.3-debian-jessie-20200224
@@ -11953,6 +12110,7 @@
 1.11.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.11.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.11.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.2-debian-bullseye-20210902
 1.11.1-erlang-22.3.2-debian-buster-20200224
 1.11.1-erlang-22.3.2-debian-stretch-20200224
 1.11.1-erlang-22.3.2-debian-jessie-20200224
@@ -11964,6 +12122,7 @@
 1.11.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.11.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.11.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.11.1-erlang-22.3.1-debian-bullseye-20210902
 1.11.1-erlang-22.3.1-debian-buster-20200224
 1.11.1-erlang-22.3.1-debian-stretch-20200224
 1.11.1-erlang-22.3.1-debian-jessie-20200224
@@ -11975,6 +12134,7 @@
 1.11.1-erlang-22.3-ubuntu-bionic-20200219
 1.11.1-erlang-22.3-ubuntu-xenial-20200212
 1.11.1-erlang-22.3-ubuntu-trusty-20191217
+1.11.1-erlang-22.3-debian-bullseye-20210902
 1.11.1-erlang-22.3-debian-buster-20200224
 1.11.1-erlang-22.3-debian-stretch-20200224
 1.11.1-erlang-22.3-debian-jessie-20200224
@@ -13464,6 +13624,7 @@
 1.11.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.11.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.11.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.18-debian-buster-20210326
 1.11.0-erlang-22.3.4.18-debian-stretch-20210326
 1.11.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -13473,6 +13634,7 @@
 1.11.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.11.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.11.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.17-debian-buster-20210326
 1.11.0-erlang-22.3.4.17-debian-stretch-20210326
 1.11.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -13482,6 +13644,7 @@
 1.11.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.11.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.11.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.16-debian-buster-20210208
 1.11.0-erlang-22.3.4.16-debian-stretch-20210208
 1.11.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -13491,6 +13654,7 @@
 1.11.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.11.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.11.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.15-debian-buster-20201012
 1.11.0-erlang-22.3.4.15-debian-stretch-20201012
 1.11.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -13501,6 +13665,7 @@
 1.11.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.11.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.11.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.14-debian-buster-20201012
 1.11.0-erlang-22.3.4.14-debian-stretch-20201012
 1.11.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -13511,6 +13676,7 @@
 1.11.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.11.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.11.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.13-debian-buster-20201012
 1.11.0-erlang-22.3.4.13-debian-stretch-20201012
 1.11.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -13521,6 +13687,7 @@
 1.11.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.11.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.11.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.11.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.11.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -13530,6 +13697,7 @@
 1.11.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.11.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.11.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.12-debian-buster-20200607
 1.11.0-erlang-22.3.4.12-debian-stretch-20200607
 1.11.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -13540,6 +13708,7 @@
 1.11.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.11.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.11.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.11-debian-buster-20200607
 1.11.0-erlang-22.3.4.11-debian-stretch-20200607
 1.11.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -13550,6 +13719,7 @@
 1.11.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.11.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.11.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.10-debian-buster-20200607
 1.11.0-erlang-22.3.4.10-debian-stretch-20200607
 1.11.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -13560,6 +13730,7 @@
 1.11.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.11.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.11.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.11.0-erlang-22.3.4.1-debian-buster-20200511
 1.11.0-erlang-22.3.4.1-debian-stretch-20200511
 1.11.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -13571,6 +13742,7 @@
 1.11.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.11.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.11.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.4-debian-bullseye-20210902
 1.11.0-erlang-22.3.4-debian-buster-20200224
 1.11.0-erlang-22.3.4-debian-stretch-20200224
 1.11.0-erlang-22.3.4-debian-jessie-20200224
@@ -13582,6 +13754,7 @@
 1.11.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.11.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.11.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.3-debian-bullseye-20210902
 1.11.0-erlang-22.3.3-debian-buster-20200224
 1.11.0-erlang-22.3.3-debian-stretch-20200224
 1.11.0-erlang-22.3.3-debian-jessie-20200224
@@ -13593,6 +13766,7 @@
 1.11.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.11.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.11.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.2-debian-bullseye-20210902
 1.11.0-erlang-22.3.2-debian-buster-20200224
 1.11.0-erlang-22.3.2-debian-stretch-20200224
 1.11.0-erlang-22.3.2-debian-jessie-20200224
@@ -13604,6 +13778,7 @@
 1.11.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.11.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.11.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.11.0-erlang-22.3.1-debian-bullseye-20210902
 1.11.0-erlang-22.3.1-debian-buster-20200224
 1.11.0-erlang-22.3.1-debian-stretch-20200224
 1.11.0-erlang-22.3.1-debian-jessie-20200224
@@ -13615,6 +13790,7 @@
 1.11.0-erlang-22.3-ubuntu-bionic-20200219
 1.11.0-erlang-22.3-ubuntu-xenial-20200212
 1.11.0-erlang-22.3-ubuntu-trusty-20191217
+1.11.0-erlang-22.3-debian-bullseye-20210902
 1.11.0-erlang-22.3-debian-buster-20200224
 1.11.0-erlang-22.3-debian-stretch-20200224
 1.11.0-erlang-22.3-debian-jessie-20200224
@@ -15104,6 +15280,7 @@
 1.10.4-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.10.4-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.10.4-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.18-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.18-debian-buster-20210326
 1.10.4-erlang-22.3.4.18-debian-stretch-20210326
 1.10.4-erlang-22.3.4.18-debian-jessie-20210326
@@ -15113,6 +15290,7 @@
 1.10.4-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.10.4-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.10.4-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.17-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.17-debian-buster-20210326
 1.10.4-erlang-22.3.4.17-debian-stretch-20210326
 1.10.4-erlang-22.3.4.17-debian-jessie-20210326
@@ -15122,6 +15300,7 @@
 1.10.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.4-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.10.4-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.16-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.16-debian-buster-20210208
 1.10.4-erlang-22.3.4.16-debian-stretch-20210208
 1.10.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -15131,6 +15310,7 @@
 1.10.4-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.10.4-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.10.4-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.15-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.15-debian-buster-20201012
 1.10.4-erlang-22.3.4.15-debian-stretch-20201012
 1.10.4-erlang-22.3.4.15-debian-jessie-20201012
@@ -15141,6 +15321,7 @@
 1.10.4-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.10.4-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.10.4-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.14-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.14-debian-buster-20201012
 1.10.4-erlang-22.3.4.14-debian-stretch-20201012
 1.10.4-erlang-22.3.4.14-debian-jessie-20201012
@@ -15151,6 +15332,7 @@
 1.10.4-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.10.4-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.10.4-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.13-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.13-debian-buster-20201012
 1.10.4-erlang-22.3.4.13-debian-stretch-20201012
 1.10.4-erlang-22.3.4.13-debian-jessie-20201012
@@ -15161,6 +15343,7 @@
 1.10.4-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.10.4-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.10.4-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.12.1-debian-buster-20210326
 1.10.4-erlang-22.3.4.12.1-debian-stretch-20210326
 1.10.4-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -15170,6 +15353,7 @@
 1.10.4-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.10.4-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.10.4-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.12-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.12-debian-buster-20200607
 1.10.4-erlang-22.3.4.12-debian-stretch-20200607
 1.10.4-erlang-22.3.4.12-debian-jessie-20200607
@@ -15180,6 +15364,7 @@
 1.10.4-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.10.4-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.10.4-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.11-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.11-debian-buster-20200607
 1.10.4-erlang-22.3.4.11-debian-stretch-20200607
 1.10.4-erlang-22.3.4.11-debian-jessie-20200607
@@ -15190,6 +15375,7 @@
 1.10.4-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.10.4-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.10.4-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.10-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.10-debian-buster-20200607
 1.10.4-erlang-22.3.4.10-debian-stretch-20200607
 1.10.4-erlang-22.3.4.10-debian-jessie-20200607
@@ -15200,6 +15386,7 @@
 1.10.4-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.10.4-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.10.4-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4.1-debian-bullseye-20210902
 1.10.4-erlang-22.3.4.1-debian-buster-20200511
 1.10.4-erlang-22.3.4.1-debian-stretch-20200511
 1.10.4-erlang-22.3.4.1-debian-jessie-20200511
@@ -15211,6 +15398,7 @@
 1.10.4-erlang-22.3.4-ubuntu-bionic-20200219
 1.10.4-erlang-22.3.4-ubuntu-xenial-20200212
 1.10.4-erlang-22.3.4-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.4-debian-bullseye-20210902
 1.10.4-erlang-22.3.4-debian-buster-20200224
 1.10.4-erlang-22.3.4-debian-stretch-20200224
 1.10.4-erlang-22.3.4-debian-jessie-20200224
@@ -15222,6 +15410,7 @@
 1.10.4-erlang-22.3.3-ubuntu-bionic-20200219
 1.10.4-erlang-22.3.3-ubuntu-xenial-20200212
 1.10.4-erlang-22.3.3-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.3-debian-bullseye-20210902
 1.10.4-erlang-22.3.3-debian-buster-20200224
 1.10.4-erlang-22.3.3-debian-stretch-20200224
 1.10.4-erlang-22.3.3-debian-jessie-20200224
@@ -15233,6 +15422,7 @@
 1.10.4-erlang-22.3.2-ubuntu-bionic-20200219
 1.10.4-erlang-22.3.2-ubuntu-xenial-20200212
 1.10.4-erlang-22.3.2-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.2-debian-bullseye-20210902
 1.10.4-erlang-22.3.2-debian-buster-20200224
 1.10.4-erlang-22.3.2-debian-stretch-20200224
 1.10.4-erlang-22.3.2-debian-jessie-20200224
@@ -15244,6 +15434,7 @@
 1.10.4-erlang-22.3.1-ubuntu-bionic-20200219
 1.10.4-erlang-22.3.1-ubuntu-xenial-20200212
 1.10.4-erlang-22.3.1-ubuntu-trusty-20191217
+1.10.4-erlang-22.3.1-debian-bullseye-20210902
 1.10.4-erlang-22.3.1-debian-buster-20200224
 1.10.4-erlang-22.3.1-debian-stretch-20200224
 1.10.4-erlang-22.3.1-debian-jessie-20200224
@@ -15255,6 +15446,7 @@
 1.10.4-erlang-22.3-ubuntu-bionic-20200219
 1.10.4-erlang-22.3-ubuntu-xenial-20200212
 1.10.4-erlang-22.3-ubuntu-trusty-20191217
+1.10.4-erlang-22.3-debian-bullseye-20210902
 1.10.4-erlang-22.3-debian-buster-20200224
 1.10.4-erlang-22.3-debian-stretch-20200224
 1.10.4-erlang-22.3-debian-jessie-20200224
@@ -16744,6 +16936,7 @@
 1.10.3-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.10.3-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.10.3-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.18-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.18-debian-buster-20210326
 1.10.3-erlang-22.3.4.18-debian-stretch-20210326
 1.10.3-erlang-22.3.4.18-debian-jessie-20210326
@@ -16753,6 +16946,7 @@
 1.10.3-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.10.3-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.10.3-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.17-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.17-debian-buster-20210326
 1.10.3-erlang-22.3.4.17-debian-stretch-20210326
 1.10.3-erlang-22.3.4.17-debian-jessie-20210326
@@ -16762,6 +16956,7 @@
 1.10.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.3-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.10.3-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.16-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.16-debian-buster-20210208
 1.10.3-erlang-22.3.4.16-debian-stretch-20210208
 1.10.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -16771,6 +16966,7 @@
 1.10.3-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.10.3-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.10.3-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.15-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.15-debian-buster-20201012
 1.10.3-erlang-22.3.4.15-debian-stretch-20201012
 1.10.3-erlang-22.3.4.15-debian-jessie-20201012
@@ -16781,6 +16977,7 @@
 1.10.3-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.10.3-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.10.3-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.14-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.14-debian-buster-20201012
 1.10.3-erlang-22.3.4.14-debian-stretch-20201012
 1.10.3-erlang-22.3.4.14-debian-jessie-20201012
@@ -16791,6 +16988,7 @@
 1.10.3-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.10.3-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.10.3-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.13-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.13-debian-buster-20201012
 1.10.3-erlang-22.3.4.13-debian-stretch-20201012
 1.10.3-erlang-22.3.4.13-debian-jessie-20201012
@@ -16801,6 +16999,7 @@
 1.10.3-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.10.3-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.10.3-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.12.1-debian-buster-20210326
 1.10.3-erlang-22.3.4.12.1-debian-stretch-20210326
 1.10.3-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -16810,6 +17009,7 @@
 1.10.3-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.10.3-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.10.3-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.12-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.12-debian-buster-20200607
 1.10.3-erlang-22.3.4.12-debian-stretch-20200607
 1.10.3-erlang-22.3.4.12-debian-jessie-20200607
@@ -16820,6 +17020,7 @@
 1.10.3-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.10.3-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.10.3-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.11-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.11-debian-buster-20200607
 1.10.3-erlang-22.3.4.11-debian-stretch-20200607
 1.10.3-erlang-22.3.4.11-debian-jessie-20200607
@@ -16830,6 +17031,7 @@
 1.10.3-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.10.3-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.10.3-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.10-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.10-debian-buster-20200607
 1.10.3-erlang-22.3.4.10-debian-stretch-20200607
 1.10.3-erlang-22.3.4.10-debian-jessie-20200607
@@ -16840,6 +17042,7 @@
 1.10.3-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.10.3-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.10.3-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4.1-debian-bullseye-20210902
 1.10.3-erlang-22.3.4.1-debian-buster-20200511
 1.10.3-erlang-22.3.4.1-debian-stretch-20200511
 1.10.3-erlang-22.3.4.1-debian-jessie-20200511
@@ -16851,6 +17054,7 @@
 1.10.3-erlang-22.3.4-ubuntu-bionic-20200219
 1.10.3-erlang-22.3.4-ubuntu-xenial-20200212
 1.10.3-erlang-22.3.4-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.4-debian-bullseye-20210902
 1.10.3-erlang-22.3.4-debian-buster-20200224
 1.10.3-erlang-22.3.4-debian-stretch-20200224
 1.10.3-erlang-22.3.4-debian-jessie-20200224
@@ -16862,6 +17066,7 @@
 1.10.3-erlang-22.3.3-ubuntu-bionic-20200219
 1.10.3-erlang-22.3.3-ubuntu-xenial-20200212
 1.10.3-erlang-22.3.3-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.3-debian-bullseye-20210902
 1.10.3-erlang-22.3.3-debian-buster-20200224
 1.10.3-erlang-22.3.3-debian-stretch-20200224
 1.10.3-erlang-22.3.3-debian-jessie-20200224
@@ -16873,6 +17078,7 @@
 1.10.3-erlang-22.3.2-ubuntu-bionic-20200219
 1.10.3-erlang-22.3.2-ubuntu-xenial-20200212
 1.10.3-erlang-22.3.2-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.2-debian-bullseye-20210902
 1.10.3-erlang-22.3.2-debian-buster-20200224
 1.10.3-erlang-22.3.2-debian-stretch-20200224
 1.10.3-erlang-22.3.2-debian-jessie-20200224
@@ -16884,6 +17090,7 @@
 1.10.3-erlang-22.3.1-ubuntu-bionic-20200219
 1.10.3-erlang-22.3.1-ubuntu-xenial-20200212
 1.10.3-erlang-22.3.1-ubuntu-trusty-20191217
+1.10.3-erlang-22.3.1-debian-bullseye-20210902
 1.10.3-erlang-22.3.1-debian-buster-20200224
 1.10.3-erlang-22.3.1-debian-stretch-20200224
 1.10.3-erlang-22.3.1-debian-jessie-20200224
@@ -16895,6 +17102,7 @@
 1.10.3-erlang-22.3-ubuntu-bionic-20200219
 1.10.3-erlang-22.3-ubuntu-xenial-20200212
 1.10.3-erlang-22.3-ubuntu-trusty-20191217
+1.10.3-erlang-22.3-debian-bullseye-20210902
 1.10.3-erlang-22.3-debian-buster-20200224
 1.10.3-erlang-22.3-debian-stretch-20200224
 1.10.3-erlang-22.3-debian-jessie-20200224
@@ -18002,6 +18210,7 @@
 1.10.2-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.10.2-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.10.2-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.18-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.18-debian-buster-20210326
 1.10.2-erlang-22.3.4.18-debian-stretch-20210326
 1.10.2-erlang-22.3.4.18-debian-jessie-20210326
@@ -18011,6 +18220,7 @@
 1.10.2-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.10.2-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.10.2-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.17-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.17-debian-buster-20210326
 1.10.2-erlang-22.3.4.17-debian-stretch-20210326
 1.10.2-erlang-22.3.4.17-debian-jessie-20210326
@@ -18020,6 +18230,7 @@
 1.10.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.2-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.10.2-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.16-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.16-debian-buster-20210208
 1.10.2-erlang-22.3.4.16-debian-stretch-20210208
 1.10.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -18029,6 +18240,7 @@
 1.10.2-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.10.2-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.10.2-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.15-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.15-debian-buster-20201012
 1.10.2-erlang-22.3.4.15-debian-stretch-20201012
 1.10.2-erlang-22.3.4.15-debian-jessie-20201012
@@ -18039,6 +18251,7 @@
 1.10.2-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.10.2-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.10.2-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.14-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.14-debian-buster-20201012
 1.10.2-erlang-22.3.4.14-debian-stretch-20201012
 1.10.2-erlang-22.3.4.14-debian-jessie-20201012
@@ -18049,6 +18262,7 @@
 1.10.2-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.10.2-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.10.2-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.13-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.13-debian-buster-20201012
 1.10.2-erlang-22.3.4.13-debian-stretch-20201012
 1.10.2-erlang-22.3.4.13-debian-jessie-20201012
@@ -18059,6 +18273,7 @@
 1.10.2-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.10.2-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.10.2-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.12.1-debian-buster-20210326
 1.10.2-erlang-22.3.4.12.1-debian-stretch-20210326
 1.10.2-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -18068,6 +18283,7 @@
 1.10.2-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.10.2-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.10.2-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.12-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.12-debian-buster-20200607
 1.10.2-erlang-22.3.4.12-debian-stretch-20200607
 1.10.2-erlang-22.3.4.12-debian-jessie-20200607
@@ -18078,6 +18294,7 @@
 1.10.2-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.10.2-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.10.2-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.11-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.11-debian-buster-20200607
 1.10.2-erlang-22.3.4.11-debian-stretch-20200607
 1.10.2-erlang-22.3.4.11-debian-jessie-20200607
@@ -18088,6 +18305,7 @@
 1.10.2-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.10.2-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.10.2-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.10-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.10-debian-buster-20200607
 1.10.2-erlang-22.3.4.10-debian-stretch-20200607
 1.10.2-erlang-22.3.4.10-debian-jessie-20200607
@@ -18098,6 +18316,7 @@
 1.10.2-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.10.2-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.10.2-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4.1-debian-bullseye-20210902
 1.10.2-erlang-22.3.4.1-debian-buster-20200511
 1.10.2-erlang-22.3.4.1-debian-stretch-20200511
 1.10.2-erlang-22.3.4.1-debian-jessie-20200511
@@ -18109,6 +18328,7 @@
 1.10.2-erlang-22.3.4-ubuntu-bionic-20200219
 1.10.2-erlang-22.3.4-ubuntu-xenial-20200212
 1.10.2-erlang-22.3.4-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.4-debian-bullseye-20210902
 1.10.2-erlang-22.3.4-debian-buster-20200224
 1.10.2-erlang-22.3.4-debian-stretch-20200224
 1.10.2-erlang-22.3.4-debian-jessie-20200224
@@ -18120,6 +18340,7 @@
 1.10.2-erlang-22.3.3-ubuntu-bionic-20200219
 1.10.2-erlang-22.3.3-ubuntu-xenial-20200212
 1.10.2-erlang-22.3.3-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.3-debian-bullseye-20210902
 1.10.2-erlang-22.3.3-debian-buster-20200224
 1.10.2-erlang-22.3.3-debian-stretch-20200224
 1.10.2-erlang-22.3.3-debian-jessie-20200224
@@ -18131,6 +18352,7 @@
 1.10.2-erlang-22.3.2-ubuntu-bionic-20200219
 1.10.2-erlang-22.3.2-ubuntu-xenial-20200212
 1.10.2-erlang-22.3.2-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.2-debian-bullseye-20210902
 1.10.2-erlang-22.3.2-debian-buster-20200224
 1.10.2-erlang-22.3.2-debian-stretch-20200224
 1.10.2-erlang-22.3.2-debian-jessie-20200224
@@ -18142,6 +18364,7 @@
 1.10.2-erlang-22.3.1-ubuntu-bionic-20200219
 1.10.2-erlang-22.3.1-ubuntu-xenial-20200212
 1.10.2-erlang-22.3.1-ubuntu-trusty-20191217
+1.10.2-erlang-22.3.1-debian-bullseye-20210902
 1.10.2-erlang-22.3.1-debian-buster-20200224
 1.10.2-erlang-22.3.1-debian-stretch-20200224
 1.10.2-erlang-22.3.1-debian-jessie-20200224
@@ -18153,6 +18376,7 @@
 1.10.2-erlang-22.3-ubuntu-bionic-20200219
 1.10.2-erlang-22.3-ubuntu-xenial-20200212
 1.10.2-erlang-22.3-ubuntu-trusty-20191217
+1.10.2-erlang-22.3-debian-bullseye-20210902
 1.10.2-erlang-22.3-debian-buster-20200224
 1.10.2-erlang-22.3-debian-stretch-20200224
 1.10.2-erlang-22.3-debian-jessie-20200224
@@ -19260,6 +19484,7 @@
 1.10.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.10.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.10.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.18-debian-buster-20210326
 1.10.1-erlang-22.3.4.18-debian-stretch-20210326
 1.10.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -19269,6 +19494,7 @@
 1.10.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.10.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.10.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.17-debian-buster-20210326
 1.10.1-erlang-22.3.4.17-debian-stretch-20210326
 1.10.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -19278,6 +19504,7 @@
 1.10.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.10.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.16-debian-buster-20210208
 1.10.1-erlang-22.3.4.16-debian-stretch-20210208
 1.10.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -19287,6 +19514,7 @@
 1.10.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.10.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.10.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.15-debian-buster-20201012
 1.10.1-erlang-22.3.4.15-debian-stretch-20201012
 1.10.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -19297,6 +19525,7 @@
 1.10.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.10.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.10.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.14-debian-buster-20201012
 1.10.1-erlang-22.3.4.14-debian-stretch-20201012
 1.10.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -19307,6 +19536,7 @@
 1.10.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.10.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.10.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.13-debian-buster-20201012
 1.10.1-erlang-22.3.4.13-debian-stretch-20201012
 1.10.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -19317,6 +19547,7 @@
 1.10.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.10.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.10.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.10.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.10.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -19326,6 +19557,7 @@
 1.10.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.10.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.10.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.12-debian-buster-20200607
 1.10.1-erlang-22.3.4.12-debian-stretch-20200607
 1.10.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -19336,6 +19568,7 @@
 1.10.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.10.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.10.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.11-debian-buster-20200607
 1.10.1-erlang-22.3.4.11-debian-stretch-20200607
 1.10.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -19346,6 +19579,7 @@
 1.10.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.10.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.10.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.10-debian-buster-20200607
 1.10.1-erlang-22.3.4.10-debian-stretch-20200607
 1.10.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -19356,6 +19590,7 @@
 1.10.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.10.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.10.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.10.1-erlang-22.3.4.1-debian-buster-20200511
 1.10.1-erlang-22.3.4.1-debian-stretch-20200511
 1.10.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -19367,6 +19602,7 @@
 1.10.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.10.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.10.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.4-debian-bullseye-20210902
 1.10.1-erlang-22.3.4-debian-buster-20200224
 1.10.1-erlang-22.3.4-debian-stretch-20200224
 1.10.1-erlang-22.3.4-debian-jessie-20200224
@@ -19378,6 +19614,7 @@
 1.10.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.10.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.10.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.3-debian-bullseye-20210902
 1.10.1-erlang-22.3.3-debian-buster-20200224
 1.10.1-erlang-22.3.3-debian-stretch-20200224
 1.10.1-erlang-22.3.3-debian-jessie-20200224
@@ -19389,6 +19626,7 @@
 1.10.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.10.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.10.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.2-debian-bullseye-20210902
 1.10.1-erlang-22.3.2-debian-buster-20200224
 1.10.1-erlang-22.3.2-debian-stretch-20200224
 1.10.1-erlang-22.3.2-debian-jessie-20200224
@@ -19400,6 +19638,7 @@
 1.10.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.10.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.10.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.10.1-erlang-22.3.1-debian-bullseye-20210902
 1.10.1-erlang-22.3.1-debian-buster-20200224
 1.10.1-erlang-22.3.1-debian-stretch-20200224
 1.10.1-erlang-22.3.1-debian-jessie-20200224
@@ -19411,6 +19650,7 @@
 1.10.1-erlang-22.3-ubuntu-bionic-20200219
 1.10.1-erlang-22.3-ubuntu-xenial-20200212
 1.10.1-erlang-22.3-ubuntu-trusty-20191217
+1.10.1-erlang-22.3-debian-bullseye-20210902
 1.10.1-erlang-22.3-debian-buster-20200224
 1.10.1-erlang-22.3-debian-stretch-20200224
 1.10.1-erlang-22.3-debian-jessie-20200224
@@ -20518,6 +20758,7 @@
 1.10.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.10.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.10.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.18-debian-buster-20210326
 1.10.0-erlang-22.3.4.18-debian-stretch-20210326
 1.10.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -20527,6 +20768,7 @@
 1.10.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.10.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.10.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.17-debian-buster-20210326
 1.10.0-erlang-22.3.4.17-debian-stretch-20210326
 1.10.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -20536,6 +20778,7 @@
 1.10.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.10.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.10.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.16-debian-buster-20210208
 1.10.0-erlang-22.3.4.16-debian-stretch-20210208
 1.10.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -20545,6 +20788,7 @@
 1.10.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.10.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.10.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.15-debian-buster-20201012
 1.10.0-erlang-22.3.4.15-debian-stretch-20201012
 1.10.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -20555,6 +20799,7 @@
 1.10.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.10.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.10.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.14-debian-buster-20201012
 1.10.0-erlang-22.3.4.14-debian-stretch-20201012
 1.10.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -20565,6 +20810,7 @@
 1.10.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.10.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.10.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.13-debian-buster-20201012
 1.10.0-erlang-22.3.4.13-debian-stretch-20201012
 1.10.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -20575,6 +20821,7 @@
 1.10.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.10.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.10.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.10.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.10.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -20584,6 +20831,7 @@
 1.10.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.10.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.10.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.12-debian-buster-20200607
 1.10.0-erlang-22.3.4.12-debian-stretch-20200607
 1.10.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -20594,6 +20842,7 @@
 1.10.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.10.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.10.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.11-debian-buster-20200607
 1.10.0-erlang-22.3.4.11-debian-stretch-20200607
 1.10.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -20604,6 +20853,7 @@
 1.10.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.10.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.10.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.10-debian-buster-20200607
 1.10.0-erlang-22.3.4.10-debian-stretch-20200607
 1.10.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -20614,6 +20864,7 @@
 1.10.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.10.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.10.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.10.0-erlang-22.3.4.1-debian-buster-20200511
 1.10.0-erlang-22.3.4.1-debian-stretch-20200511
 1.10.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -20625,6 +20876,7 @@
 1.10.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.10.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.10.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.4-debian-bullseye-20210902
 1.10.0-erlang-22.3.4-debian-buster-20200224
 1.10.0-erlang-22.3.4-debian-stretch-20200224
 1.10.0-erlang-22.3.4-debian-jessie-20200224
@@ -20636,6 +20888,7 @@
 1.10.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.10.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.10.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.3-debian-bullseye-20210902
 1.10.0-erlang-22.3.3-debian-buster-20200224
 1.10.0-erlang-22.3.3-debian-stretch-20200224
 1.10.0-erlang-22.3.3-debian-jessie-20200224
@@ -20647,6 +20900,7 @@
 1.10.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.10.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.10.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.2-debian-bullseye-20210902
 1.10.0-erlang-22.3.2-debian-buster-20200224
 1.10.0-erlang-22.3.2-debian-stretch-20200224
 1.10.0-erlang-22.3.2-debian-jessie-20200224
@@ -20658,6 +20912,7 @@
 1.10.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.10.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.10.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.10.0-erlang-22.3.1-debian-bullseye-20210902
 1.10.0-erlang-22.3.1-debian-buster-20200224
 1.10.0-erlang-22.3.1-debian-stretch-20200224
 1.10.0-erlang-22.3.1-debian-jessie-20200224
@@ -20669,6 +20924,7 @@
 1.10.0-erlang-22.3-ubuntu-bionic-20200219
 1.10.0-erlang-22.3-ubuntu-xenial-20200212
 1.10.0-erlang-22.3-ubuntu-trusty-20191217
+1.10.0-erlang-22.3-debian-bullseye-20210902
 1.10.0-erlang-22.3-debian-buster-20200224
 1.10.0-erlang-22.3-debian-stretch-20200224
 1.10.0-erlang-22.3-debian-jessie-20200224
@@ -21776,6 +22032,7 @@
 1.9.4-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.9.4-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.9.4-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.18-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.18-debian-buster-20210326
 1.9.4-erlang-22.3.4.18-debian-stretch-20210326
 1.9.4-erlang-22.3.4.18-debian-jessie-20210326
@@ -21785,6 +22042,7 @@
 1.9.4-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.9.4-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.9.4-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.17-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.17-debian-buster-20210326
 1.9.4-erlang-22.3.4.17-debian-stretch-20210326
 1.9.4-erlang-22.3.4.17-debian-jessie-20210326
@@ -21794,6 +22052,7 @@
 1.9.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.4-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.9.4-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.16-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.16-debian-buster-20210208
 1.9.4-erlang-22.3.4.16-debian-stretch-20210208
 1.9.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -21803,6 +22062,7 @@
 1.9.4-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.9.4-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.9.4-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.15-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.15-debian-buster-20201012
 1.9.4-erlang-22.3.4.15-debian-stretch-20201012
 1.9.4-erlang-22.3.4.15-debian-jessie-20201012
@@ -21813,6 +22073,7 @@
 1.9.4-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.9.4-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.9.4-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.14-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.14-debian-buster-20201012
 1.9.4-erlang-22.3.4.14-debian-stretch-20201012
 1.9.4-erlang-22.3.4.14-debian-jessie-20201012
@@ -21823,6 +22084,7 @@
 1.9.4-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.9.4-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.9.4-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.13-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.13-debian-buster-20201012
 1.9.4-erlang-22.3.4.13-debian-stretch-20201012
 1.9.4-erlang-22.3.4.13-debian-jessie-20201012
@@ -21833,6 +22095,7 @@
 1.9.4-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.9.4-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.9.4-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.12.1-debian-buster-20210326
 1.9.4-erlang-22.3.4.12.1-debian-stretch-20210326
 1.9.4-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -21842,6 +22105,7 @@
 1.9.4-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.9.4-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.9.4-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.12-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.12-debian-buster-20200607
 1.9.4-erlang-22.3.4.12-debian-stretch-20200607
 1.9.4-erlang-22.3.4.12-debian-jessie-20200607
@@ -21852,6 +22116,7 @@
 1.9.4-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.9.4-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.9.4-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.11-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.11-debian-buster-20200607
 1.9.4-erlang-22.3.4.11-debian-stretch-20200607
 1.9.4-erlang-22.3.4.11-debian-jessie-20200607
@@ -21862,6 +22127,7 @@
 1.9.4-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.9.4-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.9.4-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.10-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.10-debian-buster-20200607
 1.9.4-erlang-22.3.4.10-debian-stretch-20200607
 1.9.4-erlang-22.3.4.10-debian-jessie-20200607
@@ -21872,6 +22138,7 @@
 1.9.4-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.9.4-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.9.4-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4.1-debian-bullseye-20210902
 1.9.4-erlang-22.3.4.1-debian-buster-20200511
 1.9.4-erlang-22.3.4.1-debian-stretch-20200511
 1.9.4-erlang-22.3.4.1-debian-jessie-20200511
@@ -21883,6 +22150,7 @@
 1.9.4-erlang-22.3.4-ubuntu-bionic-20200219
 1.9.4-erlang-22.3.4-ubuntu-xenial-20200212
 1.9.4-erlang-22.3.4-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.4-debian-bullseye-20210902
 1.9.4-erlang-22.3.4-debian-buster-20200224
 1.9.4-erlang-22.3.4-debian-stretch-20200224
 1.9.4-erlang-22.3.4-debian-jessie-20200224
@@ -21894,6 +22162,7 @@
 1.9.4-erlang-22.3.3-ubuntu-bionic-20200219
 1.9.4-erlang-22.3.3-ubuntu-xenial-20200212
 1.9.4-erlang-22.3.3-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.3-debian-bullseye-20210902
 1.9.4-erlang-22.3.3-debian-buster-20200224
 1.9.4-erlang-22.3.3-debian-stretch-20200224
 1.9.4-erlang-22.3.3-debian-jessie-20200224
@@ -21905,6 +22174,7 @@
 1.9.4-erlang-22.3.2-ubuntu-bionic-20200219
 1.9.4-erlang-22.3.2-ubuntu-xenial-20200212
 1.9.4-erlang-22.3.2-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.2-debian-bullseye-20210902
 1.9.4-erlang-22.3.2-debian-buster-20200224
 1.9.4-erlang-22.3.2-debian-stretch-20200224
 1.9.4-erlang-22.3.2-debian-jessie-20200224
@@ -21916,6 +22186,7 @@
 1.9.4-erlang-22.3.1-ubuntu-bionic-20200219
 1.9.4-erlang-22.3.1-ubuntu-xenial-20200212
 1.9.4-erlang-22.3.1-ubuntu-trusty-20191217
+1.9.4-erlang-22.3.1-debian-bullseye-20210902
 1.9.4-erlang-22.3.1-debian-buster-20200224
 1.9.4-erlang-22.3.1-debian-stretch-20200224
 1.9.4-erlang-22.3.1-debian-jessie-20200224
@@ -21927,6 +22198,7 @@
 1.9.4-erlang-22.3-ubuntu-bionic-20200219
 1.9.4-erlang-22.3-ubuntu-xenial-20200212
 1.9.4-erlang-22.3-ubuntu-trusty-20191217
+1.9.4-erlang-22.3-debian-bullseye-20210902
 1.9.4-erlang-22.3-debian-buster-20200224
 1.9.4-erlang-22.3-debian-stretch-20200224
 1.9.4-erlang-22.3-debian-jessie-20200224
@@ -23648,6 +23920,7 @@
 1.9.3-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.9.3-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.9.3-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.18-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.18-debian-buster-20210326
 1.9.3-erlang-22.3.4.18-debian-stretch-20210326
 1.9.3-erlang-22.3.4.18-debian-jessie-20210326
@@ -23657,6 +23930,7 @@
 1.9.3-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.9.3-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.9.3-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.17-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.17-debian-buster-20210326
 1.9.3-erlang-22.3.4.17-debian-stretch-20210326
 1.9.3-erlang-22.3.4.17-debian-jessie-20210326
@@ -23666,6 +23940,7 @@
 1.9.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.3-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.9.3-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.16-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.16-debian-buster-20210208
 1.9.3-erlang-22.3.4.16-debian-stretch-20210208
 1.9.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -23675,6 +23950,7 @@
 1.9.3-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.9.3-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.9.3-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.15-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.15-debian-buster-20201012
 1.9.3-erlang-22.3.4.15-debian-stretch-20201012
 1.9.3-erlang-22.3.4.15-debian-jessie-20201012
@@ -23685,6 +23961,7 @@
 1.9.3-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.9.3-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.9.3-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.14-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.14-debian-buster-20201012
 1.9.3-erlang-22.3.4.14-debian-stretch-20201012
 1.9.3-erlang-22.3.4.14-debian-jessie-20201012
@@ -23695,6 +23972,7 @@
 1.9.3-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.9.3-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.9.3-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.13-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.13-debian-buster-20201012
 1.9.3-erlang-22.3.4.13-debian-stretch-20201012
 1.9.3-erlang-22.3.4.13-debian-jessie-20201012
@@ -23705,6 +23983,7 @@
 1.9.3-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.9.3-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.9.3-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.12.1-debian-buster-20210326
 1.9.3-erlang-22.3.4.12.1-debian-stretch-20210326
 1.9.3-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -23714,6 +23993,7 @@
 1.9.3-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.9.3-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.9.3-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.12-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.12-debian-buster-20200607
 1.9.3-erlang-22.3.4.12-debian-stretch-20200607
 1.9.3-erlang-22.3.4.12-debian-jessie-20200607
@@ -23724,6 +24004,7 @@
 1.9.3-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.9.3-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.9.3-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.11-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.11-debian-buster-20200607
 1.9.3-erlang-22.3.4.11-debian-stretch-20200607
 1.9.3-erlang-22.3.4.11-debian-jessie-20200607
@@ -23734,6 +24015,7 @@
 1.9.3-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.9.3-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.9.3-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.10-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.10-debian-buster-20200607
 1.9.3-erlang-22.3.4.10-debian-stretch-20200607
 1.9.3-erlang-22.3.4.10-debian-jessie-20200607
@@ -23744,6 +24026,7 @@
 1.9.3-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.9.3-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.9.3-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4.1-debian-bullseye-20210902
 1.9.3-erlang-22.3.4.1-debian-buster-20200511
 1.9.3-erlang-22.3.4.1-debian-stretch-20200511
 1.9.3-erlang-22.3.4.1-debian-jessie-20200511
@@ -23755,6 +24038,7 @@
 1.9.3-erlang-22.3.4-ubuntu-bionic-20200219
 1.9.3-erlang-22.3.4-ubuntu-xenial-20200212
 1.9.3-erlang-22.3.4-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.4-debian-bullseye-20210902
 1.9.3-erlang-22.3.4-debian-buster-20200224
 1.9.3-erlang-22.3.4-debian-stretch-20200224
 1.9.3-erlang-22.3.4-debian-jessie-20200224
@@ -23766,6 +24050,7 @@
 1.9.3-erlang-22.3.3-ubuntu-bionic-20200219
 1.9.3-erlang-22.3.3-ubuntu-xenial-20200212
 1.9.3-erlang-22.3.3-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.3-debian-bullseye-20210902
 1.9.3-erlang-22.3.3-debian-buster-20200224
 1.9.3-erlang-22.3.3-debian-stretch-20200224
 1.9.3-erlang-22.3.3-debian-jessie-20200224
@@ -23777,6 +24062,7 @@
 1.9.3-erlang-22.3.2-ubuntu-bionic-20200219
 1.9.3-erlang-22.3.2-ubuntu-xenial-20200212
 1.9.3-erlang-22.3.2-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.2-debian-bullseye-20210902
 1.9.3-erlang-22.3.2-debian-buster-20200224
 1.9.3-erlang-22.3.2-debian-stretch-20200224
 1.9.3-erlang-22.3.2-debian-jessie-20200224
@@ -23788,6 +24074,7 @@
 1.9.3-erlang-22.3.1-ubuntu-bionic-20200219
 1.9.3-erlang-22.3.1-ubuntu-xenial-20200212
 1.9.3-erlang-22.3.1-ubuntu-trusty-20191217
+1.9.3-erlang-22.3.1-debian-bullseye-20210902
 1.9.3-erlang-22.3.1-debian-buster-20200224
 1.9.3-erlang-22.3.1-debian-stretch-20200224
 1.9.3-erlang-22.3.1-debian-jessie-20200224
@@ -23799,6 +24086,7 @@
 1.9.3-erlang-22.3-ubuntu-bionic-20200219
 1.9.3-erlang-22.3-ubuntu-xenial-20200212
 1.9.3-erlang-22.3-ubuntu-trusty-20191217
+1.9.3-erlang-22.3-debian-bullseye-20210902
 1.9.3-erlang-22.3-debian-buster-20200224
 1.9.3-erlang-22.3-debian-stretch-20200224
 1.9.3-erlang-22.3-debian-jessie-20200224
@@ -25520,6 +25808,7 @@
 1.9.2-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.9.2-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.9.2-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.18-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.18-debian-buster-20210326
 1.9.2-erlang-22.3.4.18-debian-stretch-20210326
 1.9.2-erlang-22.3.4.18-debian-jessie-20210326
@@ -25529,6 +25818,7 @@
 1.9.2-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.9.2-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.9.2-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.17-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.17-debian-buster-20210326
 1.9.2-erlang-22.3.4.17-debian-stretch-20210326
 1.9.2-erlang-22.3.4.17-debian-jessie-20210326
@@ -25538,6 +25828,7 @@
 1.9.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.2-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.9.2-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.16-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.16-debian-buster-20210208
 1.9.2-erlang-22.3.4.16-debian-stretch-20210208
 1.9.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -25547,6 +25838,7 @@
 1.9.2-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.9.2-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.9.2-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.15-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.15-debian-buster-20201012
 1.9.2-erlang-22.3.4.15-debian-stretch-20201012
 1.9.2-erlang-22.3.4.15-debian-jessie-20201012
@@ -25557,6 +25849,7 @@
 1.9.2-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.9.2-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.9.2-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.14-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.14-debian-buster-20201012
 1.9.2-erlang-22.3.4.14-debian-stretch-20201012
 1.9.2-erlang-22.3.4.14-debian-jessie-20201012
@@ -25567,6 +25860,7 @@
 1.9.2-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.9.2-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.9.2-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.13-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.13-debian-buster-20201012
 1.9.2-erlang-22.3.4.13-debian-stretch-20201012
 1.9.2-erlang-22.3.4.13-debian-jessie-20201012
@@ -25577,6 +25871,7 @@
 1.9.2-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.9.2-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.9.2-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.12.1-debian-buster-20210326
 1.9.2-erlang-22.3.4.12.1-debian-stretch-20210326
 1.9.2-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -25586,6 +25881,7 @@
 1.9.2-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.9.2-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.9.2-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.12-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.12-debian-buster-20200607
 1.9.2-erlang-22.3.4.12-debian-stretch-20200607
 1.9.2-erlang-22.3.4.12-debian-jessie-20200607
@@ -25596,6 +25892,7 @@
 1.9.2-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.9.2-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.9.2-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.11-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.11-debian-buster-20200607
 1.9.2-erlang-22.3.4.11-debian-stretch-20200607
 1.9.2-erlang-22.3.4.11-debian-jessie-20200607
@@ -25606,6 +25903,7 @@
 1.9.2-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.9.2-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.9.2-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.10-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.10-debian-buster-20200607
 1.9.2-erlang-22.3.4.10-debian-stretch-20200607
 1.9.2-erlang-22.3.4.10-debian-jessie-20200607
@@ -25616,6 +25914,7 @@
 1.9.2-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.9.2-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.9.2-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4.1-debian-bullseye-20210902
 1.9.2-erlang-22.3.4.1-debian-buster-20200511
 1.9.2-erlang-22.3.4.1-debian-stretch-20200511
 1.9.2-erlang-22.3.4.1-debian-jessie-20200511
@@ -25627,6 +25926,7 @@
 1.9.2-erlang-22.3.4-ubuntu-bionic-20200219
 1.9.2-erlang-22.3.4-ubuntu-xenial-20200212
 1.9.2-erlang-22.3.4-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.4-debian-bullseye-20210902
 1.9.2-erlang-22.3.4-debian-buster-20200224
 1.9.2-erlang-22.3.4-debian-stretch-20200224
 1.9.2-erlang-22.3.4-debian-jessie-20200224
@@ -25638,6 +25938,7 @@
 1.9.2-erlang-22.3.3-ubuntu-bionic-20200219
 1.9.2-erlang-22.3.3-ubuntu-xenial-20200212
 1.9.2-erlang-22.3.3-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.3-debian-bullseye-20210902
 1.9.2-erlang-22.3.3-debian-buster-20200224
 1.9.2-erlang-22.3.3-debian-stretch-20200224
 1.9.2-erlang-22.3.3-debian-jessie-20200224
@@ -25649,6 +25950,7 @@
 1.9.2-erlang-22.3.2-ubuntu-bionic-20200219
 1.9.2-erlang-22.3.2-ubuntu-xenial-20200212
 1.9.2-erlang-22.3.2-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.2-debian-bullseye-20210902
 1.9.2-erlang-22.3.2-debian-buster-20200224
 1.9.2-erlang-22.3.2-debian-stretch-20200224
 1.9.2-erlang-22.3.2-debian-jessie-20200224
@@ -25660,6 +25962,7 @@
 1.9.2-erlang-22.3.1-ubuntu-bionic-20200219
 1.9.2-erlang-22.3.1-ubuntu-xenial-20200212
 1.9.2-erlang-22.3.1-ubuntu-trusty-20191217
+1.9.2-erlang-22.3.1-debian-bullseye-20210902
 1.9.2-erlang-22.3.1-debian-buster-20200224
 1.9.2-erlang-22.3.1-debian-stretch-20200224
 1.9.2-erlang-22.3.1-debian-jessie-20200224
@@ -25671,6 +25974,7 @@
 1.9.2-erlang-22.3-ubuntu-bionic-20200219
 1.9.2-erlang-22.3-ubuntu-xenial-20200212
 1.9.2-erlang-22.3-ubuntu-trusty-20191217
+1.9.2-erlang-22.3-debian-bullseye-20210902
 1.9.2-erlang-22.3-debian-buster-20200224
 1.9.2-erlang-22.3-debian-stretch-20200224
 1.9.2-erlang-22.3-debian-jessie-20200224
@@ -27392,6 +27696,7 @@
 1.9.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.9.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.9.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.18-debian-buster-20210326
 1.9.1-erlang-22.3.4.18-debian-stretch-20210326
 1.9.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -27401,6 +27706,7 @@
 1.9.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.9.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.9.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.17-debian-buster-20210326
 1.9.1-erlang-22.3.4.17-debian-stretch-20210326
 1.9.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -27410,6 +27716,7 @@
 1.9.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.9.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.16-debian-buster-20210208
 1.9.1-erlang-22.3.4.16-debian-stretch-20210208
 1.9.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -27419,6 +27726,7 @@
 1.9.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.9.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.9.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.15-debian-buster-20201012
 1.9.1-erlang-22.3.4.15-debian-stretch-20201012
 1.9.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -27429,6 +27737,7 @@
 1.9.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.9.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.9.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.14-debian-buster-20201012
 1.9.1-erlang-22.3.4.14-debian-stretch-20201012
 1.9.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -27439,6 +27748,7 @@
 1.9.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.9.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.9.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.13-debian-buster-20201012
 1.9.1-erlang-22.3.4.13-debian-stretch-20201012
 1.9.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -27449,6 +27759,7 @@
 1.9.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.9.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.9.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.9.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.9.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -27458,6 +27769,7 @@
 1.9.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.9.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.9.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.12-debian-buster-20200607
 1.9.1-erlang-22.3.4.12-debian-stretch-20200607
 1.9.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -27468,6 +27780,7 @@
 1.9.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.9.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.9.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.11-debian-buster-20200607
 1.9.1-erlang-22.3.4.11-debian-stretch-20200607
 1.9.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -27478,6 +27791,7 @@
 1.9.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.9.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.9.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.10-debian-buster-20200607
 1.9.1-erlang-22.3.4.10-debian-stretch-20200607
 1.9.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -27488,6 +27802,7 @@
 1.9.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.9.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.9.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.9.1-erlang-22.3.4.1-debian-buster-20200511
 1.9.1-erlang-22.3.4.1-debian-stretch-20200511
 1.9.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -27499,6 +27814,7 @@
 1.9.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.9.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.9.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.4-debian-bullseye-20210902
 1.9.1-erlang-22.3.4-debian-buster-20200224
 1.9.1-erlang-22.3.4-debian-stretch-20200224
 1.9.1-erlang-22.3.4-debian-jessie-20200224
@@ -27510,6 +27826,7 @@
 1.9.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.9.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.9.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.3-debian-bullseye-20210902
 1.9.1-erlang-22.3.3-debian-buster-20200224
 1.9.1-erlang-22.3.3-debian-stretch-20200224
 1.9.1-erlang-22.3.3-debian-jessie-20200224
@@ -27521,6 +27838,7 @@
 1.9.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.9.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.9.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.2-debian-bullseye-20210902
 1.9.1-erlang-22.3.2-debian-buster-20200224
 1.9.1-erlang-22.3.2-debian-stretch-20200224
 1.9.1-erlang-22.3.2-debian-jessie-20200224
@@ -27532,6 +27850,7 @@
 1.9.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.9.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.9.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.9.1-erlang-22.3.1-debian-bullseye-20210902
 1.9.1-erlang-22.3.1-debian-buster-20200224
 1.9.1-erlang-22.3.1-debian-stretch-20200224
 1.9.1-erlang-22.3.1-debian-jessie-20200224
@@ -27543,6 +27862,7 @@
 1.9.1-erlang-22.3-ubuntu-bionic-20200219
 1.9.1-erlang-22.3-ubuntu-xenial-20200212
 1.9.1-erlang-22.3-ubuntu-trusty-20191217
+1.9.1-erlang-22.3-debian-bullseye-20210902
 1.9.1-erlang-22.3-debian-buster-20200224
 1.9.1-erlang-22.3-debian-stretch-20200224
 1.9.1-erlang-22.3-debian-jessie-20200224
@@ -29264,6 +29584,7 @@
 1.9.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.9.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.9.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.18-debian-buster-20210326
 1.9.0-erlang-22.3.4.18-debian-stretch-20210326
 1.9.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -29273,6 +29594,7 @@
 1.9.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.9.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.9.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.17-debian-buster-20210326
 1.9.0-erlang-22.3.4.17-debian-stretch-20210326
 1.9.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -29282,6 +29604,7 @@
 1.9.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.9.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.9.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.16-debian-buster-20210208
 1.9.0-erlang-22.3.4.16-debian-stretch-20210208
 1.9.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -29291,6 +29614,7 @@
 1.9.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.9.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.9.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.15-debian-buster-20201012
 1.9.0-erlang-22.3.4.15-debian-stretch-20201012
 1.9.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -29301,6 +29625,7 @@
 1.9.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.9.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.9.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.14-debian-buster-20201012
 1.9.0-erlang-22.3.4.14-debian-stretch-20201012
 1.9.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -29311,6 +29636,7 @@
 1.9.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.9.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.9.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.13-debian-buster-20201012
 1.9.0-erlang-22.3.4.13-debian-stretch-20201012
 1.9.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -29321,6 +29647,7 @@
 1.9.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.9.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.9.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.9.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.9.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -29330,6 +29657,7 @@
 1.9.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.9.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.9.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.12-debian-buster-20200607
 1.9.0-erlang-22.3.4.12-debian-stretch-20200607
 1.9.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -29340,6 +29668,7 @@
 1.9.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.9.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.9.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.11-debian-buster-20200607
 1.9.0-erlang-22.3.4.11-debian-stretch-20200607
 1.9.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -29350,6 +29679,7 @@
 1.9.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.9.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.9.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.10-debian-buster-20200607
 1.9.0-erlang-22.3.4.10-debian-stretch-20200607
 1.9.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -29360,6 +29690,7 @@
 1.9.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.9.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.9.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.9.0-erlang-22.3.4.1-debian-buster-20200511
 1.9.0-erlang-22.3.4.1-debian-stretch-20200511
 1.9.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -29371,6 +29702,7 @@
 1.9.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.9.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.9.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.4-debian-bullseye-20210902
 1.9.0-erlang-22.3.4-debian-buster-20200224
 1.9.0-erlang-22.3.4-debian-stretch-20200224
 1.9.0-erlang-22.3.4-debian-jessie-20200224
@@ -29382,6 +29714,7 @@
 1.9.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.9.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.9.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.3-debian-bullseye-20210902
 1.9.0-erlang-22.3.3-debian-buster-20200224
 1.9.0-erlang-22.3.3-debian-stretch-20200224
 1.9.0-erlang-22.3.3-debian-jessie-20200224
@@ -29393,6 +29726,7 @@
 1.9.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.9.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.9.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.2-debian-bullseye-20210902
 1.9.0-erlang-22.3.2-debian-buster-20200224
 1.9.0-erlang-22.3.2-debian-stretch-20200224
 1.9.0-erlang-22.3.2-debian-jessie-20200224
@@ -29404,6 +29738,7 @@
 1.9.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.9.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.9.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.9.0-erlang-22.3.1-debian-bullseye-20210902
 1.9.0-erlang-22.3.1-debian-buster-20200224
 1.9.0-erlang-22.3.1-debian-stretch-20200224
 1.9.0-erlang-22.3.1-debian-jessie-20200224
@@ -29415,6 +29750,7 @@
 1.9.0-erlang-22.3-ubuntu-bionic-20200219
 1.9.0-erlang-22.3-ubuntu-xenial-20200212
 1.9.0-erlang-22.3-ubuntu-trusty-20191217
+1.9.0-erlang-22.3-debian-bullseye-20210902
 1.9.0-erlang-22.3-debian-buster-20200224
 1.9.0-erlang-22.3-debian-stretch-20200224
 1.9.0-erlang-22.3-debian-jessie-20200224
@@ -31136,6 +31472,7 @@
 1.8.2-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.8.2-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.8.2-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.18-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.18-debian-buster-20210326
 1.8.2-erlang-22.3.4.18-debian-stretch-20210326
 1.8.2-erlang-22.3.4.18-debian-jessie-20210326
@@ -31145,6 +31482,7 @@
 1.8.2-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.8.2-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.8.2-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.17-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.17-debian-buster-20210326
 1.8.2-erlang-22.3.4.17-debian-stretch-20210326
 1.8.2-erlang-22.3.4.17-debian-jessie-20210326
@@ -31154,6 +31492,7 @@
 1.8.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.8.2-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.8.2-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.16-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.16-debian-buster-20210208
 1.8.2-erlang-22.3.4.16-debian-stretch-20210208
 1.8.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -31163,6 +31502,7 @@
 1.8.2-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.8.2-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.8.2-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.15-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.15-debian-buster-20201012
 1.8.2-erlang-22.3.4.15-debian-stretch-20201012
 1.8.2-erlang-22.3.4.15-debian-jessie-20201012
@@ -31173,6 +31513,7 @@
 1.8.2-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.8.2-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.8.2-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.14-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.14-debian-buster-20201012
 1.8.2-erlang-22.3.4.14-debian-stretch-20201012
 1.8.2-erlang-22.3.4.14-debian-jessie-20201012
@@ -31183,6 +31524,7 @@
 1.8.2-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.8.2-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.8.2-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.13-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.13-debian-buster-20201012
 1.8.2-erlang-22.3.4.13-debian-stretch-20201012
 1.8.2-erlang-22.3.4.13-debian-jessie-20201012
@@ -31193,6 +31535,7 @@
 1.8.2-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.8.2-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.8.2-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.12.1-debian-buster-20210326
 1.8.2-erlang-22.3.4.12.1-debian-stretch-20210326
 1.8.2-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -31202,6 +31545,7 @@
 1.8.2-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.8.2-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.8.2-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.12-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.12-debian-buster-20200607
 1.8.2-erlang-22.3.4.12-debian-stretch-20200607
 1.8.2-erlang-22.3.4.12-debian-jessie-20200607
@@ -31212,6 +31556,7 @@
 1.8.2-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.8.2-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.8.2-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.11-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.11-debian-buster-20200607
 1.8.2-erlang-22.3.4.11-debian-stretch-20200607
 1.8.2-erlang-22.3.4.11-debian-jessie-20200607
@@ -31222,6 +31567,7 @@
 1.8.2-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.8.2-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.8.2-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.10-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.10-debian-buster-20200607
 1.8.2-erlang-22.3.4.10-debian-stretch-20200607
 1.8.2-erlang-22.3.4.10-debian-jessie-20200607
@@ -31232,6 +31578,7 @@
 1.8.2-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.8.2-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.8.2-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4.1-debian-bullseye-20210902
 1.8.2-erlang-22.3.4.1-debian-buster-20200511
 1.8.2-erlang-22.3.4.1-debian-stretch-20200511
 1.8.2-erlang-22.3.4.1-debian-jessie-20200511
@@ -31243,6 +31590,7 @@
 1.8.2-erlang-22.3.4-ubuntu-bionic-20200219
 1.8.2-erlang-22.3.4-ubuntu-xenial-20200212
 1.8.2-erlang-22.3.4-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.4-debian-bullseye-20210902
 1.8.2-erlang-22.3.4-debian-buster-20200224
 1.8.2-erlang-22.3.4-debian-stretch-20200224
 1.8.2-erlang-22.3.4-debian-jessie-20200224
@@ -31254,6 +31602,7 @@
 1.8.2-erlang-22.3.3-ubuntu-bionic-20200219
 1.8.2-erlang-22.3.3-ubuntu-xenial-20200212
 1.8.2-erlang-22.3.3-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.3-debian-bullseye-20210902
 1.8.2-erlang-22.3.3-debian-buster-20200224
 1.8.2-erlang-22.3.3-debian-stretch-20200224
 1.8.2-erlang-22.3.3-debian-jessie-20200224
@@ -31265,6 +31614,7 @@
 1.8.2-erlang-22.3.2-ubuntu-bionic-20200219
 1.8.2-erlang-22.3.2-ubuntu-xenial-20200212
 1.8.2-erlang-22.3.2-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.2-debian-bullseye-20210902
 1.8.2-erlang-22.3.2-debian-buster-20200224
 1.8.2-erlang-22.3.2-debian-stretch-20200224
 1.8.2-erlang-22.3.2-debian-jessie-20200224
@@ -31276,6 +31626,7 @@
 1.8.2-erlang-22.3.1-ubuntu-bionic-20200219
 1.8.2-erlang-22.3.1-ubuntu-xenial-20200212
 1.8.2-erlang-22.3.1-ubuntu-trusty-20191217
+1.8.2-erlang-22.3.1-debian-bullseye-20210902
 1.8.2-erlang-22.3.1-debian-buster-20200224
 1.8.2-erlang-22.3.1-debian-stretch-20200224
 1.8.2-erlang-22.3.1-debian-jessie-20200224
@@ -31287,6 +31638,7 @@
 1.8.2-erlang-22.3-ubuntu-bionic-20200219
 1.8.2-erlang-22.3-ubuntu-xenial-20200212
 1.8.2-erlang-22.3-ubuntu-trusty-20191217
+1.8.2-erlang-22.3-debian-bullseye-20210902
 1.8.2-erlang-22.3-debian-buster-20200224
 1.8.2-erlang-22.3-debian-stretch-20200224
 1.8.2-erlang-22.3-debian-jessie-20200224
@@ -33008,6 +33360,7 @@
 1.8.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.8.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.8.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.18-debian-buster-20210326
 1.8.1-erlang-22.3.4.18-debian-stretch-20210326
 1.8.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -33017,6 +33370,7 @@
 1.8.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.8.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.8.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.17-debian-buster-20210326
 1.8.1-erlang-22.3.4.17-debian-stretch-20210326
 1.8.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -33026,6 +33380,7 @@
 1.8.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.8.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.8.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.16-debian-buster-20210208
 1.8.1-erlang-22.3.4.16-debian-stretch-20210208
 1.8.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -33035,6 +33390,7 @@
 1.8.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.8.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.8.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.15-debian-buster-20201012
 1.8.1-erlang-22.3.4.15-debian-stretch-20201012
 1.8.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -33045,6 +33401,7 @@
 1.8.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.8.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.8.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.14-debian-buster-20201012
 1.8.1-erlang-22.3.4.14-debian-stretch-20201012
 1.8.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -33055,6 +33412,7 @@
 1.8.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.8.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.8.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.13-debian-buster-20201012
 1.8.1-erlang-22.3.4.13-debian-stretch-20201012
 1.8.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -33065,6 +33423,7 @@
 1.8.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.8.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.8.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.8.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.8.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -33074,6 +33433,7 @@
 1.8.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.8.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.8.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.12-debian-buster-20200607
 1.8.1-erlang-22.3.4.12-debian-stretch-20200607
 1.8.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -33084,6 +33444,7 @@
 1.8.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.8.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.8.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.11-debian-buster-20200607
 1.8.1-erlang-22.3.4.11-debian-stretch-20200607
 1.8.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -33094,6 +33455,7 @@
 1.8.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.8.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.8.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.10-debian-buster-20200607
 1.8.1-erlang-22.3.4.10-debian-stretch-20200607
 1.8.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -33104,6 +33466,7 @@
 1.8.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.8.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.8.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.8.1-erlang-22.3.4.1-debian-buster-20200511
 1.8.1-erlang-22.3.4.1-debian-stretch-20200511
 1.8.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -33115,6 +33478,7 @@
 1.8.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.8.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.8.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.4-debian-bullseye-20210902
 1.8.1-erlang-22.3.4-debian-buster-20200224
 1.8.1-erlang-22.3.4-debian-stretch-20200224
 1.8.1-erlang-22.3.4-debian-jessie-20200224
@@ -33126,6 +33490,7 @@
 1.8.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.8.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.8.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.3-debian-bullseye-20210902
 1.8.1-erlang-22.3.3-debian-buster-20200224
 1.8.1-erlang-22.3.3-debian-stretch-20200224
 1.8.1-erlang-22.3.3-debian-jessie-20200224
@@ -33137,6 +33502,7 @@
 1.8.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.8.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.8.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.2-debian-bullseye-20210902
 1.8.1-erlang-22.3.2-debian-buster-20200224
 1.8.1-erlang-22.3.2-debian-stretch-20200224
 1.8.1-erlang-22.3.2-debian-jessie-20200224
@@ -33148,6 +33514,7 @@
 1.8.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.8.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.8.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.8.1-erlang-22.3.1-debian-bullseye-20210902
 1.8.1-erlang-22.3.1-debian-buster-20200224
 1.8.1-erlang-22.3.1-debian-stretch-20200224
 1.8.1-erlang-22.3.1-debian-jessie-20200224
@@ -33159,6 +33526,7 @@
 1.8.1-erlang-22.3-ubuntu-bionic-20200219
 1.8.1-erlang-22.3-ubuntu-xenial-20200212
 1.8.1-erlang-22.3-ubuntu-trusty-20191217
+1.8.1-erlang-22.3-debian-bullseye-20210902
 1.8.1-erlang-22.3-debian-buster-20200224
 1.8.1-erlang-22.3-debian-stretch-20200224
 1.8.1-erlang-22.3-debian-jessie-20200224
@@ -34880,6 +35248,7 @@
 1.8.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.8.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.8.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.18-debian-buster-20210326
 1.8.0-erlang-22.3.4.18-debian-stretch-20210326
 1.8.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -34889,6 +35258,7 @@
 1.8.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.8.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.8.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.17-debian-buster-20210326
 1.8.0-erlang-22.3.4.17-debian-stretch-20210326
 1.8.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -34898,6 +35268,7 @@
 1.8.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.8.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.8.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.16-debian-buster-20210208
 1.8.0-erlang-22.3.4.16-debian-stretch-20210208
 1.8.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -34907,6 +35278,7 @@
 1.8.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.8.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.8.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.15-debian-buster-20201012
 1.8.0-erlang-22.3.4.15-debian-stretch-20201012
 1.8.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -34917,6 +35289,7 @@
 1.8.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.8.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.8.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.14-debian-buster-20201012
 1.8.0-erlang-22.3.4.14-debian-stretch-20201012
 1.8.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -34927,6 +35300,7 @@
 1.8.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.8.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.8.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.13-debian-buster-20201012
 1.8.0-erlang-22.3.4.13-debian-stretch-20201012
 1.8.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -34937,6 +35311,7 @@
 1.8.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.8.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.8.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.8.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.8.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -34946,6 +35321,7 @@
 1.8.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.8.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.8.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.12-debian-buster-20200607
 1.8.0-erlang-22.3.4.12-debian-stretch-20200607
 1.8.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -34956,6 +35332,7 @@
 1.8.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.8.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.8.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.11-debian-buster-20200607
 1.8.0-erlang-22.3.4.11-debian-stretch-20200607
 1.8.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -34966,6 +35343,7 @@
 1.8.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.8.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.8.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.10-debian-buster-20200607
 1.8.0-erlang-22.3.4.10-debian-stretch-20200607
 1.8.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -34976,6 +35354,7 @@
 1.8.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.8.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.8.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.8.0-erlang-22.3.4.1-debian-buster-20200511
 1.8.0-erlang-22.3.4.1-debian-stretch-20200511
 1.8.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -34987,6 +35366,7 @@
 1.8.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.8.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.8.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.4-debian-bullseye-20210902
 1.8.0-erlang-22.3.4-debian-buster-20200224
 1.8.0-erlang-22.3.4-debian-stretch-20200224
 1.8.0-erlang-22.3.4-debian-jessie-20200224
@@ -34998,6 +35378,7 @@
 1.8.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.8.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.8.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.3-debian-bullseye-20210902
 1.8.0-erlang-22.3.3-debian-buster-20200224
 1.8.0-erlang-22.3.3-debian-stretch-20200224
 1.8.0-erlang-22.3.3-debian-jessie-20200224
@@ -35009,6 +35390,7 @@
 1.8.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.8.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.8.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.2-debian-bullseye-20210902
 1.8.0-erlang-22.3.2-debian-buster-20200224
 1.8.0-erlang-22.3.2-debian-stretch-20200224
 1.8.0-erlang-22.3.2-debian-jessie-20200224
@@ -35020,6 +35402,7 @@
 1.8.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.8.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.8.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.8.0-erlang-22.3.1-debian-bullseye-20210902
 1.8.0-erlang-22.3.1-debian-buster-20200224
 1.8.0-erlang-22.3.1-debian-stretch-20200224
 1.8.0-erlang-22.3.1-debian-jessie-20200224
@@ -35031,6 +35414,7 @@
 1.8.0-erlang-22.3-ubuntu-bionic-20200219
 1.8.0-erlang-22.3-ubuntu-xenial-20200212
 1.8.0-erlang-22.3-ubuntu-trusty-20191217
+1.8.0-erlang-22.3-debian-bullseye-20210902
 1.8.0-erlang-22.3-debian-buster-20200224
 1.8.0-erlang-22.3-debian-stretch-20200224
 1.8.0-erlang-22.3-debian-jessie-20200224
@@ -36752,6 +37136,7 @@
 1.7.4-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.7.4-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.7.4-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.18-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.18-debian-buster-20210326
 1.7.4-erlang-22.3.4.18-debian-stretch-20210326
 1.7.4-erlang-22.3.4.18-debian-jessie-20210326
@@ -36761,6 +37146,7 @@
 1.7.4-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.7.4-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.7.4-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.17-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.17-debian-buster-20210326
 1.7.4-erlang-22.3.4.17-debian-stretch-20210326
 1.7.4-erlang-22.3.4.17-debian-jessie-20210326
@@ -36770,6 +37156,7 @@
 1.7.4-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.4-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.7.4-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.16-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.16-debian-buster-20210208
 1.7.4-erlang-22.3.4.16-debian-stretch-20210208
 1.7.4-erlang-22.3.4.16-debian-jessie-20210208
@@ -36779,6 +37166,7 @@
 1.7.4-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.7.4-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.7.4-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.15-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.15-debian-buster-20201012
 1.7.4-erlang-22.3.4.15-debian-stretch-20201012
 1.7.4-erlang-22.3.4.15-debian-jessie-20201012
@@ -36789,6 +37177,7 @@
 1.7.4-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.7.4-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.7.4-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.14-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.14-debian-buster-20201012
 1.7.4-erlang-22.3.4.14-debian-stretch-20201012
 1.7.4-erlang-22.3.4.14-debian-jessie-20201012
@@ -36799,6 +37188,7 @@
 1.7.4-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.7.4-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.7.4-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.13-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.13-debian-buster-20201012
 1.7.4-erlang-22.3.4.13-debian-stretch-20201012
 1.7.4-erlang-22.3.4.13-debian-jessie-20201012
@@ -36809,6 +37199,7 @@
 1.7.4-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.7.4-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.7.4-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.12.1-debian-buster-20210326
 1.7.4-erlang-22.3.4.12.1-debian-stretch-20210326
 1.7.4-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -36818,6 +37209,7 @@
 1.7.4-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.7.4-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.7.4-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.12-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.12-debian-buster-20200607
 1.7.4-erlang-22.3.4.12-debian-stretch-20200607
 1.7.4-erlang-22.3.4.12-debian-jessie-20200607
@@ -36828,6 +37220,7 @@
 1.7.4-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.7.4-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.7.4-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.11-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.11-debian-buster-20200607
 1.7.4-erlang-22.3.4.11-debian-stretch-20200607
 1.7.4-erlang-22.3.4.11-debian-jessie-20200607
@@ -36838,6 +37231,7 @@
 1.7.4-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.7.4-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.7.4-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.10-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.10-debian-buster-20200607
 1.7.4-erlang-22.3.4.10-debian-stretch-20200607
 1.7.4-erlang-22.3.4.10-debian-jessie-20200607
@@ -36848,6 +37242,7 @@
 1.7.4-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.7.4-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.7.4-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4.1-debian-bullseye-20210902
 1.7.4-erlang-22.3.4.1-debian-buster-20200511
 1.7.4-erlang-22.3.4.1-debian-stretch-20200511
 1.7.4-erlang-22.3.4.1-debian-jessie-20200511
@@ -36859,6 +37254,7 @@
 1.7.4-erlang-22.3.4-ubuntu-bionic-20200219
 1.7.4-erlang-22.3.4-ubuntu-xenial-20200212
 1.7.4-erlang-22.3.4-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.4-debian-bullseye-20210902
 1.7.4-erlang-22.3.4-debian-buster-20200224
 1.7.4-erlang-22.3.4-debian-stretch-20200224
 1.7.4-erlang-22.3.4-debian-jessie-20200224
@@ -36870,6 +37266,7 @@
 1.7.4-erlang-22.3.3-ubuntu-bionic-20200219
 1.7.4-erlang-22.3.3-ubuntu-xenial-20200212
 1.7.4-erlang-22.3.3-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.3-debian-bullseye-20210902
 1.7.4-erlang-22.3.3-debian-buster-20200224
 1.7.4-erlang-22.3.3-debian-stretch-20200224
 1.7.4-erlang-22.3.3-debian-jessie-20200224
@@ -36881,6 +37278,7 @@
 1.7.4-erlang-22.3.2-ubuntu-bionic-20200219
 1.7.4-erlang-22.3.2-ubuntu-xenial-20200212
 1.7.4-erlang-22.3.2-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.2-debian-bullseye-20210902
 1.7.4-erlang-22.3.2-debian-buster-20200224
 1.7.4-erlang-22.3.2-debian-stretch-20200224
 1.7.4-erlang-22.3.2-debian-jessie-20200224
@@ -36892,6 +37290,7 @@
 1.7.4-erlang-22.3.1-ubuntu-bionic-20200219
 1.7.4-erlang-22.3.1-ubuntu-xenial-20200212
 1.7.4-erlang-22.3.1-ubuntu-trusty-20191217
+1.7.4-erlang-22.3.1-debian-bullseye-20210902
 1.7.4-erlang-22.3.1-debian-buster-20200224
 1.7.4-erlang-22.3.1-debian-stretch-20200224
 1.7.4-erlang-22.3.1-debian-jessie-20200224
@@ -36903,6 +37302,7 @@
 1.7.4-erlang-22.3-ubuntu-bionic-20200219
 1.7.4-erlang-22.3-ubuntu-xenial-20200212
 1.7.4-erlang-22.3-ubuntu-trusty-20191217
+1.7.4-erlang-22.3-debian-bullseye-20210902
 1.7.4-erlang-22.3-debian-buster-20200224
 1.7.4-erlang-22.3-debian-stretch-20200224
 1.7.4-erlang-22.3-debian-jessie-20200224
@@ -38990,6 +39390,7 @@
 1.7.3-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.7.3-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.7.3-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.18-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.18-debian-buster-20210326
 1.7.3-erlang-22.3.4.18-debian-stretch-20210326
 1.7.3-erlang-22.3.4.18-debian-jessie-20210326
@@ -38999,6 +39400,7 @@
 1.7.3-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.7.3-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.7.3-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.17-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.17-debian-buster-20210326
 1.7.3-erlang-22.3.4.17-debian-stretch-20210326
 1.7.3-erlang-22.3.4.17-debian-jessie-20210326
@@ -39008,6 +39410,7 @@
 1.7.3-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.3-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.7.3-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.16-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.16-debian-buster-20210208
 1.7.3-erlang-22.3.4.16-debian-stretch-20210208
 1.7.3-erlang-22.3.4.16-debian-jessie-20210208
@@ -39017,6 +39420,7 @@
 1.7.3-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.7.3-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.7.3-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.15-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.15-debian-buster-20201012
 1.7.3-erlang-22.3.4.15-debian-stretch-20201012
 1.7.3-erlang-22.3.4.15-debian-jessie-20201012
@@ -39027,6 +39431,7 @@
 1.7.3-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.7.3-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.7.3-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.14-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.14-debian-buster-20201012
 1.7.3-erlang-22.3.4.14-debian-stretch-20201012
 1.7.3-erlang-22.3.4.14-debian-jessie-20201012
@@ -39037,6 +39442,7 @@
 1.7.3-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.7.3-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.7.3-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.13-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.13-debian-buster-20201012
 1.7.3-erlang-22.3.4.13-debian-stretch-20201012
 1.7.3-erlang-22.3.4.13-debian-jessie-20201012
@@ -39047,6 +39453,7 @@
 1.7.3-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.7.3-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.7.3-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.12.1-debian-buster-20210326
 1.7.3-erlang-22.3.4.12.1-debian-stretch-20210326
 1.7.3-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -39056,6 +39463,7 @@
 1.7.3-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.7.3-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.7.3-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.12-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.12-debian-buster-20200607
 1.7.3-erlang-22.3.4.12-debian-stretch-20200607
 1.7.3-erlang-22.3.4.12-debian-jessie-20200607
@@ -39066,6 +39474,7 @@
 1.7.3-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.7.3-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.7.3-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.11-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.11-debian-buster-20200607
 1.7.3-erlang-22.3.4.11-debian-stretch-20200607
 1.7.3-erlang-22.3.4.11-debian-jessie-20200607
@@ -39076,6 +39485,7 @@
 1.7.3-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.7.3-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.7.3-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.10-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.10-debian-buster-20200607
 1.7.3-erlang-22.3.4.10-debian-stretch-20200607
 1.7.3-erlang-22.3.4.10-debian-jessie-20200607
@@ -39086,6 +39496,7 @@
 1.7.3-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.7.3-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.7.3-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4.1-debian-bullseye-20210902
 1.7.3-erlang-22.3.4.1-debian-buster-20200511
 1.7.3-erlang-22.3.4.1-debian-stretch-20200511
 1.7.3-erlang-22.3.4.1-debian-jessie-20200511
@@ -39097,6 +39508,7 @@
 1.7.3-erlang-22.3.4-ubuntu-bionic-20200219
 1.7.3-erlang-22.3.4-ubuntu-xenial-20200212
 1.7.3-erlang-22.3.4-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.4-debian-bullseye-20210902
 1.7.3-erlang-22.3.4-debian-buster-20200224
 1.7.3-erlang-22.3.4-debian-stretch-20200224
 1.7.3-erlang-22.3.4-debian-jessie-20200224
@@ -39108,6 +39520,7 @@
 1.7.3-erlang-22.3.3-ubuntu-bionic-20200219
 1.7.3-erlang-22.3.3-ubuntu-xenial-20200212
 1.7.3-erlang-22.3.3-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.3-debian-bullseye-20210902
 1.7.3-erlang-22.3.3-debian-buster-20200224
 1.7.3-erlang-22.3.3-debian-stretch-20200224
 1.7.3-erlang-22.3.3-debian-jessie-20200224
@@ -39119,6 +39532,7 @@
 1.7.3-erlang-22.3.2-ubuntu-bionic-20200219
 1.7.3-erlang-22.3.2-ubuntu-xenial-20200212
 1.7.3-erlang-22.3.2-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.2-debian-bullseye-20210902
 1.7.3-erlang-22.3.2-debian-buster-20200224
 1.7.3-erlang-22.3.2-debian-stretch-20200224
 1.7.3-erlang-22.3.2-debian-jessie-20200224
@@ -39130,6 +39544,7 @@
 1.7.3-erlang-22.3.1-ubuntu-bionic-20200219
 1.7.3-erlang-22.3.1-ubuntu-xenial-20200212
 1.7.3-erlang-22.3.1-ubuntu-trusty-20191217
+1.7.3-erlang-22.3.1-debian-bullseye-20210902
 1.7.3-erlang-22.3.1-debian-buster-20200224
 1.7.3-erlang-22.3.1-debian-stretch-20200224
 1.7.3-erlang-22.3.1-debian-jessie-20200224
@@ -39141,6 +39556,7 @@
 1.7.3-erlang-22.3-ubuntu-bionic-20200219
 1.7.3-erlang-22.3-ubuntu-xenial-20200212
 1.7.3-erlang-22.3-ubuntu-trusty-20191217
+1.7.3-erlang-22.3-debian-bullseye-20210902
 1.7.3-erlang-22.3-debian-buster-20200224
 1.7.3-erlang-22.3-debian-stretch-20200224
 1.7.3-erlang-22.3-debian-jessie-20200224
@@ -41228,6 +41644,7 @@
 1.7.2-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.7.2-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.7.2-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.18-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.18-debian-buster-20210326
 1.7.2-erlang-22.3.4.18-debian-stretch-20210326
 1.7.2-erlang-22.3.4.18-debian-jessie-20210326
@@ -41237,6 +41654,7 @@
 1.7.2-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.7.2-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.7.2-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.17-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.17-debian-buster-20210326
 1.7.2-erlang-22.3.4.17-debian-stretch-20210326
 1.7.2-erlang-22.3.4.17-debian-jessie-20210326
@@ -41246,6 +41664,7 @@
 1.7.2-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.2-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.7.2-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.16-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.16-debian-buster-20210208
 1.7.2-erlang-22.3.4.16-debian-stretch-20210208
 1.7.2-erlang-22.3.4.16-debian-jessie-20210208
@@ -41255,6 +41674,7 @@
 1.7.2-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.7.2-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.7.2-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.15-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.15-debian-buster-20201012
 1.7.2-erlang-22.3.4.15-debian-stretch-20201012
 1.7.2-erlang-22.3.4.15-debian-jessie-20201012
@@ -41265,6 +41685,7 @@
 1.7.2-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.7.2-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.7.2-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.14-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.14-debian-buster-20201012
 1.7.2-erlang-22.3.4.14-debian-stretch-20201012
 1.7.2-erlang-22.3.4.14-debian-jessie-20201012
@@ -41275,6 +41696,7 @@
 1.7.2-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.7.2-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.7.2-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.13-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.13-debian-buster-20201012
 1.7.2-erlang-22.3.4.13-debian-stretch-20201012
 1.7.2-erlang-22.3.4.13-debian-jessie-20201012
@@ -41285,6 +41707,7 @@
 1.7.2-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.7.2-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.7.2-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.12.1-debian-buster-20210326
 1.7.2-erlang-22.3.4.12.1-debian-stretch-20210326
 1.7.2-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -41294,6 +41717,7 @@
 1.7.2-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.7.2-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.7.2-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.12-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.12-debian-buster-20200607
 1.7.2-erlang-22.3.4.12-debian-stretch-20200607
 1.7.2-erlang-22.3.4.12-debian-jessie-20200607
@@ -41304,6 +41728,7 @@
 1.7.2-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.7.2-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.7.2-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.11-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.11-debian-buster-20200607
 1.7.2-erlang-22.3.4.11-debian-stretch-20200607
 1.7.2-erlang-22.3.4.11-debian-jessie-20200607
@@ -41314,6 +41739,7 @@
 1.7.2-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.7.2-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.7.2-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.10-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.10-debian-buster-20200607
 1.7.2-erlang-22.3.4.10-debian-stretch-20200607
 1.7.2-erlang-22.3.4.10-debian-jessie-20200607
@@ -41324,6 +41750,7 @@
 1.7.2-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.7.2-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.7.2-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4.1-debian-bullseye-20210902
 1.7.2-erlang-22.3.4.1-debian-buster-20200511
 1.7.2-erlang-22.3.4.1-debian-stretch-20200511
 1.7.2-erlang-22.3.4.1-debian-jessie-20200511
@@ -41335,6 +41762,7 @@
 1.7.2-erlang-22.3.4-ubuntu-bionic-20200219
 1.7.2-erlang-22.3.4-ubuntu-xenial-20200212
 1.7.2-erlang-22.3.4-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.4-debian-bullseye-20210902
 1.7.2-erlang-22.3.4-debian-buster-20200224
 1.7.2-erlang-22.3.4-debian-stretch-20200224
 1.7.2-erlang-22.3.4-debian-jessie-20200224
@@ -41346,6 +41774,7 @@
 1.7.2-erlang-22.3.3-ubuntu-bionic-20200219
 1.7.2-erlang-22.3.3-ubuntu-xenial-20200212
 1.7.2-erlang-22.3.3-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.3-debian-bullseye-20210902
 1.7.2-erlang-22.3.3-debian-buster-20200224
 1.7.2-erlang-22.3.3-debian-stretch-20200224
 1.7.2-erlang-22.3.3-debian-jessie-20200224
@@ -41357,6 +41786,7 @@
 1.7.2-erlang-22.3.2-ubuntu-bionic-20200219
 1.7.2-erlang-22.3.2-ubuntu-xenial-20200212
 1.7.2-erlang-22.3.2-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.2-debian-bullseye-20210902
 1.7.2-erlang-22.3.2-debian-buster-20200224
 1.7.2-erlang-22.3.2-debian-stretch-20200224
 1.7.2-erlang-22.3.2-debian-jessie-20200224
@@ -41368,6 +41798,7 @@
 1.7.2-erlang-22.3.1-ubuntu-bionic-20200219
 1.7.2-erlang-22.3.1-ubuntu-xenial-20200212
 1.7.2-erlang-22.3.1-ubuntu-trusty-20191217
+1.7.2-erlang-22.3.1-debian-bullseye-20210902
 1.7.2-erlang-22.3.1-debian-buster-20200224
 1.7.2-erlang-22.3.1-debian-stretch-20200224
 1.7.2-erlang-22.3.1-debian-jessie-20200224
@@ -41379,6 +41810,7 @@
 1.7.2-erlang-22.3-ubuntu-bionic-20200219
 1.7.2-erlang-22.3-ubuntu-xenial-20200212
 1.7.2-erlang-22.3-ubuntu-trusty-20191217
+1.7.2-erlang-22.3-debian-bullseye-20210902
 1.7.2-erlang-22.3-debian-buster-20200224
 1.7.2-erlang-22.3-debian-stretch-20200224
 1.7.2-erlang-22.3-debian-jessie-20200224
@@ -43466,6 +43898,7 @@
 1.7.1-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.7.1-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.7.1-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.18-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.18-debian-buster-20210326
 1.7.1-erlang-22.3.4.18-debian-stretch-20210326
 1.7.1-erlang-22.3.4.18-debian-jessie-20210326
@@ -43475,6 +43908,7 @@
 1.7.1-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.7.1-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.7.1-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.17-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.17-debian-buster-20210326
 1.7.1-erlang-22.3.4.17-debian-stretch-20210326
 1.7.1-erlang-22.3.4.17-debian-jessie-20210326
@@ -43484,6 +43918,7 @@
 1.7.1-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.1-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.7.1-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.16-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.16-debian-buster-20210208
 1.7.1-erlang-22.3.4.16-debian-stretch-20210208
 1.7.1-erlang-22.3.4.16-debian-jessie-20210208
@@ -43493,6 +43928,7 @@
 1.7.1-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.7.1-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.7.1-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.15-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.15-debian-buster-20201012
 1.7.1-erlang-22.3.4.15-debian-stretch-20201012
 1.7.1-erlang-22.3.4.15-debian-jessie-20201012
@@ -43503,6 +43939,7 @@
 1.7.1-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.7.1-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.7.1-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.14-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.14-debian-buster-20201012
 1.7.1-erlang-22.3.4.14-debian-stretch-20201012
 1.7.1-erlang-22.3.4.14-debian-jessie-20201012
@@ -43513,6 +43950,7 @@
 1.7.1-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.7.1-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.7.1-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.13-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.13-debian-buster-20201012
 1.7.1-erlang-22.3.4.13-debian-stretch-20201012
 1.7.1-erlang-22.3.4.13-debian-jessie-20201012
@@ -43523,6 +43961,7 @@
 1.7.1-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.7.1-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.7.1-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.12.1-debian-buster-20210326
 1.7.1-erlang-22.3.4.12.1-debian-stretch-20210326
 1.7.1-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -43532,6 +43971,7 @@
 1.7.1-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.7.1-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.7.1-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.12-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.12-debian-buster-20200607
 1.7.1-erlang-22.3.4.12-debian-stretch-20200607
 1.7.1-erlang-22.3.4.12-debian-jessie-20200607
@@ -43542,6 +43982,7 @@
 1.7.1-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.7.1-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.7.1-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.11-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.11-debian-buster-20200607
 1.7.1-erlang-22.3.4.11-debian-stretch-20200607
 1.7.1-erlang-22.3.4.11-debian-jessie-20200607
@@ -43552,6 +43993,7 @@
 1.7.1-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.7.1-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.7.1-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.10-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.10-debian-buster-20200607
 1.7.1-erlang-22.3.4.10-debian-stretch-20200607
 1.7.1-erlang-22.3.4.10-debian-jessie-20200607
@@ -43562,6 +44004,7 @@
 1.7.1-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.7.1-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.7.1-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4.1-debian-bullseye-20210902
 1.7.1-erlang-22.3.4.1-debian-buster-20200511
 1.7.1-erlang-22.3.4.1-debian-stretch-20200511
 1.7.1-erlang-22.3.4.1-debian-jessie-20200511
@@ -43573,6 +44016,7 @@
 1.7.1-erlang-22.3.4-ubuntu-bionic-20200219
 1.7.1-erlang-22.3.4-ubuntu-xenial-20200212
 1.7.1-erlang-22.3.4-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.4-debian-bullseye-20210902
 1.7.1-erlang-22.3.4-debian-buster-20200224
 1.7.1-erlang-22.3.4-debian-stretch-20200224
 1.7.1-erlang-22.3.4-debian-jessie-20200224
@@ -43584,6 +44028,7 @@
 1.7.1-erlang-22.3.3-ubuntu-bionic-20200219
 1.7.1-erlang-22.3.3-ubuntu-xenial-20200212
 1.7.1-erlang-22.3.3-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.3-debian-bullseye-20210902
 1.7.1-erlang-22.3.3-debian-buster-20200224
 1.7.1-erlang-22.3.3-debian-stretch-20200224
 1.7.1-erlang-22.3.3-debian-jessie-20200224
@@ -43595,6 +44040,7 @@
 1.7.1-erlang-22.3.2-ubuntu-bionic-20200219
 1.7.1-erlang-22.3.2-ubuntu-xenial-20200212
 1.7.1-erlang-22.3.2-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.2-debian-bullseye-20210902
 1.7.1-erlang-22.3.2-debian-buster-20200224
 1.7.1-erlang-22.3.2-debian-stretch-20200224
 1.7.1-erlang-22.3.2-debian-jessie-20200224
@@ -43606,6 +44052,7 @@
 1.7.1-erlang-22.3.1-ubuntu-bionic-20200219
 1.7.1-erlang-22.3.1-ubuntu-xenial-20200212
 1.7.1-erlang-22.3.1-ubuntu-trusty-20191217
+1.7.1-erlang-22.3.1-debian-bullseye-20210902
 1.7.1-erlang-22.3.1-debian-buster-20200224
 1.7.1-erlang-22.3.1-debian-stretch-20200224
 1.7.1-erlang-22.3.1-debian-jessie-20200224
@@ -43617,6 +44064,7 @@
 1.7.1-erlang-22.3-ubuntu-bionic-20200219
 1.7.1-erlang-22.3-ubuntu-xenial-20200212
 1.7.1-erlang-22.3-ubuntu-trusty-20191217
+1.7.1-erlang-22.3-debian-bullseye-20210902
 1.7.1-erlang-22.3-debian-buster-20200224
 1.7.1-erlang-22.3-debian-stretch-20200224
 1.7.1-erlang-22.3-debian-jessie-20200224
@@ -45704,6 +46152,7 @@
 1.7.0-erlang-22.3.4.18-ubuntu-bionic-20210325
 1.7.0-erlang-22.3.4.18-ubuntu-xenial-20210114
 1.7.0-erlang-22.3.4.18-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.18-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.18-debian-buster-20210326
 1.7.0-erlang-22.3.4.18-debian-stretch-20210326
 1.7.0-erlang-22.3.4.18-debian-jessie-20210326
@@ -45713,6 +46162,7 @@
 1.7.0-erlang-22.3.4.17-ubuntu-bionic-20210325
 1.7.0-erlang-22.3.4.17-ubuntu-xenial-20210114
 1.7.0-erlang-22.3.4.17-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.17-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.17-debian-buster-20210326
 1.7.0-erlang-22.3.4.17-debian-stretch-20210326
 1.7.0-erlang-22.3.4.17-debian-jessie-20210326
@@ -45722,6 +46172,7 @@
 1.7.0-erlang-22.3.4.16-ubuntu-bionic-20210118
 1.7.0-erlang-22.3.4.16-ubuntu-xenial-20201014
 1.7.0-erlang-22.3.4.16-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.16-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.16-debian-buster-20210208
 1.7.0-erlang-22.3.4.16-debian-stretch-20210208
 1.7.0-erlang-22.3.4.16-debian-jessie-20210208
@@ -45731,6 +46182,7 @@
 1.7.0-erlang-22.3.4.15-ubuntu-bionic-20200921
 1.7.0-erlang-22.3.4.15-ubuntu-xenial-20201014
 1.7.0-erlang-22.3.4.15-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.15-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.15-debian-buster-20201012
 1.7.0-erlang-22.3.4.15-debian-stretch-20201012
 1.7.0-erlang-22.3.4.15-debian-jessie-20201012
@@ -45741,6 +46193,7 @@
 1.7.0-erlang-22.3.4.14-ubuntu-bionic-20200921
 1.7.0-erlang-22.3.4.14-ubuntu-xenial-20201014
 1.7.0-erlang-22.3.4.14-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.14-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.14-debian-buster-20201012
 1.7.0-erlang-22.3.4.14-debian-stretch-20201012
 1.7.0-erlang-22.3.4.14-debian-jessie-20201012
@@ -45751,6 +46204,7 @@
 1.7.0-erlang-22.3.4.13-ubuntu-bionic-20200921
 1.7.0-erlang-22.3.4.13-ubuntu-xenial-20201014
 1.7.0-erlang-22.3.4.13-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.13-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.13-debian-buster-20201012
 1.7.0-erlang-22.3.4.13-debian-stretch-20201012
 1.7.0-erlang-22.3.4.13-debian-jessie-20201012
@@ -45761,6 +46215,7 @@
 1.7.0-erlang-22.3.4.12.1-ubuntu-bionic-20210325
 1.7.0-erlang-22.3.4.12.1-ubuntu-xenial-20210114
 1.7.0-erlang-22.3.4.12.1-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.12.1-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.12.1-debian-buster-20210326
 1.7.0-erlang-22.3.4.12.1-debian-stretch-20210326
 1.7.0-erlang-22.3.4.12.1-debian-jessie-20210326
@@ -45770,6 +46225,7 @@
 1.7.0-erlang-22.3.4.12-ubuntu-bionic-20200630
 1.7.0-erlang-22.3.4.12-ubuntu-xenial-20200619
 1.7.0-erlang-22.3.4.12-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.12-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.12-debian-buster-20200607
 1.7.0-erlang-22.3.4.12-debian-stretch-20200607
 1.7.0-erlang-22.3.4.12-debian-jessie-20200607
@@ -45780,6 +46236,7 @@
 1.7.0-erlang-22.3.4.11-ubuntu-bionic-20200630
 1.7.0-erlang-22.3.4.11-ubuntu-xenial-20200619
 1.7.0-erlang-22.3.4.11-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.11-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.11-debian-buster-20200607
 1.7.0-erlang-22.3.4.11-debian-stretch-20200607
 1.7.0-erlang-22.3.4.11-debian-jessie-20200607
@@ -45790,6 +46247,7 @@
 1.7.0-erlang-22.3.4.10-ubuntu-bionic-20200630
 1.7.0-erlang-22.3.4.10-ubuntu-xenial-20200619
 1.7.0-erlang-22.3.4.10-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.10-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.10-debian-buster-20200607
 1.7.0-erlang-22.3.4.10-debian-stretch-20200607
 1.7.0-erlang-22.3.4.10-debian-jessie-20200607
@@ -45800,6 +46258,7 @@
 1.7.0-erlang-22.3.4.1-ubuntu-bionic-20200403
 1.7.0-erlang-22.3.4.1-ubuntu-xenial-20200326
 1.7.0-erlang-22.3.4.1-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4.1-debian-bullseye-20210902
 1.7.0-erlang-22.3.4.1-debian-buster-20200511
 1.7.0-erlang-22.3.4.1-debian-stretch-20200511
 1.7.0-erlang-22.3.4.1-debian-jessie-20200511
@@ -45811,6 +46270,7 @@
 1.7.0-erlang-22.3.4-ubuntu-bionic-20200219
 1.7.0-erlang-22.3.4-ubuntu-xenial-20200212
 1.7.0-erlang-22.3.4-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.4-debian-bullseye-20210902
 1.7.0-erlang-22.3.4-debian-buster-20200224
 1.7.0-erlang-22.3.4-debian-stretch-20200224
 1.7.0-erlang-22.3.4-debian-jessie-20200224
@@ -45822,6 +46282,7 @@
 1.7.0-erlang-22.3.3-ubuntu-bionic-20200219
 1.7.0-erlang-22.3.3-ubuntu-xenial-20200212
 1.7.0-erlang-22.3.3-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.3-debian-bullseye-20210902
 1.7.0-erlang-22.3.3-debian-buster-20200224
 1.7.0-erlang-22.3.3-debian-stretch-20200224
 1.7.0-erlang-22.3.3-debian-jessie-20200224
@@ -45833,6 +46294,7 @@
 1.7.0-erlang-22.3.2-ubuntu-bionic-20200219
 1.7.0-erlang-22.3.2-ubuntu-xenial-20200212
 1.7.0-erlang-22.3.2-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.2-debian-bullseye-20210902
 1.7.0-erlang-22.3.2-debian-buster-20200224
 1.7.0-erlang-22.3.2-debian-stretch-20200224
 1.7.0-erlang-22.3.2-debian-jessie-20200224
@@ -45844,6 +46306,7 @@
 1.7.0-erlang-22.3.1-ubuntu-bionic-20200219
 1.7.0-erlang-22.3.1-ubuntu-xenial-20200212
 1.7.0-erlang-22.3.1-ubuntu-trusty-20191217
+1.7.0-erlang-22.3.1-debian-bullseye-20210902
 1.7.0-erlang-22.3.1-debian-buster-20200224
 1.7.0-erlang-22.3.1-debian-stretch-20200224
 1.7.0-erlang-22.3.1-debian-jessie-20200224
@@ -45855,6 +46318,7 @@
 1.7.0-erlang-22.3-ubuntu-bionic-20200219
 1.7.0-erlang-22.3-ubuntu-xenial-20200212
 1.7.0-erlang-22.3-ubuntu-trusty-20191217
+1.7.0-erlang-22.3-debian-bullseye-20210902
 1.7.0-erlang-22.3-debian-buster-20200224
 1.7.0-erlang-22.3-debian-stretch-20200224
 1.7.0-erlang-22.3-debian-jessie-20200224

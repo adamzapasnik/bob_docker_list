@@ -2168,6 +2168,7 @@
 20.3.8.13-ubuntu-bionic-20200403
 20.3.8.13-ubuntu-xenial-20200326
 20.3.8.13-ubuntu-trusty-20191217
+20.3.8.13-debian-bullseye-20210902-slim
 20.3.8.13-debian-bullseye-20210902
 20.3.8.13-debian-buster-20200511
 20.3.8.13-debian-stretch-20200511
@@ -2179,8 +2180,10 @@
 20.3.8.12-ubuntu-bionic-20200403
 20.3.8.12-ubuntu-xenial-20200326
 20.3.8.12-ubuntu-trusty-20191217
+20.3.8.12-debian-bullseye-20210902-slim
 20.3.8.12-debian-bullseye-20210902
 20.3.8.12-debian-buster-20200511
+20.3.8.12-debian-stretch-20210902-slim
 20.3.8.12-debian-stretch-20200511
 20.3.8.12-debian-jessie-20200511
 20.3.8.12-alpine-3.12.0
@@ -2190,8 +2193,10 @@
 20.3.8.11-ubuntu-bionic-20200403
 20.3.8.11-ubuntu-xenial-20200326
 20.3.8.11-ubuntu-trusty-20191217
+20.3.8.11-debian-bullseye-20210902-slim
 20.3.8.11-debian-bullseye-20210902
 20.3.8.11-debian-buster-20200511
+20.3.8.11-debian-stretch-20210902-slim
 20.3.8.11-debian-stretch-20200511
 20.3.8.11-debian-jessie-20200511
 20.3.8.11-alpine-3.12.0
@@ -2201,8 +2206,10 @@
 20.3.8.10-ubuntu-bionic-20200403
 20.3.8.10-ubuntu-xenial-20200326
 20.3.8.10-ubuntu-trusty-20191217
+20.3.8.10-debian-bullseye-20210902-slim
 20.3.8.10-debian-bullseye-20210902
 20.3.8.10-debian-buster-20200511
+20.3.8.10-debian-stretch-20210902-slim
 20.3.8.10-debian-stretch-20200511
 20.3.8.10-debian-jessie-20200511
 20.3.8.10-alpine-3.12.0
@@ -2212,8 +2219,10 @@
 20.3.8.1-ubuntu-bionic-20200403
 20.3.8.1-ubuntu-xenial-20200326
 20.3.8.1-ubuntu-trusty-20191217
+20.3.8.1-debian-bullseye-20210902-slim
 20.3.8.1-debian-bullseye-20210902
 20.3.8.1-debian-buster-20200511
+20.3.8.1-debian-stretch-20210902-slim
 20.3.8.1-debian-stretch-20200511
 20.3.8.1-debian-jessie-20200511
 20.3.8.1-alpine-3.12.0
@@ -2226,6 +2235,7 @@
 20.3.8-debian-bullseye-20210902-slim
 20.3.8-debian-bullseye-20210902
 20.3.8-debian-buster-20200224
+20.3.8-debian-stretch-20210902-slim
 20.3.8-debian-stretch-20200224
 20.3.8-debian-jessie-20200224
 20.3.8-alpine-3.12.0
@@ -2543,6 +2553,7 @@
 20.1.1-ubuntu-trusty-20191217
 20.1.1-debian-bullseye-20210902-slim
 20.1.1-debian-bullseye-20210902
+20.1.1-debian-buster-20210902-slim
 20.1.1-debian-buster-20200224
 20.1.1-debian-stretch-20210902-slim
 20.1.1-debian-stretch-20200224
@@ -2557,6 +2568,7 @@
 20.1-ubuntu-trusty-20191217
 20.1-debian-bullseye-20210902-slim
 20.1-debian-bullseye-20210902
+20.1-debian-buster-20210902-slim
 20.1-debian-buster-20200224
 20.1-debian-stretch-20210902-slim
 20.1-debian-stretch-20200224
@@ -2571,6 +2583,7 @@
 20.0.5-ubuntu-trusty-20191217
 20.0.5-debian-bullseye-20210902-slim
 20.0.5-debian-bullseye-20210902
+20.0.5-debian-buster-20210902-slim
 20.0.5-debian-buster-20200224
 20.0.5-debian-stretch-20210902-slim
 20.0.5-debian-stretch-20200224
@@ -2585,6 +2598,7 @@
 20.0.4-ubuntu-trusty-20191217
 20.0.4-debian-bullseye-20210902-slim
 20.0.4-debian-bullseye-20210902
+20.0.4-debian-buster-20210902-slim
 20.0.4-debian-buster-20200224
 20.0.4-debian-stretch-20210902-slim
 20.0.4-debian-stretch-20200224
@@ -2599,6 +2613,7 @@
 20.0.3-ubuntu-trusty-20191217
 20.0.3-debian-bullseye-20210902-slim
 20.0.3-debian-bullseye-20210902
+20.0.3-debian-buster-20210902-slim
 20.0.3-debian-buster-20200224
 20.0.3-debian-stretch-20210902-slim
 20.0.3-debian-stretch-20200224
@@ -2613,6 +2628,7 @@
 20.0.2-ubuntu-trusty-20191217
 20.0.2-debian-bullseye-20210902-slim
 20.0.2-debian-bullseye-20210902
+20.0.2-debian-buster-20210902-slim
 20.0.2-debian-buster-20200224
 20.0.2-debian-stretch-20210902-slim
 20.0.2-debian-stretch-20200224
@@ -2627,6 +2643,7 @@
 20.0.1-ubuntu-trusty-20191217
 20.0.1-debian-bullseye-20210902-slim
 20.0.1-debian-bullseye-20210902
+20.0.1-debian-buster-20210902-slim
 20.0.1-debian-buster-20200224
 20.0.1-debian-stretch-20210902-slim
 20.0.1-debian-stretch-20200224
@@ -2641,6 +2658,7 @@
 20.0-rc2-ubuntu-trusty-20191217
 20.0-rc2-debian-bullseye-20210902-slim
 20.0-rc2-debian-bullseye-20210902
+20.0-rc2-debian-buster-20210902-slim
 20.0-rc2-debian-buster-20210326
 20.0-rc2-debian-stretch-20210902-slim
 20.0-rc2-debian-stretch-20210326
@@ -2652,6 +2670,7 @@
 20.0-rc1-ubuntu-trusty-20191217
 20.0-rc1-debian-bullseye-20210902-slim
 20.0-rc1-debian-bullseye-20210902
+20.0-rc1-debian-buster-20210902-slim
 20.0-rc1-debian-buster-20210326
 20.0-rc1-debian-stretch-20210902-slim
 20.0-rc1-debian-stretch-20210326
@@ -2663,6 +2682,7 @@
 20.0-ubuntu-trusty-20191217
 20.0-debian-bullseye-20210902-slim
 20.0-debian-bullseye-20210902
+20.0-debian-buster-20210902-slim
 20.0-debian-buster-20200224
 20.0-debian-stretch-20210902-slim
 20.0-debian-stretch-20200224

@@ -9,6 +9,7 @@
 24.2-debian-buster-20210902
 24.2-debian-stretch-20210902-slim
 24.2-debian-stretch-20210902
+24.2-alpine-3.15.0
 24.2-alpine-3.14.2
 24.2-alpine-3.13.6
 24.1.7-ubuntu-groovy-20210325
@@ -22,6 +23,7 @@
 24.1.7-debian-buster-20210902
 24.1.7-debian-stretch-20210902-slim
 24.1.7-debian-stretch-20210902
+24.1.7-alpine-3.15.0
 24.1.7-alpine-3.14.2
 24.1.7-alpine-3.13.6
 24.1.6-ubuntu-groovy-20210325
@@ -35,6 +37,7 @@
 24.1.6-debian-buster-20210902
 24.1.6-debian-stretch-20210902-slim
 24.1.6-debian-stretch-20210902
+24.1.6-alpine-3.15.0
 24.1.6-alpine-3.14.2
 24.1.6-alpine-3.13.6
 24.1.5-ubuntu-groovy-20210325
@@ -48,6 +51,7 @@
 24.1.5-debian-buster-20210902
 24.1.5-debian-stretch-20210902-slim
 24.1.5-debian-stretch-20210902
+24.1.5-alpine-3.15.0
 24.1.5-alpine-3.14.2
 24.1.5-alpine-3.13.6
 24.1.4-ubuntu-groovy-20210325
@@ -89,6 +93,7 @@
 24.1.2-debian-buster-20210902
 24.1.2-debian-stretch-20210902-slim
 24.1.2-debian-stretch-20210902
+24.1.2-alpine-3.15.0
 24.1.2-alpine-3.14.2
 24.1.2-alpine-3.13.6
 24.1.1-ubuntu-groovy-20210325
@@ -102,6 +107,7 @@
 24.1.1-debian-buster-20210902
 24.1.1-debian-stretch-20210902-slim
 24.1.1-debian-stretch-20210902
+24.1.1-alpine-3.15.0
 24.1.1-alpine-3.14.0
 24.1.1-alpine-3.13.5
 24.1-ubuntu-groovy-20210325
@@ -115,6 +121,7 @@
 24.1-debian-buster-20210902
 24.1-debian-stretch-20210902-slim
 24.1-debian-stretch-20210902
+24.1-alpine-3.15.0
 24.1-alpine-3.14.0
 24.1-alpine-3.13.5
 24.0.6-ubuntu-groovy-20210325

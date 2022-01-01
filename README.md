@@ -1,4 +1,4 @@
-# Bob Docker List
+# Bob Docker List (DISABLED - lists are not auto updated anymore. Feel free to fork and remember to turn on the Github actions.
 
 This app collects docker tags for Erlang and Elixir repos.
 
